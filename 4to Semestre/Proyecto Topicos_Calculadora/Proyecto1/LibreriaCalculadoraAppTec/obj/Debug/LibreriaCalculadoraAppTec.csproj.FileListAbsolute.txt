@@ -1,6 +1,0 @@
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyecto Topicos_Calculadora\LibreriaCalculadoraAppTec\LibreriaCalculadoraAppTec\bin\Debug\LibreriaCalculadoraAppTec.dll
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyecto Topicos_Calculadora\LibreriaCalculadoraAppTec\LibreriaCalculadoraAppTec\bin\Debug\LibreriaCalculadoraAppTec.pdb
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyecto Topicos_Calculadora\LibreriaCalculadoraAppTec\LibreriaCalculadoraAppTec\obj\Debug\LibreriaCalculadoraAppTec.csproj.AssemblyReference.cache
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyecto Topicos_Calculadora\LibreriaCalculadoraAppTec\LibreriaCalculadoraAppTec\obj\Debug\LibreriaCalculadoraAppTec.csproj.CoreCompileInputs.cache
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyecto Topicos_Calculadora\LibreriaCalculadoraAppTec\LibreriaCalculadoraAppTec\obj\Debug\LibreriaCalculadoraAppTec.dll
-C:\Users\lopez\OneDrive\Escritorio\4to Semestre\Proyecto Topicos_Calculadora\LibreriaCalculadoraAppTec\LibreriaCalculadoraAppTec\obj\Debug\LibreriaCalculadoraAppTec.pdb
