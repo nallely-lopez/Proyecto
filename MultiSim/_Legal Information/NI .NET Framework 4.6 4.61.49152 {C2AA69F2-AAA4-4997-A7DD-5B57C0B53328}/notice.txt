@@ -1,0 +1,22 @@
+﻿NI .NET Framework 4
+
+This product uses the following technologies licensed under the corresponding licenses.
+
+****************************************
+
+DOCUMENTATION NOTICE FOR NATIONAL INSTRUMENTS SOFTWARE
+
+This product is licensed to you by National Instruments pursuant to the applicable National Instruments software license agreement.
+
+****************************************
+
+DOCUMENTATION NOTICE FOR THE MICROSOFT .NET FRAMEWORK 4.5.2 SUPPLEMENTAL LICENSE TERMS
+
+This product includes code from the Microsoft .NET Framework 4.5.2, licensed by a third party or parties pursuant to the Microsoft .NET Framework 4.5.2 Supplemental License Terms, which can be found at "..\..\Shared\MDF\Legal\license\DotNet452".
+
+
+****************************************
+
+DOCUMENTATION NOTICE FOR THE MICROSOFT .NET FRAMEWORK 4.6.1 SUPPLEMENTAL LICENSE TERMS
+
+This product includes code from the Microsoft .NET Framework 4.6.1, licensed by a third party or parties pursuant to the Microsoft .NET Framework 4.6.1 Supplemental License Terms, which can be found at "..\..\Shared\MDF\Legal\license\DotNet461".

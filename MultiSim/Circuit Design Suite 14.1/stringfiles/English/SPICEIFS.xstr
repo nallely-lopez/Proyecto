@@ -1,0 +1,80 @@
+﻿// Multisim string file
+// This file is assumed to be UTF-8
+eng:%s might not be properly connected
+loc:%s might not be properly connected
+eng:%s simulation interrupted\n
+loc:%s simulation interrupted\n
+eng:%s simulation(s) canceled\n
+loc:%s simulation(s) canceled\n
+eng:Do Analyses
+loc:Do Analyses
+eng:Fourier analysis for %s:\n
+loc:Fourier analysis for %s:\n
+eng:Frequency
+loc:Frequency
+eng:Input impedance
+loc:Input impedance
+eng:Input or output shorted
+loc:Input or output shorted
+eng:LIST pole: (%g,%g) x %d
+loc:LIST pole: (%g,%g) x %d
+eng:LIST zero: (%g,%g) x %d
+loc:LIST zero: (%g,%g) x %d
+eng:Losing old state for circuit '%s'\n
+loc:Losing old state for circuit '%s'\n
+eng:Magnitude
+loc:Magnitude
+eng:No such circuit \n
+loc:No such circuit \n
+eng:Norm. Mag
+loc:Norm. Mag
+eng:Norm. Phase
+loc:Norm. Phase
+eng:Output impedance
+loc:Output impedance
+eng:Output impedance at %s
+loc:Output impedance at %s
+eng:Phase
+loc:Phase
+eng:Resuming run in progress.\n
+loc:Resuming run in progress.\n
+eng:Simulation canceled\n
+loc:Simulation canceled\n
+eng:Singular matrix. %s
+loc:Singular matrix. %s
+eng:Singular matrix. %s. <a href="http://digital.ni.com/express.nsf/bycode/exjh9e" target="_blank">Read more</a>.
+loc:Singular matrix. %s. <a href="http://digital.ni.com/express.nsf/bycode/exjh9e" target="_blank">Read more</a>.
+eng:Transfer function
+loc:Transfer function
+eng:Transfer function is -1
+loc:Transfer function is -1
+eng:Transfer function is unity
+loc:Transfer function is unity
+eng:Transfer function operating point analysis failed.
+loc:Transfer function operating point analysis failed.
+eng:Transfer function source %s not in circuit
+loc:Transfer function source %s not in circuit
+eng:Transmission lines not supported by pole-zero
+loc:Transmission lines not supported by pole-zero
+eng:Unable to converge during transient analysis. Consider increasing the ABSTOL, VNTOL, and RELTOL options.
+loc:Unable to converge during transient analysis. Consider increasing the ABSTOL, VNTOL, and RELTOL options.
+eng:Unable to converge during transient analysis. Consider increasing the ABSTOL, VNTOL, and RELTOL options. <a href="http://digital.ni.com/express.nsf/bycode/exv9db" target="_blank">Read more</a>
+loc:Unable to converge during transient analysis. Consider increasing the ABSTOL, VNTOL, and RELTOL options. <a href="http://digital.ni.com/express.nsf/bycode/exv9db" target="_blank">Read more</a>
+eng:\tDC component:\t%s\n
+loc:\tDC component:\t%s\n
+eng:\tFourier analysis for\t%s\n
+loc:\tFourier analysis for\t%s\n
+eng:\tGrid size:\t%d\n
+loc:\tGrid size:\t%d\n
+eng:\tHarmonic\t%s\t%s\t%s\t%s\t%s\n
+loc:\tHarmonic\t%s\t%s\t%s\t%s\t%s\n
+eng:\tInterpolation Degree:\t%d\n
+loc:\tInterpolation Degree:\t%d\n
+eng:\tNo. Harmonics:\t%d\n
+loc:\tNo. Harmonics:\t%d\n
+eng:\tTHD:\t%g %%\n
+loc:\tTHD:\t%g %%\n
+eng:pole(%-u)
+loc:pole(%-u)
+eng:zero(%-u)
+loc:zero(%-u)

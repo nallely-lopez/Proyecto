@@ -1,0 +1,5148 @@
+﻿// Multisim string file
+// This file is assumed to be UTF-8
+eng:1-text, 2-graph, 3-both
+loc:1: Text, 2: Grafik, 3: Beides
+eng:1st-order temperature coefficient
+loc:Temperaturkoeffizient erster Ordnung
+eng:2g6 compatible SPICE card coefficient list
+loc:Liste der Koeffizienten für SPICE2G6-kompatible Karten
+eng:2nd-order temperature coefficient
+loc:Temperaturkoeffizient zweiter Ordnung
+eng:3rd parameter for Vth shift due to pocket
+loc:3. Parameter für Uth-Verschiebung durch Tasche (Pocket)
+eng:4th parameter for Vth shift due to pocket
+loc:4. Parameter für Uth-Verschiebung durch Tasche (Pocket)
+eng:5th parameter for Vth shift due to pocket
+loc:5. Parameter für Uth-Verschiebung durch Tasche (Pocket)
+eng:6th parameter for Vth shift due to pocket
+loc:6. Parameter für Uth-Verschiebung durch Tasche (Pocket)
+eng:A character code
+loc:Zeichencode
+eng:AC NQS model selector
+loc:Auswahl für nicht-quasistationäres AC-Modell
+eng:AC imaginary part
+loc:AC-Imaginärteil
+eng:AC magnitude
+loc:AC-Amplitude
+eng:AC magnitude,phase vector
+loc:Vektor aus AC-Amplitude und -Phase
+eng:AC phase
+loc:AC-Phase
+eng:AC real part
+loc:AC-Realteil
+eng:AC sensitivity
+loc:AC-Empfindlichkeit
+eng:AC sensitivity with respect to length
+loc:AC-Empfindlichkeit in Bezug auf die Länge
+eng:AC sensitivity with respect to width
+loc:AC-Empfindlichkeit in Bezug auf die Breite
+eng:AKO model: absolute temperature
+loc:AKO-Modell: Absolute Temperatur
+eng:AKO model: parameter measurement temperature
+loc:AKO-Modell: Parametermesstemperatur
+eng:AKO model: relative to AKO model temperature
+loc:AKO-Modell: relativ zur AKO-Modell-Temperatur
+eng:AKO model: relative to current global temperature
+loc:AKO-Modell: relativ zur aktuellen globalen Temperatur
+eng:Absolute error tolerance
+loc:Absolute Fehlertoleranz
+eng:Absolute rate of change of derivative for bkpt
+loc:Absolute Änderungsrate der Ableitung von bkpt
+eng:Absolute step allowed by code model inputs between iterations
+loc:Absolute zulässige Schrittweite für die Eingabe in Codemodelle zwischen Iterationen
+eng:Absolute temperature
+loc:Absolute Temperatur
+eng:Abulk narrow width parameter
+loc:ABulk-Verengungsparameter
+eng:Accepted timepoints
+loc:Akzeptierte Zeitpunkte
+eng:Activation energy
+loc:Aktivierungsenergie
+eng:Activation energy for IBCI/IBEIP
+loc:Aktivierungsenergie für IBCI/IBEIP
+eng:Activation energy for IBCIP
+loc:Aktivierungsenergie für IBCIP
+eng:Activation energy for IBCN/IBENP
+loc:Aktivierungsenergie für IBCN/IBENP
+eng:Activation energy for IBCNP
+loc:Aktivierungsenergie für IBCNP
+eng:Activation energy for IBEI
+loc:Aktivierungsenergie für IBEI
+eng:Activation energy for IBEN
+loc:Aktivierungsenergie für IBEN
+eng:Activation energy for IS
+loc:Aktivierungsenergie für IS
+eng:Address line load value (f)
+loc:Lastwert der Adressleitung (f)
+eng:Adjusting parameter for surface potential due to nonuniform vertical doping
+loc:Anpassungsparameter für das Oberflächenpotential durch ungleichmäßige vertikale Dotierung
+eng:Allow bypass of unchanging elements
+loc:Überbrücken unveränderter Elemente möglich
+eng:Alternative timepoints
+loc:Alternative Zeitpunkte
+eng:Always limit timestep to 0.8*(delay of line)
+loc:Zeitschritt immer auf 0,8*(Leitungsverzögerung) beschränken
+eng:Amplitude
+loc:Amplitude
+eng:Analog output for 'HI_IMPEDANCE' digital input
+loc:Analogausgabe für Digitaldaten des Typs 'HI_IMPEDANCE'
+eng:Analog output for 'Resistive' digital input
+loc:Analogausgabe für Digitaldaten des Typs 'Resistive'
+eng:Analog output for 'Strong' digital input
+loc:Analogausgabe für Digitaldaten des Typs 'Strong'
+eng:Analog output for 'UNDETERMINED' digital input
+loc:Analogausgabe für Digitaldaten des Typs 'UNDETERMINED'
+eng:Analog output for 'one' digital input
+loc:Analogausgabe für Digitaldaten des Typs 'Eins'
+eng:Analog output for 'undefined' digital input
+loc:Analogausgabe für Digitaldaten des Typs 'Undefiniert'
+eng:Analog output for 'zero' digital input
+loc:Analogausgabe für Digitaldaten des Typs 'Null'
+eng:Analog output for high-impedance mode
+loc:Analagausgabe für den Modus 'hohe Impedanz'
+eng:Analog output for non-high-impedance mode
+loc:Analagausgabe für andere Modi als 'hohe Impedanz'
+eng:Analysis at DC
+loc:Analyse bei DC
+eng:Animation name
+loc:Name der Animation
+eng:Area factor
+loc:Bereichsfaktor
+eng:Assembly source
+loc:Assembly-Quelle
+eng:Automatically calculate initial conditions
+loc:Anfangsbedingungen automatisch berechnen
+eng:Automatically calculate the tmax
+loc:Automatisch tmax berechnen
+eng:Automatically calculate the tstep
+loc:Automatisch tstep berechnen
+eng:B-C built in potential
+loc:BC-Diffusionsspannung
+eng:B-C capacitance smoothing factor
+loc:Glättungsfaktor der BC-Kapazität
+eng:B-C extrinsic zero-bias capacitance
+loc:Extrinsische BC-Sperrschichtkapazität bei 0 V Vorspannung
+eng:B-C junction exponential factor
+loc:Exponentialfaktor der BC-Sperrschicht
+eng:B-C junction grading coefficient
+loc:Kapazitätskoeffizient der BC-Sperrschicht
+eng:B-C leakage emission coefficient
+loc:BC-Sperr-Emissionskoeffizient
+eng:B-C leakage saturation current
+loc:BC-Sperrsättigungsstrom
+eng:B-C voltage
+loc:B-C-Spannung
+eng:B-C weak avalanche parameter 1
+loc:Parameter 1 für schwache BC-Lawinenmultiplikation
+eng:B-C weak avalanche parameter 2
+loc:Parameter 2 für schwache BC-Lawinenmultiplikation
+eng:B-C zero-bias depletion capacitance
+loc:BC-Sperrschichtkapazität bei 0 V Vorspannung
+eng:B-D junction current
+loc:Substrat-Drain-Strom
+eng:B-E Flicker Noise 1/f dependence
+loc:1/f-Abhängigkeit des BE-Funkelrauschens
+eng:B-E Flicker Noise Coefficient
+loc:BE-Funkelrauschkoeffizient
+eng:B-E Flicker Noise Exponent
+loc:BE-Funkelrauschexponent
+eng:B-E breakdown current
+loc:BE-Durchbruchstrom
+eng:B-E breakdown emission coefficient
+loc:BE-Durchbruch-Emissionskoeffizient
+eng:B-E breakdown voltage
+loc:BE-Durchbruchspannung
+eng:B-E built in potential
+loc:BE-Diffusionsspannung
+eng:B-E capacitance smoothing factor
+loc:Glättungsfaktor der BE-Kapazität
+eng:B-E junction exponential factor
+loc:Exponentialfaktor der BE-Sperrschicht
+eng:B-E junction grading coefficient
+loc:Kapazitätskoeffizient der BE-Sperrschicht
+eng:B-E leakage emission coefficient
+loc:(BE-Leck) Emissionskoeffizient der nichtidealen Diode
+eng:B-E leakage saturation current
+loc:(BE-Leck) Sättigungsstrom der nichtidealen Diode
+eng:B-E voltage
+loc:B-E-Spannung
+eng:B-E zero-bias depletion capacitance
+loc:BE-Sperrschichtkapazität bei 0 V Vorspannung
+eng:B-S junction current
+loc:Substrat-Source-Strom
+eng:BETA exponential temperature coefficient
+loc:Exponentieller Temperaturkoeffizient von BETA
+eng:BJT injection saturation current
+loc:Sättigungsstrom für BJT-Ladungsinjektion
+eng:BJT on/off flag
+loc:BJT-Flag
+eng:BV linear temperature coefficient
+loc:Durchbruchspannungs-Temperaturkoeffizient (linear)
+eng:BV quadratic temperature coefficient
+loc:Durchbruchspannungs-Temperaturkoeffizient (quadratisch)
+eng:Back scattering parameter
+loc:Rückstreuungsparameter
+eng:Backgate oxide thickness in meters
+loc:Backgate-Oxiddicke in Metern
+eng:Bandgap of substrate at T=0K
+loc:Substrat-Bandabstand bei T=0K
+eng:Bandwidth concerned
+loc:Betroffene Bandbreite
+eng:Base current
+loc:Basisstrom
+eng:Base to collector capacitance
+loc:Basis-Kollektor-Kapazität
+eng:Baud rate (bps)
+loc:Baudrate (b/s)
+eng:Bias-dependent source/drain resistance model selector
+loc:Auswahl für Modell für vorspannungsabhängigen Source/Drain-Widerstand
+eng:Bin unit selector
+loc:Auswahl für die Intervalleinheit
+eng:Body R model selector
+loc:Modell für den Substratkörperwiderstand
+eng:Body effect coefficient of k3
+loc:Body-Effekt-Koeffizient von k3
+eng:Body effect parameter
+loc:Substrateffekt-Parameter
+eng:Body halo sheet resistance
+loc:Flächenwiderstand des Halo-Implantats im Substratkörper
+eng:Body resistance
+loc:Substratwiderstand
+eng:Body resistance RBDBX scaling
+loc:Skalierung des RBDBX-Parameters für den Substratwiderstand
+eng:Body resistance RBDBY scaling
+loc:Skalierung des RBDBY-Parameters für den Substratwiderstand
+eng:Body resistance RBPBX L scaling
+loc:Skalierung des RBPBX-L-Parameters für den Substratwiderstand
+eng:Body resistance RBPBX NF scaling
+loc:Skalierung des RBPBX-NF-Parameters für den Substratwiderstand
+eng:Body resistance RBPBX W scaling
+loc:Skalierung des RBPBX-W-Parameters für den Substratwiderstand
+eng:Body resistance RBPBX scaling
+loc:Skalierung des RBPBX-Parameters für den Substratwiderstand
+eng:Body resistance RBPBY L scaling
+loc:Skalierung des RBPBY-L-Parameters für den Substratwiderstand
+eng:Body resistance RBPBY NF scaling
+loc:Skalierung des RBPBY-NF-Parameters für den Substratwiderstand
+eng:Body resistance RBPBY W scaling
+loc:Skalierung des RBPBY-W-Parameters für den Substratwiderstand
+eng:Body resistance RBPBY scaling
+loc:Skalierung des RBPBY-Parameters für den Substratwiderstand
+eng:Body resistance RBPD L scaling
+loc:Skalierung des RBPD-L-Parameters für den Substratwiderstand
+eng:Body resistance RBPD NF scaling
+loc:Skalierung des RBPD-NF-Parameters für den Substratwiderstand
+eng:Body resistance RBPD W scaling
+loc:Skalierung des RBPD-W-Parameters für den Substratwiderstand
+eng:Body resistance RBPD scaling
+loc:Skalierung des RBPD-Parameters für den Substratwiderstand
+eng:Body resistance RBPS L scaling
+loc:Skalierung des RBPS-L-Parameters für den Substratwiderstand
+eng:Body resistance RBPS NF scaling
+loc:Skalierung des RBPS-NF-Parameters für den Substratwiderstand
+eng:Body resistance RBPS W scaling
+loc:Skalierung des RBPS-W-Parameters für den Substratwiderstand
+eng:Body resistance RBPS scaling
+loc:Skalierung des RBPS-Parameters für den Substratwiderstand
+eng:Body resistance RBSBX scaling
+loc:Skalierung des RBSBX-Parameters für den Substratwiderstand
+eng:Body resistance RBSBY scaling
+loc:Skalierung des RBSBY-Parameters für den Substratwiderstand
+eng:Body resistance RBSDBX L scaling
+loc:Skalierung des RBSDBX-L-Parameters für den Substratwiderstand
+eng:Body resistance RBSDBX NF scaling
+loc:Skalierung des RBSDBX-NF-Parameters für den Substratwiderstand
+eng:Body resistance RBSDBX W scaling
+loc:Skalierung des RBSDBX-W-Parameters für den Substratwiderstand
+eng:Body resistance RBSDBY L scaling
+loc:Skalierung des RBSDBY-L-Parameters für den Substratwiderstand
+eng:Body resistance RBSDBY NF scaling
+loc:Skalierung des RBSDBY-NF-Parameters für den Substratwiderstand
+eng:Body resistance RBSDBY W scaling
+loc:Skalierung des RBSDBY-W-Parameters für den Substratwiderstand
+eng:Body to source/drain injection saturation current
+loc:Sättigungsstrom der Substrat-Source/Drain-Injektion
+eng:Body-bias coefficient of nonuniform depletion width effect
+loc:Bulk-Vorspannungskoeffizient für uneinheitliche Verarmungsbreite
+eng:Body-bias dependence of cdsc
+loc:Bulk-Vorspannungsabhängigkeit von cdsc
+eng:Body-bias dependence of mobility
+loc:Bulk-Spannungsabhängigkeit der Ladungsträgerbeweglichkeit
+eng:Body-coefficient of kt1
+loc:Body-Koeffizient von kt1
+eng:Body-effect on drain-induced barrier lowering
+loc:Einfluss des Substrateffekts auf die Barrierendegradation
+eng:Body-effect on parasitic resistance
+loc:Einfluss des Substrateffekts auf den parasitären Widerstand
+eng:Bottom drain junction reverse saturation current density
+loc:Sperrsättigungsstromdichte der Drain-Bodenschicht
+eng:Bottom grading coefficient
+loc:Kapazitätskoeffizient der Bodenfläche
+eng:Bottom junction capacitance per area
+loc:Kapazität der Bodenfläche
+eng:Bottom p-n capacitance per area
+loc:Bodenschicht-pn-Kapazität pro Fläche
+eng:Bottom p-n grading coefficient
+loc:Bodenschicht-pn-Kapazitätskoeffizient
+eng:Bottom source junction reverse saturation current density
+loc:Sperrsättigungsstromdichte der Source-Bodenschicht
+eng:Breakdown current
+loc:Durchschlagstrom
+eng:Breakdown resistance
+loc:Durchschlagfestigkeit
+eng:Breakdown voltage
+loc:Durchschlagspannung
+eng:Breakpoint control
+loc:Haltepunktsteuerung
+eng:Built-in EEPROM size (bytes)
+loc:Größe des integrierten EEPROMs (in Byte)
+eng:Built-in external RAM size (bytes)
+loc:Integrierter externer RAM (in Byte)
+eng:Bulk Fermi potential
+loc:Fermi-Potential des Substrats
+eng:Bulk P-N emission coefficient
+loc:Bulk-pn-Emissionskoeffizient
+eng:Bulk P-N saturation sidewall current/length
+loc:Bulk-pn-Sättigungsstrom pro Seitenlänge
+eng:Bulk P-N sidewall potential
+loc:Bulk-pn-Seiten-Potential
+eng:Bulk current
+loc:Substratstrom
+eng:Bulk effect coefficient 1
+loc:Koeffizient 1 für den Bulk-Effekt
+eng:Bulk effect coefficient 2
+loc:Koeffizient 2 für den Bulk-Effekt
+eng:Bulk junction potential
+loc:Substratpotential
+eng:Bulk junction saturation current
+loc:Substrat-Sperrsättigungsstrom
+eng:Bulk junction saturation current density
+loc:Substrat-Sperrsättigungsstromdichte
+eng:Bulk ohmic resistance
+loc:Ohmscher Substratwiderstand
+eng:Bulk p-n bottom saturation current per area
+loc:Bulk-pn-Bodenflächen-Sättigungsstrom
+eng:Bulk p-n junction potential
+loc:Potential der Bulk-pn-Sperrschicht
+eng:Bulk p-n saturation current
+loc:Bulk-pn-Sättigungsstrom
+eng:Bulk p-n sidewall saturation current per length
+loc:Bulk-pn-Seitenflächen-Sättigungsstrom pro Länge
+eng:Bulk p-n transit time
+loc:Bulk-pn-Transitzeit
+eng:Bulk resistance
+loc:Substratwiderstand
+eng:Bulk sidewall p-n junction potential
+loc:Potential der Bulk-Seitenwand-pn-Sperrschicht
+eng:Bulk threshold parameter
+loc:Substrat-Steuerfaktor
+eng:Bulk threshold parameter 1
+loc:Bulk-Schwellenparameter 1
+eng:Bulk-drain capacitance
+loc:Bulk-Drain-Kapazität
+eng:Bulk-drain charge storage
+loc:Bulk-Drain-Ladungsspeicherung
+eng:Bulk-drain conductance
+loc:Bulk-Drain-Leitwert
+eng:Bulk-drain junction capacitance
+loc:Null-Bulk-Drain-Sperrschichtkapazität
+eng:Bulk-drain p-n capacitance
+loc:Bulk-Drain-pn-Kapazität
+eng:Bulk-drain voltage
+loc:Substrat-Drain-Spannung
+eng:Bulk-source capacitance
+loc:Bulk-Source-Kapazität
+eng:Bulk-source charge storage
+loc:Bulk-Source-Ladungsspeicherung
+eng:Bulk-source conductance
+loc:Bulk-Source-Leitwert
+eng:Bulk-source junction capacitance
+loc:Null-Bulk-Source-Sperrschichtkapazität
+eng:Bulk-source p-n capacitance
+loc:Bulk-Source-pn-Kapazität
+eng:Bulk-source transconductance
+loc:Bulk-Source-Steigung
+eng:Bulk-source voltage
+loc:Substrat-Source-Spannung
+eng:C-V lateral-shift parameter
+loc:CV-Parameter für seitlichen Versatz
+eng:C-V turn-on/off parameter
+loc:CV-Ein-/Ausschaltparameter
+eng:CCCS output current
+loc:Ausgangsstrom der stromgest. Stromquelle
+eng:CCCS power
+loc:Leistung der stromgest. Stromquelle
+eng:CCCS voltage at output
+loc:Ausgangsspannung der stromgest. Stromquelle
+eng:CCVS output current
+loc:Ausgangsstrom der stromgest. Spannungsquelle
+eng:CCVS output voltage
+loc:Ausgangsspannung der stromgest. Spannungsquelle
+eng:CCVS power
+loc:Leistung der stromgest. Spannungsquelle
+eng:CE use high_level/falling_edge trigger
+loc:CE-Trigger ist hoher Pegel/fallende Flanke
+eng:CPU architecture
+loc:CPU-Architektur
+eng:CPU part identifier
+loc:CPU-Bauelement-ID
+eng:CPU program ROM file name
+loc:ROM-Dateiname für CPU-Programm
+eng:CV Threshold voltage offset
+loc:CV-Schwellenspannungsoffset
+eng:Capacitance
+loc:Kapazität
+eng:Capacitance Charge model selector
+loc:Auswahl für Kondensatorladungsmodell
+eng:Capacitance connected to input node
+loc:Kapazität des Eingangsknotens
+eng:Capacitance due to bulk-drain charge storage
+loc:Kapazität aufgrund von Bulk-Drain-Ladungsspeicherung
+eng:Capacitance due to bulk-source charge storage
+loc:Kapazität aufgrund von Bulk-Source-Ladungsspeicherung
+eng:Capacitance due to charge storage gate-drain junction
+loc:Kapazität aufgrund von Gate-Drain-Ladungsspeicherung
+eng:Capacitance due to charge storage gate-source junction
+loc:Kapazität aufgrund von Gate-Source-Ladungsspeicherung
+eng:Capacitance due to charge storage in B-C junction
+loc:Kapazität aufgrund der Ladungsspeicherung an der B-C-Sperrschicht
+eng:Capacitance due to charge storage in B-E junction
+loc:Kapazität aufgrund der Ladungsspeicherung an der B-E-Sperrschicht
+eng:Capacitance due to charge storage in B-X junction
+loc:Kapazität aufgrund der Ladungsspeicherung an der B-X-Sperrschicht
+eng:Capacitance due to charge storage in C-S junction
+loc:Kapazität aufgrund der Ladungsspeicherung an der C-S-Sperrschicht
+eng:Capacitance due to gate-bulk charge storage
+loc:Kapazität aufgrund von Gate-Bulk-Ladungsspeicherung
+eng:Capacitance due to gate-drain charge storage
+loc:Kapazität aufgrund von Gate-Drain-Ladungsspeicherung
+eng:Capacitance due to gate-source charge storage
+loc:Kapazität aufgrund von Gate-Source-Ladungsspeicherung
+eng:Capacitance limiting voltage
+loc:Kapazitätsbegrenzungsspannung
+eng:Capacitance model selector
+loc:Auswahl für Kapazitätsmodell
+eng:Capacitance per meter
+loc:Kapazität pro Meter
+eng:Capacitance per unit length
+loc:Kapazität pro Längeneinheit
+eng:Capacitance scale factor
+loc:Skalierungsfaktor der Kapazität
+eng:Capacitance transition voltage
+loc:Kapazitätsübergangsspannung
+eng:Capacitive input load (f)
+loc:Kapazitive Eingangslast (f)
+eng:Capacitor charge
+loc:Kondensatorladung
+eng:Carrier mobility knee voltage
+loc:Kniespannung der Ladungsträgerbeweglichkeit
+eng:Change relative to global temperature
+loc:Änderung relativ zur globalen Temperatur
+eng:Channel charge partitioning
+loc:Ladungsträgerverteilung des Kanals
+eng:Channel doping concentration
+loc:Konzentration der Kanaldotierung
+eng:Channel doping concentration at the depletion edge
+loc:Kanaldotierungskonzentration am Rand des Verarmungsbereichs
+eng:Channel group number
+loc:Kanalgruppennummer
+eng:Channel length correction
+loc:Kanallängenkorrektur
+eng:Channel length dependence of Early voltage for bipolar current
+loc:Kanallängenabhängigkeit der Early-Spannung für bipolaren Strom
+eng:Channel length dependent parameter at threshold for impact ionization current
+loc:Kanllängenabhängiger Parameter am Schwellwert für den Stoßionisationsstrom
+eng:Channel length exponential factor of mobility
+loc:Exponentieller Kanallängenfaktor für die Ladungsträgerbeweglichkeit
+eng:Channel length linear factor of mobility
+loc:Linearer Kanallängenfaktor für die Ladungsträgerbeweglichkeit
+eng:Channel length modulation
+loc:Kanallängenmodulation
+eng:Channel length modulation Coefficient
+loc:Kanallängen-Modulationskoeffizient
+eng:Channel length modulation parameter
+loc:Kanallängen-Modulationsparameter
+eng:Channel length modulation parameter 0
+loc:Kanallängen-Modulationsparameter 0
+eng:Channel length modulation parameter 1
+loc:Kanallängen-Modulationsparameter 1
+eng:Channel length reduction in um
+loc:Verkürzung des Kanals in um
+eng:Channel shot noise coefficient (used with NLEV=3)
+loc:Rauschkoeffizient für Channel-SHOTs (mit NLEV=3 verwendet)
+eng:Channel width correction
+loc:Kanalbreitenkorrektur
+eng:Channel width reduction in um
+loc:Verengung des Kanals in um
+eng:Channel-length dependence coefficient of diffusion capacitance
+loc:Koeffizient für die Kanallängenabhängigkeit der Diffusionskapazität
+eng:Character attribute mode(0-no, 1-yes)
+loc:Zeichenattributmodus (0: Nein, 1: Ja)
+eng:Character mode(0-internal, 1-external)
+loc:Zeichenmodus (0: intern, 1: extern)
+eng:Character operate mode(0-or, 1-xor, 3-and)
+loc:Zeichenverknüpfungsart (0: ODER, 1: XOR, 3: UND)
+eng:Character set matrix pointer high (16 bits)
+loc:Zeichensatzmatrix-Zeiger (höchste 16 Bits)
+eng:Character set matrix pointer low (16 bits)
+loc:Zeichensatzmatrix-Zeiger (niedrigste 16 Bits)
+eng:Character set mode
+loc:Zeichensatzmodus
+eng:Character set sub mode
+loc:Zeichensatz-Untermodus
+eng:Characteristic impedance
+loc:Charakteristische Impedanz
+eng:Charge centroid parameter
+loc:Ladungsschwerpunktparameter
+eng:Charge error tolerance
+loc:Ladungsfehlertoleranz
+eng:Charge storage B-C junction
+loc:Ladungsspeicherung an der BC-Sperrschicht
+eng:Charge storage B-E junction
+loc:Ladungsspeicherung an der BE-Sperrschicht
+eng:Charge storage B-X junction
+loc:Ladungsspeicherung an der BX-Sperrschicht
+eng:Charge storage C-S junction
+loc:Ladungsspeicherung an der CS-Sperrschicht
+eng:Charge storage gate-drain junction
+loc:Ladungsspeicherung am Gate-Drain-Übergang
+eng:Charge storage gate-source junction
+loc:Ladungsspeicherung am Gate-Source-Übergang
+eng:Chars in a column
+loc:Zeichen pro Spalte
+eng:Chars in a line
+loc:Zeichen pro Zeile
+eng:Chip behavior description
+loc:Beschreibung des Chip-Verhaltens
+eng:Chirp source
+loc:Chirp-Quelle
+eng:Circuit Equations
+loc:Schaltungsgleichungen
+eng:Clear display
+loc:Anzeigeinhalt löschen
+eng:Clock delay
+loc:Taktverzögerung
+eng:Clock frequency
+loc:Taktfrequenz
+eng:Clock load value (f)
+loc:Taktlastwert (f)
+eng:Clock loading capacitance (f)
+loc:Takt-Belastungskapazität (f)
+eng:Clock trigger value
+loc:Taktsignal-Triggerwert
+eng:Closed conductance
+loc:Leitwert (geschlossen)
+eng:Closed resistance
+loc:Widerstand (geschlossen)
+eng:Coefficient for SCB
+loc:Koeffizient für SCB
+eng:Coefficient for SCC
+loc:Koeffizient für SCC
+eng:Coefficient for bias dependence of TF
+loc:Koeffizient für die Spannungsabhängigkeit von TF
+eng:Coefficient for drain-induced Vth shifts
+loc:Koeffizient für die von Drain verursachten Uth-Änderungen
+eng:Coefficient for forward-bias depletion capacitance formula
+loc:Koeffizient für Sperrschichtkapazität im Durchlassbereich
+eng:Coefficient for gate-bias dependent surface potential
+loc:Koeffizient für das gatespannungsabhängige Oberflächenpotential
+eng:Coefficient for the gate-bias dependent surface potential
+loc:Koeffizient für das gatespannungsabhängige Oberflächenpotential
+eng:Coefficient for the gate-bias dependent surface potential in FD
+loc:Koeffizient für das gatespannungsabhängige Oberflächenpotential bei vollständiger Verarmung
+eng:Coefficients for the function
+loc:Koeffizienten für die Funktion
+eng:Coefficients of the source
+loc:Koeffizienten der Quelle
+eng:Collector conductance
+loc:Kollektorleitwert
+eng:Collector current
+loc:Kollektorstrom
+eng:Collector resistance
+loc:Kollektorbahnwiderstand
+eng:Collector to substrate capacitance
+loc:Kollektor-Substrat-Kapazität
+eng:Command data 1
+loc:Befehlsdaten 1
+eng:Command data 2
+loc:Befehlsdaten 2
+eng:Command index in RAM model
+loc:Befehlsindex im RAM-Modell
+eng:Complex array parameter
+loc:Komplexer Array-Parameter
+eng:Complex parameter
+loc:Komplexer Parameter
+eng:Conductance drain-source
+loc:Drain-Source-Leitwert
+eng:Conductance from base to internal base
+loc:Leitwert zwischen Basis und interner Basis
+eng:Conductance gate-drain
+loc:Gate-Drain-Leitwert
+eng:Conductance gate-source
+loc:Gate-Source-Leitwert
+eng:Conductance of bulk
+loc:Subtratleitwert
+eng:Conductance of drain
+loc:Drain-Leitwert
+eng:Conductance of gate
+loc:Gate-Leitwert
+eng:Conductance of source
+loc:Source-Leitwert
+eng:Conductance per meter
+loc:Leitwert pro Meter
+eng:Conductance when closed
+loc:Leitwert in geschlossenem Zustand
+eng:Conductance when open
+loc:Leitwert im geöffneten Zustand
+eng:Connected ports
+loc:Angeschlossene Ports
+eng:Contrast status
+loc:Kontraststatus
+eng:Control 'off' value
+loc:Wert für AUS
+eng:Control 'on' value
+loc:Wert für EIN
+eng:Control array
+loc:Element-Array
+eng:Control in array
+loc:Element in Array
+eng:Controlling voltage source
+loc:Steuernde Spannungsquelle
+eng:Core length
+loc:Kernlänge
+eng:Corner for forward beta high current roll-off
+loc:Vorwärts-Knickstrom bei Hochinjektion
+eng:Corner for reverse beta high current roll-off
+loc:Rückwärts-Knickstrom bei Hochinjektion
+eng:Coulomb scattering factor of mobility
+loc:Coloumb-Streufaktor für die Ladungsträgerbeweglichkeit
+eng:Coulombic scattering exponent
+loc:Exponent für die Coloumb-Streuung
+eng:Coupling coefficient
+loc:Kopplungsfaktor
+eng:Critical drain voltage
+loc:Kritische Drain-Spannung
+eng:Critical field exponent for mobility degradation
+loc:Exponent der für die Beweglichkeitsabnahme kritischen Feldstärke
+eng:Critical field for mobility degradation
+loc:Für die Beweglichkeitsabnahme kritische Feldstärke
+eng:Critical source voltage
+loc:Kritische Source-Spannung
+eng:Cross-sectional area
+loc:Querschnitt
+eng:Cross-term dependence of a0
+loc:Wechselwirkungsabhängigkeit von a0
+eng:Cross-term dependence of a1
+loc:Wechselwirkungsabhängigkeit von a1
+eng:Cross-term dependence of a2
+loc:Wechselwirkungsabhängigkeit von a2
+eng:Cross-term dependence of abjtii
+loc:Wechselwirkungsabhängigkeit von abjtii
+eng:Cross-term dependence of acde
+loc:Wechselwirkungsabhängigkeit von acde
+eng:Cross-term dependence of aely
+loc:Wechselwirkungsabhängigkeit von aely
+eng:Cross-term dependence of agidl
+loc:Wechselwirkungsabhängigkeit von agidl
+eng:Cross-term dependence of agisl
+loc:Wechselwirkungsabhängigkeit von agisl
+eng:Cross-term dependence of ags
+loc:Wechselwirkungsabhängigkeit von ags
+eng:Cross-term dependence of aigbacc
+loc:Wechselwirkungsabhängigkeit von aigbacc
+eng:Cross-term dependence of aigbcp2
+loc:Wechselwirkungsabhängigkeit von aigbcp2
+eng:Cross-term dependence of aigbinv
+loc:Wechselwirkungsabhängigkeit von aigbinv
+eng:Cross-term dependence of aigc
+loc:Wechselwirkungsabhängigkeit von aigc
+eng:Cross-term dependence of aigd
+loc:Wechselwirkungsabhängigkeit von aigd
+eng:Cross-term dependence of aigs
+loc:Wechselwirkungsabhängigkeit von aigs
+eng:Cross-term dependence of aigsd
+loc:Wechselwirkungsabhängigkeit von aigsd
+eng:Cross-term dependence of alpha0
+loc:Wechselwirkungsabhängigkeit von alpha0
+eng:Cross-term dependence of alpha1
+loc:Wechselwirkungsabhängigkeit von alpha1
+eng:Cross-term dependence of alphagb1
+loc:Wechselwirkungsabhängigkeit von alphagb1
+eng:Cross-term dependence of alphagb2
+loc:Wechselwirkungsabhängigkeit von alphagb2
+eng:Cross-term dependence of at
+loc:Wechselwirkungsabhängigkeit von at
+eng:Cross-term dependence of b0
+loc:Wechselwirkungsabhängigkeit von b0
+eng:Cross-term dependence of b1
+loc:Wechselwirkungsabhängigkeit von b1
+eng:Cross-term dependence of beta0
+loc:Wechselwirkungsabhängigkeit von beta0
+eng:Cross-term dependence of beta1
+loc:Wechselwirkungsabhängigkeit von beta1
+eng:Cross-term dependence of beta2
+loc:Wechselwirkungsabhängigkeit von beta2
+eng:Cross-term dependence of betagb1
+loc:Wechselwirkungsabhängigkeit von betagb1
+eng:Cross-term dependence of betagb2
+loc:Wechselwirkungsabhängigkeit von betagb2
+eng:Cross-term dependence of bgidl
+loc:Wechselwirkungsabhängigkeit von bgidl
+eng:Cross-term dependence of bgisl
+loc:Wechselwirkungsabhängigkeit von bgisl
+eng:Cross-term dependence of bigbacc
+loc:Wechselwirkungsabhängigkeit von bigbacc
+eng:Cross-term dependence of bigbcp2
+loc:Wechselwirkungsabhängigkeit von bigbcp2
+eng:Cross-term dependence of bigbinv
+loc:Wechselwirkungsabhängigkeit von bigbinv
+eng:Cross-term dependence of bigc
+loc:Wechselwirkungsabhängigkeit von bigc
+eng:Cross-term dependence of bigd
+loc:Wechselwirkungsabhängigkeit von bigd
+eng:Cross-term dependence of bigs
+loc:Wechselwirkungsabhängigkeit von bigs
+eng:Cross-term dependence of bigsd
+loc:Wechselwirkungsabhängigkeit von bigsd
+eng:Cross-term dependence of cbjtii
+loc:Wechselwirkungsabhängigkeit von cbjtii
+eng:Cross-term dependence of cdsc
+loc:Wechselwirkungsabhängigkeit von cdsc
+eng:Cross-term dependence of cdscb
+loc:Wechselwirkungsabhängigkeit von cdscb
+eng:Cross-term dependence of cdscd
+loc:Wechselwirkungsabhängigkeit von cdscd
+eng:Cross-term dependence of cf
+loc:Wechselwirkungsabhängigkeit von cf
+eng:Cross-term dependence of cgdl
+loc:Wechselwirkungsabhängigkeit von cgdl
+eng:Cross-term dependence of cgidl
+loc:Wechselwirkungsabhängigkeit von cgidl
+eng:Cross-term dependence of cgisl
+loc:Wechselwirkungsabhängigkeit von cgisl
+eng:Cross-term dependence of cgsl
+loc:Wechselwirkungsabhängigkeit von cgsl
+eng:Cross-term dependence of cigbacc
+loc:Wechselwirkungsabhängigkeit von cigbacc
+eng:Cross-term dependence of cigbcp2
+loc:Wechselwirkungsabhängigkeit von cigbcp2
+eng:Cross-term dependence of cigbinv
+loc:Wechselwirkungsabhängigkeit von cigbinv
+eng:Cross-term dependence of cigc
+loc:Wechselwirkungsabhängigkeit von cigc
+eng:Cross-term dependence of cigd
+loc:Wechselwirkungsabhängigkeit von cigd
+eng:Cross-term dependence of cigs
+loc:Wechselwirkungsabhängigkeit von cigs
+eng:Cross-term dependence of cigsd
+loc:Wechselwirkungsabhängigkeit von cigsd
+eng:Cross-term dependence of cit
+loc:Wechselwirkungsabhängigkeit von cit
+eng:Cross-term dependence of ckappa
+loc:Wechselwirkungsabhängigkeit von ckappa
+eng:Cross-term dependence of ckappad
+loc:Wechselwirkungsabhängigkeit von ckappad
+eng:Cross-term dependence of ckappas
+loc:Wechselwirkungsabhängigkeit von ckappas
+eng:Cross-term dependence of clc
+loc:Wechselwirkungsabhängigkeit von clc
+eng:Cross-term dependence of cle
+loc:Wechselwirkungsabhängigkeit von cle
+eng:Cross-term dependence of delta
+loc:Wechselwirkungsabhängigkeit von delta
+eng:Cross-term dependence of delvt
+loc:Wechselwirkungsabhängigkeit von delvt
+eng:Cross-term dependence of drout
+loc:Wechselwirkungsabhängigkeit von drout
+eng:Cross-term dependence of dsub
+loc:Wechselwirkungsabhängigkeit von dsub
+eng:Cross-term dependence of dvt0
+loc:Wechselwirkungsabhängigkeit von dvt0
+eng:Cross-term dependence of dvt0w
+loc:Wechselwirkungsabhängigkeit von dvt0w
+eng:Cross-term dependence of dvt1
+loc:Wechselwirkungsabhängigkeit von dvt1
+eng:Cross-term dependence of dvt1w
+loc:Wechselwirkungsabhängigkeit von dvt1w
+eng:Cross-term dependence of dvt2
+loc:Wechselwirkungsabhängigkeit von dvt2
+eng:Cross-term dependence of dvt2w
+loc:Wechselwirkungsabhängigkeit von dvt2w
+eng:Cross-term dependence of dvtp0
+loc:Wechselwirkungsabhängigkeit von dvtp0
+eng:Cross-term dependence of dvtp1
+loc:Wechselwirkungsabhängigkeit von dvtp1
+eng:Cross-term dependence of dvtp2
+loc:Wechselwirkungsabhängigkeit von dvtp2
+eng:Cross-term dependence of dvtp3
+loc:Wechselwirkungsabhängigkeit von dvtp3
+eng:Cross-term dependence of dvtp4
+loc:Wechselwirkungsabhängigkeit von dvtp4
+eng:Cross-term dependence of dvtp5
+loc:Wechselwirkungsabhängigkeit von dvtp5
+eng:Cross-term dependence of dwb
+loc:Wechselwirkungsabhängigkeit von dwb
+eng:Cross-term dependence of dwg
+loc:Wechselwirkungsabhängigkeit von dwg
+eng:Cross-term dependence of ebjtii
+loc:Wechselwirkungsabhängigkeit von ebjtii
+eng:Cross-term dependence of egidl
+loc:Wechselwirkungsabhängigkeit von egidl
+eng:Cross-term dependence of egisl
+loc:Wechselwirkungsabhängigkeit von egisl
+eng:Cross-term dependence of eigbinv
+loc:Wechselwirkungsabhängigkeit von eigbinv
+eng:Cross-term dependence of elm
+loc:Wechselwirkungsabhängigkeit von elm
+eng:Cross-term dependence of esatii
+loc:Wechselwirkungsabhängigkeit von esatii
+eng:Cross-term dependence of eta0
+loc:Wechselwirkungsabhängigkeit von eta0
+eng:Cross-term dependence of etab
+loc:Wechselwirkungsabhängigkeit von etab
+eng:Cross-term dependence of eu
+loc:Wechselwirkungsabhängigkeit von eu
+eng:Cross-term dependence of fbjtii
+loc:Wechselwirkungsabhängigkeit von fbjtii
+eng:Cross-term dependence of fgidl
+loc:Wechselwirkungsabhängigkeit von fgidl
+eng:Cross-term dependence of fgisl
+loc:Wechselwirkungsabhängigkeit von fgisl
+eng:Cross-term dependence of gamma1
+loc:Wechselwirkungsabhängigkeit von gamma1
+eng:Cross-term dependence of gamma2
+loc:Wechselwirkungsabhängigkeit von gamma2
+eng:Cross-term dependence of idbjt
+loc:Wechselwirkungsabhängigkeit von idbjt
+eng:Cross-term dependence of iddif
+loc:Wechselwirkungsabhängigkeit von iddif
+eng:Cross-term dependence of idrec
+loc:Wechselwirkungsabhängigkeit von idrec
+eng:Cross-term dependence of idtun
+loc:Wechselwirkungsabhängigkeit von idtun
+eng:Cross-term dependence of isbjt
+loc:Wechselwirkungsabhängigkeit von isbjt
+eng:Cross-term dependence of isdif
+loc:Wechselwirkungsabhängigkeit von isdif
+eng:Cross-term dependence of isrec
+loc:Wechselwirkungsabhängigkeit von isrec
+eng:Cross-term dependence of istun
+loc:Wechselwirkungsabhängigkeit von istun
+eng:Cross-term dependence of k1
+loc:Wechselwirkungsabhängigkeit von k1
+eng:Cross-term dependence of k1w1
+loc:Wechselwirkungsabhängigkeit von k1w1
+eng:Cross-term dependence of k1w2
+loc:Wechselwirkungsabhängigkeit von k1w2
+eng:Cross-term dependence of k2
+loc:Wechselwirkungsabhängigkeit von k2
+eng:Cross-term dependence of k2we
+loc:Wechselwirkungsabhängigkeit von k2we
+eng:Cross-term dependence of k3
+loc:Wechselwirkungsabhängigkeit von k3
+eng:Cross-term dependence of k3b
+loc:Wechselwirkungsabhängigkeit von k3b
+eng:Cross-term dependence of kb1
+loc:Wechselwirkungsabhängigkeit von kb1
+eng:Cross-term dependence of keta
+loc:Wechselwirkungsabhängigkeit von keta
+eng:Cross-term dependence of ketas
+loc:Wechselwirkungsabhängigkeit von ketas
+eng:Cross-term dependence of kgidl
+loc:Wechselwirkungsabhängigkeit von kgidl
+eng:Cross-term dependence of kgisl
+loc:Wechselwirkungsabhängigkeit von kgisl
+eng:Cross-term dependence of kt1
+loc:Wechselwirkungsabhängigkeit von kt1
+eng:Cross-term dependence of kt1l
+loc:Wechselwirkungsabhängigkeit von kt1l
+eng:Cross-term dependence of kt2
+loc:Wechselwirkungsabhängigkeit von kt2
+eng:Cross-term dependence of ku0
+loc:Wechselwirkungsabhängigkeit von ku0
+eng:Cross-term dependence of ku0we
+loc:Wechselwirkungsabhängigkeit von ku0we
+eng:Cross-term dependence of kvth0
+loc:Wechselwirkungsabhängigkeit von kvth0
+eng:Cross-term dependence of kvth0we
+loc:Wechselwirkungsabhängigkeit von kvth0we
+eng:Cross-term dependence of lambda
+loc:Wechselwirkungsabhängigkeit von lambda
+eng:Cross-term dependence of lbjt0
+loc:Wechselwirkungsabhängigkeit von lbjt0
+eng:Cross-term dependence of lii
+loc:Wechselwirkungsabhängigkeit von lii
+eng:Cross-term dependence of lp
+loc:Wechselwirkungsabhängigkeit von lp
+eng:Cross-term dependence of lpe0
+loc:Wechselwirkungsabhängigkeit von lpe0
+eng:Cross-term dependence of lpeb
+loc:Wechselwirkungsabhängigkeit von lpeb
+eng:Cross-term dependence of mbjtii
+loc:Wechselwirkungsabhängigkeit von mbjtii
+eng:Cross-term dependence of minv
+loc:Wechselwirkungsabhängigkeit von minv
+eng:Cross-term dependence of minvcv
+loc:Wechselwirkungsabhängigkeit von minvcv
+eng:Cross-term dependence of moin
+loc:Wechselwirkungsabhängigkeit von moin
+eng:Cross-term dependence of nbjt
+loc:Wechselwirkungsabhängigkeit von nbjt
+eng:Cross-term dependence of nch
+loc:Wechselwirkungsabhängigkeit von nch
+eng:Cross-term dependence of ndep
+loc:Wechselwirkungsabhängigkeit von ndep
+eng:Cross-term dependence of ndif
+loc:Wechselwirkungsabhängigkeit von ndif
+eng:Cross-term dependence of ndiode
+loc:Wechselwirkungsabhängigkeit von ndiode
+eng:Cross-term dependence of nfactor
+loc:Wechselwirkungsabhängigkeit von nfactor
+eng:Cross-term dependence of ngate
+loc:Wechselwirkungsabhängigkeit von ngate
+eng:Cross-term dependence of ngidl
+loc:Wechselwirkungsabhängigkeit von ngidl
+eng:Cross-term dependence of nigbacc
+loc:Wechselwirkungsabhängigkeit von nigbacc
+eng:Cross-term dependence of nigbinv
+loc:Wechselwirkungsabhängigkeit von nigbinv
+eng:Cross-term dependence of nigc
+loc:Wechselwirkungsabhängigkeit von nigc
+eng:Cross-term dependence of nlx
+loc:Wechselwirkungsabhängigkeit von nlx
+eng:Cross-term dependence of noff
+loc:Wechselwirkungsabhängigkeit von noff
+eng:Cross-term dependence of nrecf0
+loc:Wechselwirkungsabhängigkeit von nrecf0
+eng:Cross-term dependence of nrecr0
+loc:Wechselwirkungsabhängigkeit von nrecr0
+eng:Cross-term dependence of nsd
+loc:Wechselwirkungsabhängigkeit von nsd
+eng:Cross-term dependence of nsub
+loc:Wechselwirkungsabhängigkeit von nsub
+eng:Cross-term dependence of ntox
+loc:Wechselwirkungsabhängigkeit von ntox
+eng:Cross-term dependence of ntrecf
+loc:Wechselwirkungsabhängigkeit von ntrecf
+eng:Cross-term dependence of ntrecr
+loc:Wechselwirkungsabhängigkeit von ntrecr
+eng:Cross-term dependence of ntun
+loc:Wechselwirkungsabhängigkeit von ntun
+eng:Cross-term dependence of ntund
+loc:Wechselwirkungsabhängigkeit von ntund
+eng:Cross-term dependence of pclm
+loc:Wechselwirkungsabhängigkeit von pclm
+eng:Cross-term dependence of pdiblc1
+loc:Wechselwirkungsabhängigkeit von pdiblc1
+eng:Cross-term dependence of pdiblc2
+loc:Wechselwirkungsabhängigkeit von pdiblc2
+eng:Cross-term dependence of pdiblcb
+loc:Wechselwirkungsabhängigkeit von pdiblcb
+eng:Cross-term dependence of pdits
+loc:Wechselwirkungsabhängigkeit von pdits
+eng:Cross-term dependence of pditsd
+loc:Wechselwirkungsabhängigkeit von pditsd
+eng:Cross-term dependence of phin
+loc:Wechselwirkungsabhängigkeit von phin
+eng:Cross-term dependence of pigcd
+loc:Wechselwirkungsabhängigkeit von pigcd
+eng:Cross-term dependence of poxedge
+loc:Wechselwirkungsabhängigkeit von poxedge
+eng:Cross-term dependence of prt
+loc:Wechselwirkungsabhängigkeit von prt
+eng:Cross-term dependence of prwb
+loc:Wechselwirkungsabhängigkeit von prwb
+eng:Cross-term dependence of prwg
+loc:Wechselwirkungsabhängigkeit von prwg
+eng:Cross-term dependence of pscbe1
+loc:Wechselwirkungsabhängigkeit von pscbe1
+eng:Cross-term dependence of pscbe2
+loc:Wechselwirkungsabhängigkeit von pscbe2
+eng:Cross-term dependence of pvag
+loc:Wechselwirkungsabhängigkeit von pvag
+eng:Cross-term dependence of rdsw
+loc:Wechselwirkungsabhängigkeit von rdsw
+eng:Cross-term dependence of rdw
+loc:Wechselwirkungsabhängigkeit von rdw
+eng:Cross-term dependence of rgidl
+loc:Wechselwirkungsabhängigkeit von rgidl
+eng:Cross-term dependence of rgisl
+loc:Wechselwirkungsabhängigkeit von rgisl
+eng:Cross-term dependence of rsw
+loc:Wechselwirkungsabhängigkeit von rsw
+eng:Cross-term dependence of sii0
+loc:Wechselwirkungsabhängigkeit von sii0
+eng:Cross-term dependence of sii1
+loc:Wechselwirkungsabhängigkeit von sii1
+eng:Cross-term dependence of sii2
+loc:Wechselwirkungsabhängigkeit von sii2
+eng:Cross-term dependence of siid
+loc:Wechselwirkungsabhängigkeit von siid
+eng:Cross-term dependence of teta0
+loc:Wechselwirkungsabhängigkeit von teta0
+eng:Cross-term dependence of tnfactor
+loc:Wechselwirkungsabhängigkeit von tnfactor
+eng:Cross-term dependence of tvfbsdoff
+loc:Wechselwirkungsabhängigkeit von tvfbsdoff
+eng:Cross-term dependence of tvoff
+loc:Wechselwirkungsabhängigkeit von tvoff
+eng:Cross-term dependence of tvoffcv
+loc:Wechselwirkungsabhängigkeit von tvoffcv
+eng:Cross-term dependence of u0
+loc:Wechselwirkungsabhängigkeit von u0
+eng:Cross-term dependence of ua
+loc:Wechselwirkungsabhängigkeit von ua
+eng:Cross-term dependence of ua1
+loc:Wechselwirkungsabhängigkeit von ua1
+eng:Cross-term dependence of ub
+loc:Wechselwirkungsabhängigkeit von ub
+eng:Cross-term dependence of ub1
+loc:Wechselwirkungsabhängigkeit von ub1
+eng:Cross-term dependence of uc
+loc:Wechselwirkungsabhängigkeit von uc
+eng:Cross-term dependence of uc1
+loc:Wechselwirkungsabhängigkeit von uc1
+eng:Cross-term dependence of ucs
+loc:Wechselwirkungsabhängigkeit von ucs
+eng:Cross-term dependence of ucste
+loc:Wechselwirkungsabhängigkeit von ucste
+eng:Cross-term dependence of ud
+loc:Wechselwirkungsabhängigkeit von ud
+eng:Cross-term dependence of ud1
+loc:Wechselwirkungsabhängigkeit von ud1
+eng:Cross-term dependence of up
+loc:Wechselwirkungsabhängigkeit von up
+eng:Cross-term dependence of ute
+loc:Wechselwirkungsabhängigkeit von ute
+eng:Cross-term dependence of vabjt
+loc:Wechselwirkungsabhängigkeit von vabjt
+eng:Cross-term dependence of vbci
+loc:Wechselwirkungsabhängigkeit von vbci
+eng:Cross-term dependence of vbm
+loc:Wechselwirkungsabhängigkeit von vbm
+eng:Cross-term dependence of vbx
+loc:Wechselwirkungsabhängigkeit von vbx
+eng:Cross-term dependence of vdsatii0
+loc:Wechselwirkungsabhängigkeit von vdsatii0
+eng:Cross-term dependence of vfb
+loc:Wechselwirkungsabhängigkeit von vfb
+eng:Cross-term dependence of vfbcv
+loc:Wechselwirkungsabhängigkeit von vfbcv
+eng:Cross-term dependence of vfbsdoff
+loc:Wechselwirkungsabhängigkeit von vfbsdoff
+eng:Cross-term dependence of voff
+loc:Wechselwirkungsabhängigkeit von voff
+eng:Cross-term dependence of voffcv
+loc:Wechselwirkungsabhängigkeit von voffcv
+eng:Cross-term dependence of vrec0
+loc:Wechselwirkungsabhängigkeit von vrec0
+eng:Cross-term dependence of vrec0d
+loc:Wechselwirkungsabhängigkeit von vrec0d
+eng:Cross-term dependence of vsat
+loc:Wechselwirkungsabhängigkeit von vsat
+eng:Cross-term dependence of vsdfb
+loc:Wechselwirkungsabhängigkeit von vsdfb
+eng:Cross-term dependence of vsdth
+loc:Wechselwirkungsabhängigkeit von vsdth
+eng:Cross-term dependence of vtl
+loc:Wechselwirkungsabhängigkeit von vtl
+eng:Cross-term dependence of vto
+loc:Wechselwirkungsabhängigkeit von vto
+eng:Cross-term dependence of vtun0
+loc:Wechselwirkungsabhängigkeit von vtun0
+eng:Cross-term dependence of vtun0d
+loc:Wechselwirkungsabhängigkeit von vtun0d
+eng:Cross-term dependence of w0
+loc:Wechselwirkungsabhängigkeit von w0
+eng:Cross-term dependence of wr
+loc:Wechselwirkungsabhängigkeit von wr
+eng:Cross-term dependence of xbjt
+loc:Wechselwirkungsabhängigkeit von xbjt
+eng:Cross-term dependence of xdif
+loc:Wechselwirkungsabhängigkeit von xdif
+eng:Cross-term dependence of xdifd
+loc:Wechselwirkungsabhängigkeit von xdifd
+eng:Cross-term dependence of xj
+loc:Wechselwirkungsabhängigkeit von xj
+eng:Cross-term dependence of xn
+loc:Wechselwirkungsabhängigkeit von xn
+eng:Cross-term dependence of xrcrg1
+loc:Wechselwirkungsabhängigkeit von xrcrg1
+eng:Cross-term dependence of xrcrg2
+loc:Wechselwirkungsabhängigkeit von xrcrg2
+eng:Cross-term dependence of xrec
+loc:Wechselwirkungsabhängigkeit von xrec
+eng:Cross-term dependence of xrecd
+loc:Wechselwirkungsabhängigkeit von xrecd
+eng:Cross-term dependence of xt
+loc:Wechselwirkungsabhängigkeit von xt
+eng:Cross-term dependence of xtun
+loc:Wechselwirkungsabhängigkeit von xtun
+eng:Cross-term dependence of xtund
+loc:Wechselwirkungsabhängigkeit von xtund
+eng:Current
+loc:Strom
+eng:Current at base node
+loc:Strom am Basisknoten
+eng:Current at collector node
+loc:Strom am Kollektorknoten
+eng:Current at drain node
+loc:Strom am Drain-Knoten
+eng:Current at gate node
+loc:Strom am Gate-Knoten
+eng:Current controlled switch model
+loc:Modell für stromgesteuerten Schalter
+eng:Current gate-drain
+loc:Gate-Drain-Strom
+eng:Current initial condition
+loc:Anfangsbedingung für den Strom
+eng:Current sinking limit
+loc:Grenzwert für Senkstrom
+eng:Current source
+loc:Stromquelle
+eng:Current source (Freq)
+loc:Stromquelle (Freq)
+eng:Current source (Laplace)
+loc:Stromquelle (Laplace)
+eng:Current sourcing limit
+loc:Grenzwert für Quellstrom
+eng:Current through source
+loc:Stromfluss durch die Quelle
+eng:Current through the current source
+loc:Stromdurchfluss der Stromquelle
+eng:Current through the inductor
+loc:Spulenstrom
+eng:Current through the inductor (alternate form)
+loc:Spulenstrom (andere Form)
+eng:Current where base resistance falls halfway to its minimum value
+loc:Strom bei Abfall des Basiswiderstands bis zur Hälfte seines Mindestwerts
+eng:Cursor blink on/off
+loc:Blinken des Cursors ein/aus
+eng:Cursor increment right after write
+loc:Cursor direkt nach dem Schreiben inkrementieren
+eng:Cursor maximum column
+loc:Maximale Cursor-Spalte
+eng:Cursor pattern
+loc:Cursor-Muster
+eng:Cursor reposition x
+loc:Neue x-Position des Cursors
+eng:Cursor reposition y
+loc:Neue y-Position des Cursors
+eng:Cursor x position
+loc:x-Position des Cursors
+eng:Cursor y position
+loc:y-Position des Cursors
+eng:Cursor/display shift direction left/right
+loc:Anzeige/Cursor nach links/rechts verschieben
+eng:Cursor/display shift flag
+loc:Flag für Anzeige-/Cursor-Verschiebung
+eng:Cursor/display shift select
+loc:Auswahl für Anzeige-/Cursor-Verschiebung
+eng:D/G overlap C-V parameter
+loc:Drain-Gate-Überlappung (CV-Parameter)
+eng:DC Current through current source
+loc:Gleichstromfluss durch die Stromquelle
+eng:DC iteration limit
+loc:Maximale DC-Iterationsanzahl
+eng:DC sensitivity
+loc:DC-Empfindlichkeit
+eng:DC sensitivity & imaginary part of AC sensitivity
+loc:DC-Empfindlichkeit und Imaginärteil der AC-Empfindlichkeit
+eng:DC sensitivity and real part of AC sensitivity
+loc:DC-Empfindlichkeit und Realteil der AC-Empfindlichkeit
+eng:DC sensitivity with respect to length
+loc:DC-Empfindlichkeit in Bezug auf die Länge
+eng:DC sensitivity with respect to width
+loc:DC-Empfindlichkeit in Bezug auf die Breite
+eng:DC transfer curve iteration limit
+loc:Maximale Iterationsanzahl der DC-Übertragungskennlinie
+eng:DC value of source
+loc:DC-Wert der Quelle
+eng:DEBUG on/off flag
+loc:DEBUG-Flag
+eng:DIBL coefficient in the subthreshold region
+loc:Barrierendegradationskoeffizient im Unterschwellbereich
+eng:DIBL coefficient of output resistance
+loc:Barrierendegradationskoeffizient des Ausgangswiderstands
+eng:Data 1
+loc:Daten 1
+eng:Data 2
+loc:Daten 2
+eng:Data load value (f)
+loc:Datenlastwert (f)
+eng:Debugger COM object string ID
+loc:String-ID des Debugger-COM-Objekts
+eng:Decimal active value for select line comparison
+loc:Dezimaler Aktivwert für Vergleich ausgewählter Leitungen
+eng:Default MOSFET area of drain
+loc:Standardfläche der MOSFET-Drain-Elektrode
+eng:Default MOSFET area of source
+loc:Standardfläche der MOSFET-Source-Elektrode
+eng:Default MOSFET length
+loc:Standardlänge des MOSFET-Kanals
+eng:Default MOSFET width
+loc:Standardbreite des MOSFET-Kanals
+eng:Default device width
+loc:Standardbreite des Bauelements
+eng:Default state on reset & at DC
+loc:Standardzustand bei Zurücksetzen und bei DC
+eng:Default width of source drain diffusion in um
+loc:Standardbreite der Source-Drain-Diffusion in um
+eng:Defined as (toxe - toxp)
+loc:Definiert als (TOXE - TOXP)
+eng:Delay
+loc:Verzögerung
+eng:Delay from clock
+loc:Verzögerung nach dem Takt
+eng:Delay from clock to out
+loc:Verzögerung zwischen Takt und Ausgabe
+eng:Delay from data
+loc:Verzögerung nach den Daten
+eng:Delay from reset
+loc:Verzögerung nach Reset
+eng:Delay from s or r input change
+loc:Verzögerung ab s-/r-Änderung
+eng:Delay from set
+loc:Verzögerung nach dem Einstellen
+eng:Delay type - transport or inertial
+loc:Verzögerungsart (Transport/Trägheit)
+eng:Delayed values of excitation
+loc:Verzögerte Erregungswerte
+eng:Delta L for C-V model
+loc:Delta L für das CV-Modell
+eng:Delta L for Ig model
+loc:Delta L für das Ig-Modell
+eng:Delta L for Ig model drain side
+loc:Delta L für das Ig-Modell (drainseitig)
+eng:Delta W for C-V model
+loc:Delta W für das CV-Modell
+eng:Delta W for S/D junctions
+loc:Delta W für Source/Drain-Strecken
+eng:Delta activation energy for ISRR
+loc:Delta-Aktivierungsenergie für ISRR
+eng:Delta between X values
+loc:Delta X
+eng:Delta oxide thickness in meters in CapMod3
+loc:Delta-Oxiddicke in Metern in CapMod3
+eng:Denominator gain
+loc:Nenner-Verstärkung
+eng:Denominator lower limit
+loc:Untergrenze für Nenner
+eng:Denominator offset
+loc:Nenner-Offset
+eng:Denominator polynomial coefficient
+loc:Koeffizient des Nennerpolynoms
+eng:Denominator smoothing domain
+loc:Glättungsbereich für Nenner
+eng:Depletion capacitance
+loc:Sperrschichtkapazität
+eng:Depletion layer width
+loc:Breite der Verarmungsschicht
+eng:Depletion length coefficient
+loc:Koeffizient für die Länge der Verarmungszone
+eng:Device capacitance
+loc:Bauelementkapazität
+eng:Device current
+loc:Bauelementstrom
+eng:Device initially off
+loc:Bauelement anfangs ausgeschaltet
+eng:Device is a PSpice capacitance model
+loc:Bauelement ist ein PSpice-Kondensatormodell
+eng:Device is a PSpice inductor model
+loc:Bauelement ist ein PSpice-Spulenmodell
+eng:Device is a PSpice resistor model
+loc:Bauelement ist ein PSpice-Widerstandsmodell
+eng:Device is initially off
+loc:Bauelement zu Beginn aus
+eng:Device length
+loc:Bauelementlänge
+eng:Device width
+loc:Bauelementbreite
+eng:Dielectric constant of gate relative to vacuum
+loc:Permittivität des Gates relativ zum Vakuum
+eng:Dielectric constant of substrate relative to vacuum
+loc:Permittivität des Substrats relativ zum Vakuum
+eng:Dielectric constant of the gate oxide relative to vacuum
+loc:Permittivität des Gate-Oxids relativ zum Vakuum
+eng:Diffusion capacitance transit time coefficient
+loc:Transitzeitkoeffizient für die Diffusionskapazität
+eng:Digital Devices exhibit inertial delay
+loc:Digitalbauelemente sind trägheitsverzögert
+eng:Digital input vector file name
+loc:Dateiname für digitalen Eingangsvektor
+eng:Digital state (0 = low, 1 = high, -1 = unknown)
+loc:Digitaler Zustand (0 = Low, 1 = High, -1 = Uneindeutig)
+eng:Diode IV model selector
+loc:Auswahl für Dioden-IV-Modell
+eng:Diode Resistance per unit length
+loc:Diodenwiderstand pro Längeneinheit
+eng:Diode capacitance
+loc:Diodenkapazität
+eng:Diode capacitor charge
+loc:Kondensatorladung für Diode
+eng:Diode capacitor current
+loc:Kondensatorstrom für Diode
+eng:Diode conductance
+loc:Diodenleitwert
+eng:Diode current
+loc:Diodenstrom
+eng:Diode limiting current
+loc:Begrenzerstrom der Diode
+eng:Diode model
+loc:Diodenmodell
+eng:Diode non-ideality factor
+loc:Unvollkommenheitsfaktor der Diode
+eng:Diode power
+loc:Diodenleistung
+eng:Diode voltage
+loc:Diodenspannung
+eng:Direction: 0 - non, 1 - inc, 2 - dec
+loc:Richtung (0: keine, 1: aufst., 2: abst.)
+eng:Display buffer pointer high (16 bits)
+loc:Anzeigepuffer-Zeiger (höchste 16 Bits)
+eng:Display buffer pointer low (16 bits)
+loc:Anzeigepuffer-Zeiger (niedrigste 16 Bits)
+eng:Distance between OD edge to poly of one side
+loc:Abstand zwischen OD-Kante und Polysilizium auf einer Seite
+eng:Distance between OD edge to poly of the other side
+loc:Abstand zwischen OD-Kante und Polysilizium auf der anderen Seite
+eng:Distance between neighbor fingers
+loc:Abstand zwischen benachbarten Fingern
+eng:Distance from gate contact center to device edge
+loc:Abstand zwischen Gate-Kontakt-Mittelpunkt und Bauelementrand
+eng:Distance of mid-contact to gate edge
+loc:Abstand zwischen Kontaktmitte und Gate-Kante
+eng:Distance of mid-contact to gate edge in test structures
+loc:Abstand zwischen Kontaktmitte und Gate-Kante in Teststrukturen
+eng:Distance of mid-contact to isolation
+loc:Abstand zwischen Kontaktmitte und Isolation
+eng:Distance of mid-diffusion to gate edge
+loc:Abstand zwischen Diffusionsmitte und Gate-Kante
+eng:Distance to a single well edge
+loc:Abstand zu einem Wannenrand
+eng:Distributed body R model selector
+loc:Auswahl für Modell für verteilten Substratwiderstand
+eng:Divide factor
+loc:Divisionsfaktor
+eng:Do not do analog/event alternation in DCOP
+loc:Änderungen an Analogsignalen/Ereignissen in DCOP nicht ausführen
+eng:Don't do complex timestep control
+loc:Keine komplexe Zeitschrittsteuerung durchführen
+eng:Don't insert page breaks
+loc:Keine Seitenumbrüche einfügen
+eng:Don't limit timestep to keep impulse-response errors low
+loc:Zeitschritt nicht wegen möglicher Impulsantwortfehler beschränken
+eng:Don't limit timestep to less than line delay
+loc:Zeitschritt nicht unterhalb der Leitungsverzögerung halten
+eng:Don't print a model summary
+loc:Keine Modellübersicht drucken
+eng:Doping depth
+loc:Dotiertiefe
+eng:Doping tail extending parameter
+loc:Dotierschweifverlängerungs-Parameter
+eng:Doping tail parameter
+loc:Dotierschweif-Parameter
+eng:Drain (gate side) sidewall junction capacitance built in potential
+loc:Diffusionsspannung der (gateseitigen) Drain-Randschicht
+eng:Drain (gate side) sidewall junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der (gateseitigen) Drain-Randschicht
+eng:Drain (gate side) sidewall junction capacitance per unit width
+loc:(Gateseitige) Drain-Randschicht-Kapazität pro Breiteneinheit
+eng:Drain STI sidewall trap-assisted saturation current density
+loc:Haftstellenbegünstigte Drain-Sättigungsstromdichte der STI-Seitenwand
+eng:Drain STI sidewall trap-assisted voltage dependent parameter
+loc:Schwellspannung für TAT-Strom in drainseitiger STI-Seitenwand
+eng:Drain area
+loc:Drain-Diffusionsfläche
+eng:Drain bottom junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der Drain-Bodenschicht
+eng:Drain bottom junction capacitance per unit area
+loc:Drain-Bodenschicht-Kapazität pro Flächeneinheit
+eng:Drain bottom trap-assisted saturation current density
+loc:Haftstellenbegünstigte Sättigungsstromdichte der Drain-Bodenschicht
+eng:Drain bottom trap-assisted voltage dependent parameter
+loc:Spannung in Abhängigkeit von der durch Drain-Boden-Haftstellen begünstigten Spannung
+eng:Drain conductance
+loc:Drain-Leitwert
+eng:Drain contact resistance
+loc:Drain-Kontaktwiderstand
+eng:Drain current
+loc:Drain-Strom
+eng:Drain diode breakdown voltage
+loc:Durchbruchstrom der Drain-Diode
+eng:Drain gate-edge sidewall trap-assisted saturation current density
+loc:Haftstellenbegünstigte Drain-Sättigungsstromdichte der an das Gate-Oxid angrenzenden Seitenwand
+eng:Drain gate-edge sidewall trap-assisted voltage dependent parameter
+loc:Schwellspannung für TAT-Strom der drainseitig an Gate angrenzenden Seitenwand
+eng:Drain junction built-in potential
+loc:Diffusionsspannung der Drain-Elektrode
+eng:Drain junction current temperature exponent
+loc:Temperaturexponent für den Drain-Strom
+eng:Drain junction emission coefficient
+loc:Emissionskoeffizient der Drain-Elektrode
+eng:Drain ohmic resistance
+loc:Ohmscher Widerstand von Drain
+eng:Drain perimeter
+loc:Umfang der Drain-Diffusionsfläche
+eng:Drain resistance
+loc:Drain-Widerstand
+eng:Drain resistance per width
+loc:Drain-Widerstand pro Breite
+eng:Drain resistance per width at high Vg
+loc:Drain-Widerstand pro Breite bei hohem Ug
+eng:Drain sidewall junction capacitance built in potential
+loc:Diffusionsspannung der Drain-Randschicht
+eng:Drain sidewall junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der Drain-Randschicht
+eng:Drain sidewall junction capacitance per unit periphery
+loc:Drain-Randschicht-Kapazität pro Peripherieeinheit
+eng:Drain source shunt conductance
+loc:Drain-Source-Parallelkapazität
+eng:Drain source shunt resistance
+loc:Drain-Source-Parallelwiderstand
+eng:Drain squares
+loc:Anz. von Quadraten der Drain-Fläche
+eng:Drain(gate side) sidewall junction capacitance built in potential
+loc:Diffusionsspannung der (gateseitigen) Drain-Randschicht
+eng:Drain, source sheet resistance
+loc:Flächenwiderstand von Drain oder Source
+eng:Drain-bias dependence of cdsc
+loc:Drain-Vorspannungsabhängigkeit von cdsc
+eng:Drain-induced barrier lowering coefficient
+loc:Barrierendegradationskoeffizient
+eng:Drain-source capacitance
+loc:Drain-Source-Kapazität
+eng:Drain-source conductance
+loc:Drain-Source-Leitwert
+eng:Drain-source voltage
+loc:Drain-Source-Spannung
+eng:Drain/Source and channel coupling capacitance
+loc:Drain/Source- und Kanalkopplungskapazität
+eng:Dump the circuit
+loc:Netzliste speichern
+eng:Dump the circuit's rawfile
+loc:Netzliste als Raw-Datei speichern
+eng:Duty cycle
+loc:Tastgrad
+eng:Dynamic Stepping Factor
+loc:Faktor für dynamische Variation
+eng:EWB5 Switch model
+loc:EWB5-Schaltermodell
+eng:Early voltage for bipolar current
+loc:Early-Spannung für bipolaren Strom
+eng:Effective SiO2 thickness
+loc:Effektive Siliziumdioxiddicke
+eng:Effective Vds parameter
+loc:Parameter für effektive Uds
+eng:Effective bandgap in gate current calcula
+loc:Effektiver Bandabstand in Gate-Strom-Berechnung
+eng:Effective gate voltage
+loc:Effektive Gate-Spannung
+eng:Effective length for extraction of EOT
+loc:Effektive Länge für die Extraktion der effektiven Oxiddicke
+eng:Effective oxide thickness considering quantum effect
+loc:Effektive Oxiddicke unter Berücksichtigung des Quanteneffekts
+eng:Effective silicon-on-insulator thickness in meters
+loc:Effektive SOI-Siliziumdicke in Metern
+eng:Effective width for extraction of EOT
+loc:Effektive Breite für die Extraktion der effektiven Oxiddicke
+eng:Electrical gate oxide thickness in meters
+loc:Elektrische Gate-Oxiddicke in Metern
+eng:Electron affinity of substrate
+loc:Elektronenaffinität des Substrats
+eng:Electron/hole diffusion length
+loc:Elektron/Loch-Diffusionslänge
+eng:Emission Coefficient
+loc:Emissionskoeffizient
+eng:Emission coefficient for ISR
+loc:Emissionskoeffizient für ISR
+eng:Emitter conductance
+loc:Emitterleitwert
+eng:Emitter current
+loc:Emitterstrom
+eng:Emitter resistance
+loc:Emitterbahnwiderstand
+eng:Enable convergence assistance on code models
+loc:Konvergenzhilfe zu Codemodellen aktivieren
+eng:Enable line load value (f)
+loc:Leitungslastwert aktivieren (f)
+eng:Enable load value (f)
+loc:Lastwert aktivieren (f)
+eng:Ending frequency
+loc:Endfrequenz
+eng:Ending time
+loc:Ende
+eng:Ending voltage/current
+loc:Endspannung/-strom
+eng:Energy gap for temperature effect on IS
+loc:Energielücke für Temperatureinfluss auf IS
+eng:Epi charge parameter
+loc:Epi-Ladungs-Parameter
+eng:Epi doping parameter
+loc:Parameter für Epi-Dotierung
+eng:Epi drift saturation voltage
+loc:Sättigungsspannung für Epi-Drift
+eng:Epitaxial region charge factor
+loc:Epitaxialgebiet-Ladungsfaktor
+eng:Epitaxial region doping factor
+loc:Epitaxialgebiet-Dotierungsfaktor
+eng:Epitaxial region resistance
+loc:Epitaxialgebiet-Widerstand
+eng:Equivalent gate oxide thickness in meters
+loc:Äquivalente Gate-Oxiddicke in Metern
+eng:Equivalent length of pocket region accounting for body bias
+loc:Äquivalente Länge der Taschenregion bei Anliegen einer Substratvorspannung
+eng:Equivalent length of pocket region at zero bias
+loc:Äquivalente Länge der Taschenregion bei 0 V Vorspannung
+eng:Error in the Analog-to-Digital Interface
+loc:Fehler der Analog/Digital-Schnittstelle
+eng:Excess phase at freq=1.0/(TF*2PI) Hz
+loc:Differenz zwischen min. und tatsächlichem Phasengang bei f=1,0/(TF*2PI) Hz
+eng:Excess phase factor
+loc:Faktor für Differenz zwischen min. und tatsächlichem Phasengang
+eng:Excitation energy for ISP
+loc:Anregungsenergie für ISP
+eng:Exponent factor for avalanche current
+loc:Exponentialfaktor für Lawinenstrom
+eng:Exponent for Tox ratio
+loc:Exponent für Tox-Verhältnis
+eng:Exponential coefficient for charge thickness in capMod=3 for accumulation and depletion regions
+loc:Exponentialkoeffizient der Ladungsschichtdicke in capMod=3 für Anreicherungs- und Verarmungsbereiche
+eng:Exponential coefficient of finite charge thickness
+loc:Exponentieller Koeffizient für die finite Ladungsschichtdicke
+eng:Exponential constant for GIDL
+loc:Exponentielle Konstante für GIDL
+eng:Exponential constant for GISL
+loc:Exponentielle Konstante für GISL
+eng:Exponential factor of hot-electron effect
+loc:Exponentialfaktor des Hot-Electron-Effekts
+eng:Exponential source description
+loc:Beschreibung der Quelle für exponentielles Signal
+eng:Exponential temperature coefficient
+loc:Exponentieller Temperaturkoeffizient
+eng:External C-B-base capacitance equivalent conductance
+loc:Leitwertäquivalent zur externen Kollektor-Basis-Kapazität
+eng:External base to collector capacitance
+loc:Externe Basis-Kollektor-Kapazität
+eng:External base to emitter capacitance
+loc:Externe Basis-Emitter-Kapazität
+eng:Extrinsic B-C overlap capacitance
+loc:Extrinsische BC-Überlappungskapazität
+eng:Extrinsic B-E overlap capacitance
+loc:Extrinsische BE-Überlappungskapazität
+eng:Extrinsic base resistance
+loc:Extrinsischer Basiswiderstand
+eng:Extrinsic body contact sheet resistance
+loc:Extrinsischer Substratkontakt-Flächenwiderstand
+eng:Extrinsic collector resistance
+loc:Extrinsischer Kollektorwiderstand
+eng:Factor for the gate edge Tox
+loc:Faktor für die Oxiddicke am Gate-Rand
+eng:Fall delay
+loc:Verzögerung des Abfallbeginns
+eng:Fall time
+loc:Abfallzeit
+eng:Fall time 1 -> 0
+loc:Abfallzeit (1 -> 0)
+eng:Falling slew limit
+loc:Abfallgrenze
+eng:Fast surface state density
+loc:Schnelle Oberflächenzustandsdichte
+eng:File separator string
+loc:Dateiseparator
+eng:First Vds dependent parameter of impact ionization current
+loc:1. Uds-abhängiger Parameter des Stoßionisationsstroms
+eng:First Vgp dependent parameter for gate current in accumulation in AGBCP2 region
+loc:1. Ugp-abhängiger Parameter für den Gate-Strom in der Akkumulation in der AGBCP2-Region
+eng:First Vgs dependent parameter for impact ionization current
+loc:1. Ugs-abhängiger Parameter für den Stoßionisationsstrom
+eng:First Vox dependent parameter for gate current in accumulation
+loc:1. Uox-abhängiger Parameter für den Gate-Strom bei Anreicherung
+eng:First Vox dependent parameter for gate current in inversion
+loc:1. Uox-abhängiger Parameter für den Gate-Strom bei Inversion
+eng:First X value
+loc:1. X-Wert
+eng:First backgate body effect parameter
+loc:1. Backgate-Substrateffekt-Parameter
+eng:First body effect width dependent parameter
+loc:1. Breitenabhängigkeitsparameter für den Substrateffekt
+eng:First coupled inductor
+loc:Erste gekoppelte Spule
+eng:First fitting parameter the bias-dependent Rg
+loc:1. Anpassungsparameter des vorspannungsabhängigen Rg
+eng:First impact ionization coefficient
+loc:1. Koeffizient für den Stoßionisationseffekt
+eng:First parameter for Vth shift due to pocket
+loc:1. Parameter für Uth-Verschiebung durch Tasche (Pocket)
+eng:First parameter of bandgap change due to temperature
+loc:1. Parameter für die temperaturbedingte Bandabstandsänderung
+eng:First short-channel effect parameter in FD module
+loc:1. Kurzkanaleffekt-Parameter in vollständig verarmtem Modul
+eng:Fitting parameter for bandbending
+loc:Anpassungsparameter für Bandkrümmung
+eng:Fitting parameter for drain diode breakdown current
+loc:Anpassungsparameter für den Durchbruchstrom der Drain-Diode
+eng:Fitting parameter for moderate inversion in Vgsteff
+loc:Anpassungsparameter für moderate Inversion in Ugsteff
+eng:Fitting parameter for moderate inversion in Vgsteffcv
+loc:Anpassungsparameter für moderate Inversion in Ugsteffcv
+eng:Fitting parameter for source diode breakdown current
+loc:Anpassungsparameter für den Durchbruchstrom der Source-Diode
+eng:Fixed C-S capacitance
+loc:Feste C/S-Kapazität
+eng:Flag for WPE model (WPEMOD=1 to activate this model)
+loc:Flag für WPE-Modell (wird durch WPEMOD=1 aktiviert)
+eng:Flag for channel charge partitioning
+loc:Flag für Ladungsträgerverteilung im Kanal
+eng:Flag indicating external temperature node
+loc:Flag für externen Temperaturknoten
+eng:Flag to indicate NMOS
+loc:NMOS-Flag
+eng:Flag to indicate PMOS
+loc:PMOS-Flag
+eng:Flag to request sensitivity with respect to area
+loc:Flag zur Empfindlichkeitsabfrage in Bezug auf die Region
+eng:Flag to request sensitivity with respect to capacitance
+loc:Flag zur Empfindlichkeitsabfrage in Bezug auf die Kapazität
+eng:Flag to request sensitivity with respect to coupling factor
+loc:Empfindlichkeit in Bezug auf den Kopplungsfaktor ermitteln (Flag)
+eng:Flag to request sensitivity with respect to gain
+loc:Flag zur Empfindlichkeitsabfrage in Bezug auf die Verstärkung
+eng:Flag to request sensitivity with respect to inductance
+loc:Empfindlichkeit in Bezug auf die Induktivität ermitteln (Flag)
+eng:Flag to request sensitivity with respect to length
+loc:Empfindlichkeit in Bezug auf die Länge ermitteln (Flag)
+eng:Flag to request sensitivity with respect to transconductance
+loc:Flag zur Empfindlichkeitsabfrage in Bezug auf die Steilheit
+eng:Flag to request sensitivity with respect to transimpedance
+loc:Flag zur Empfindlichkeitsabfrage in Bezug auf die Transimpedanz
+eng:Flag to request sensitivity with respect to width
+loc:Empfindlichkeit in Bezug auf die Breite ermitteln (Flag)
+eng:Flag to send a char
+loc:Flag zum Senden eines Zeichens
+eng:Flat Band Voltage parameter for capmod=0 only
+loc:Flachbandspannungs-Parameter für capmod=0
+eng:Flat band voltage
+loc:Flachbandspannung
+eng:Flicker noise coefficient
+loc:Funkelrauschkoeffizient
+eng:Flicker noise exponent
+loc:Funkelrauschexponent
+eng:Flicker noise frequency exponent
+loc:Funkelrauschfrequenz-Exponent
+eng:Flicker noise length dependence exponent
+loc:Exponent für die Längenabhängigkeit des Funkelrauschens
+eng:Flicker noise model selector
+loc:Auswahl für Funkelrauschmodell
+eng:Flicker noise parameter
+loc:Funkelrauschparameter
+eng:Flicker noise width dependence
+loc:Breitenabhängigkeit des Funkelrauschens
+eng:Floating body excess noise ideality factor
+loc:Idealitätsfaktor für das Zusatzrauschen beim Abknickeffekt (FBE)
+eng:Flux density array
+loc:Flussdichten-Array
+eng:Flux through inductor
+loc:Spulenfluss
+eng:Font height in pixels
+loc:Schrifthöhe in Pixeln
+eng:Font width in pixels
+loc:Schriftbreite in Pixeln
+eng:For moderate inversion in Vgsteff
+loc:Für moderate Inversion in Ugsteff
+eng:For moderate inversion in VgsteffCV
+loc:Für moderate Inversion in UgsteffCV
+eng:Forth parameter for Vth shift due to pocket
+loc:4. Parameter für Uth-Verschiebung durch Tasche (Pocket)
+eng:Forward Early voltage
+loc:Early-Spannung der BC-Diode
+eng:Forward and reverse beta temperature exponent
+loc:Temperaturexponent für Stromverstärkung (vorwärts und rückwärts)
+eng:Forward bias depletion capacitance limit
+loc:Grenze für die Sperrschichtkapazität im Durchlassbereich
+eng:Forward bias junction fit parameter
+loc:Nichtlinearitätskoeffizient der Sperrschichtkapazität in Durchlassrichtung
+eng:Forward current
+loc:Vorwärtsstrom
+eng:Forward current emission coefficient
+loc:Emissionskoeffizient des Vorwärtsstroms
+eng:Forward drain diode forward limiting current
+loc:Durchlassgrenzstrom der Drain-Diode in Durchlassrichtung
+eng:Forward emission co
+loc:Vorwärts-Emissionskoeffizient
+eng:Forward emission coefficient
+loc:Vorwärts-Emissionskoeffizient
+eng:Forward excess-phase delay time
+loc:Verzögerung der Differenz zwischen min. und tatsächlichem Phasengang (vorwärts)
+eng:Forward knee current
+loc:Kniestrom (vorwärts)
+eng:Forward p-n capacitance coefficient
+loc:Koeffizient für die Kapazität des pn-Übergangs in Durchlassrichtung
+eng:Forward source diode forward limiting current
+loc:Durchlassgrenzstrom der Source-Diode in Durchlassrichtung
+eng:Forward-bias depletion capacitance coefficient
+loc:Koeffizient für die Sperrschichtkapazität im Durchlassbereich
+eng:Fraction of B-C depletion capacitance connected to internal base node
+loc:Anteil der BC-Sperrschichtkapazität vom internen Basisknoten
+eng:Fraction of CJC connected internally to Rb
+loc:CJC-Anteil vom internen Rb-Widerstand
+eng:Fraction of CJS connected internally to Rc
+loc:CJS-Anteil vom internen Rc-Widerstand
+eng:Fraction of bipolar current affecting the impact ionization
+loc:Anteil des bipolaren Stroms, der die Stoßionisation beeinflusst
+eng:Fractional step allowed by code model inputs between iterations
+loc:Geringste zulässige Schrittweite für die Eingabe in Codemodelle zwischen Iterationen
+eng:Freq multiplier
+loc:Frequenzvervielfacher
+eng:Freq_in load value (f)
+loc:Eingangsfrequenz-Lastwert (f)
+eng:Frequencies of notes
+loc:Häufigkeiten von Noten
+eng:Frequency
+loc:Frequenz
+eng:Frequency (Hz) at which to denormalize coefficients
+loc:Frequenz (Hz) für die Denormalisierung der Koeffizienten
+eng:Frequency array
+loc:Frequenz-Array
+eng:Frequency points per summary report
+loc:Frequenzpunkte pro Zusammenfassung
+eng:Fringe capacitance parameter
+loc:Randkapazitätsparameter
+eng:Fully qualified file name for logging intermediate expression evaluations
+loc:Unmittelbare Ausdrucksrechenwerte mit vollständig qualifiziertem Dateinamen protokollieren
+eng:Function of the source
+loc:Funktion der Quelle
+eng:Function type
+loc:Funktionstyp
+eng:GIDL first parameter
+loc:1. Parameter für gateinduzierten Drain-Leckstrom
+eng:GIDL second parameter
+loc:2. Parameter für gateinduzierten Drain-Leckstrom
+eng:GIDL third parameter
+loc:3. Parameter für gateinduzierten Drain-Leckstrom
+eng:GIDL vb parameter
+loc:Ub-Parameter für GIDL
+eng:GIDL vg parameter
+loc:Ug-Parameter für GIDL
+eng:GISL first parameter
+loc:1. GISL-Parameter
+eng:GISL second parameter
+loc:2. GISL-Parameter
+eng:GISL third parameter
+loc:3. GISL-Parameter
+eng:GISL vb parameter
+loc:Ub-Parameter für GISL
+eng:GISL vg parameter
+loc:Ug Parameter für GISL
+eng:Gain
+loc:Verstärkung
+eng:Gain of source
+loc:Verstärkung der Quelle
+eng:Gate R model selector
+loc:Auswahl für Gate-Widerstands-Modell
+eng:Gate bias coefficient of Abulk
+loc:Gate-Spannungskoeffizient von ABulk
+eng:Gate bulk overlap capacitance per unit channel length(m)
+loc:Gate-Bulk-Überlappung-Kapazität pro Meter Kanalbreite
+eng:Gate conductance
+loc:Gate-Leitwert
+eng:Gate current
+loc:Gate-Strom
+eng:Gate dependence of output resistance parameter
+loc:Gate-Abhängigkeit des Ausgangswiderstands
+eng:Gate drain overlap capacitance per unit channel width(m)
+loc:Gate-Drain-Überlapp-Kapazität pro Meter Kanalbreite
+eng:Gate edge drain junction reverse saturation current density
+loc:Sperrsättigungsstromdichte zwischen Gate-Außenkante und Drain
+eng:Gate edge source junction reverse saturation current density
+loc:Sperrsättigungsstromdichte zwischen Gate-Außenkante und Source
+eng:Gate junction emission coefficient
+loc:Emissionskoeffizient der Gate-Elektrode
+eng:Gate junction grading coefficient
+loc:Kapazitätskoeffizient der Gate-Elektrode
+eng:Gate junction potential
+loc:Potential der Gate-Elektrode
+eng:Gate junction recombination current parameter
+loc:Rekombinationsstrom der Gate-Elektrode
+eng:Gate junction saturation current
+loc:Sättigungsstrom der Gate-Elektrode
+eng:Gate ohmic resistance
+loc:Ohmscher Gate-Widerstand
+eng:Gate oxide capacitance
+loc:Gate-Oxid-Kapazität
+eng:Gate oxide thickness at which parameters are extracted
+loc:Gate-Oxiddicke, bei der Parameter extrahiert werden
+eng:Gate oxide thickness in meters
+loc:Gate-Oxiddicke in Metern
+eng:Gate oxide thickness in um
+loc:Gate-Oxiddicke in um
+eng:Gate oxide thickness used in extraction
+loc:Für die Extraktion verwendete Gate-Oxiddicke
+eng:Gate resistance
+loc:Gate-Widerstand
+eng:Gate resistance model selector
+loc:Auswahl für Gate-Widerstands-Modell
+eng:Gate sheet resistance
+loc:Gate-Flächenwiderstand
+eng:Gate source overlap capacitance per unit channel width(m)
+loc:Gate-Source-Überlapp-Kapazität pro Meter Kanalbreite
+eng:Gate substrate overlap capacitance per unit channel length
+loc:Gate-Substrat-Überlappungskapazität pro Meter Kanalbreite
+eng:Gate to body overlap area for bc parasitics
+loc:Gate/Substratkörper-Überlappungsbereich für parasitäre Basis-Kollektor-Effekte
+eng:Gate to body overlap area for bc parasitics in DC
+loc:Gate/Substratkörper-Überlappungsbereich für parasitäre Basis-Kollektor-Kapazitäten (DC)
+eng:Gate type
+loc:Gate-Typ
+eng:Gate-bias effect on parasitic resistance
+loc:Einfluss der Gate-Spannung auf den parasitären Widerstand
+eng:Gate-body tunneling current model selector
+loc:Modellauswahl für den Gate-Body-Tunnelstrom
+eng:Gate-bulk capacitance
+loc:Gate-Bulk-Kapazität
+eng:Gate-bulk charge storage
+loc:Gate-Bulk-Ladungsspeicherung
+eng:Gate-bulk overlap capacitance
+loc:Gate-Bulk-Überlappkapazität
+eng:Gate-bulk overlap capacitance per length
+loc:Gate-Bulk-Überlappungskapazität pro Länge
+eng:Gate-channel tunneling current model selector
+loc:Modellauswahl für den Gate-Kanal-Tunnelstrom
+eng:Gate-drain capacitance
+loc:Gate-Drain-Kapazität
+eng:Gate-drain charge storage
+loc:Gate-Drain-Ladungsspeicherung
+eng:Gate-drain conductance
+loc:Gate-Drain-Leitwert
+eng:Gate-drain overlap capacitance
+loc:Gate-Drain-Überlappkapazität
+eng:Gate-drain overlap capacitance per width
+loc:Gate-Drain-Überlappungskapazität pro Breite
+eng:Gate-drain voltage
+loc:Gate-Drain-Spannung
+eng:Gate-source capacitance
+loc:Gate-Source-Kapazität
+eng:Gate-source charge storage
+loc:Gate-Source-Ladungsspeicherung
+eng:Gate-source conductance
+loc:Gate-Source-Leitwert
+eng:Gate-source overlap capacitance
+loc:Gate-Source-Überlappkapazität
+eng:Gate-source overlap capacitance per width
+loc:Gate-Source-Überlappungskapazität pro Breite
+eng:Gate-source voltage
+loc:Gate-Source-Spannung
+eng:Gate-to-body Ig model selector
+loc:Auswahl für Modell für Gate-Substrat-Strom
+eng:Gate-to-channel Ig model selector
+loc:Auswahl für Modell für Gate-Kanal-Strom
+eng:Gds
+loc:Gds
+eng:Generate machine code
+loc:Maschinencode erzeugen
+eng:Geometry dependent parasitics model selector
+loc:Auswahl für Modell für geometrieabhängige parasitäre Effekte
+eng:Gm
+loc:Gm
+eng:Gm/Ids
+loc:Gm/Ids
+eng:Gmb
+loc:Gmb
+eng:Go directly to gmin stepping
+loc:Direkt zur schrittweisen Variation von gmin
+eng:Graphic pointer
+loc:Grafikzeiger
+eng:Ground node of URC
+loc:Masseknoten von Urc
+eng:Handle to the Multisim codemodel GUI
+loc:Handle für Multisim-Codemodell-GUI
+eng:Has a command in process
+loc:Befehl wird verarbeitet
+eng:High current RC factor
+loc:RC-Faktor bei Hochinjektion
+eng:High current beta roll-off
+loc:Steilheit bei Hochinjektion
+eng:High current dependence of TF
+loc:TF-Abhängigkeit von hohen Strömen
+eng:High level injection parameter for bipolar current
+loc:Hochinjektionsparameter für bipolaren Strom
+eng:High-current parameter for effect on TF
+loc:Hochinjektionsparameter zur Beeinflussung von TF
+eng:High-current roll-off coefficient
+loc:Steilheitskoeffizient bei Hochinjektion
+eng:High-injection knee current
+loc:Kniestrom bei Hochinjektion
+eng:Hysteresis
+loc:Hysterese
+eng:Hysteresis current
+loc:Hysteresestrom
+eng:Hysteresis voltage
+loc:Hysteresespannung
+eng:I-V Slope 1
+loc:I-V-Steigung 1
+eng:I-V Slope 2
+loc:I-V-Steigung 2
+eng:I1 knee
+loc:I1-Knie
+eng:I2 knee
+loc:I2-Knie
+eng:IKF linear temperature coefficient
+loc:IKF-Temperaturkoeffizient (linear)
+eng:IS temperature coefficient
+loc:Temperaturkoeffizient von IS
+eng:Ideal B-C emission coefficient
+loc:Idealer Basis-Kollektor-Emissionskoeffizient
+eng:Ideal B-C saturation current
+loc:Idealer Basis-Kollektor-Sättigungsstrom
+eng:Ideal B-E emission coefficient
+loc:Idealer Basis-Emitter-Emissionskoeffizient
+eng:Ideal B-E saturation current
+loc:Idealer Basis-Emitter-Sättigungsstrom
+eng:Ideal current controlled switch model
+loc:Modell für idealen stromgesteuerten Schalter
+eng:Ideal forward transit time
+loc:Ideale Vorwärts-Transitzeit
+eng:Ideal maximum forward beta
+loc:Ideale max. Vorwärtsstromverstärkung
+eng:Ideal maximum reverse beta
+loc:Ideale max. Rückwärtsstromverstärkung
+eng:Ideal parasitic B-C emission coefficient
+loc:Idealer parasitischer BC-Emissionskoeffizient
+eng:Ideal parasitic B-C saturation current
+loc:Idealer parasitischer BC-Sättigungsstrom
+eng:Ideal parasitic B-E saturation current
+loc:Idealer parasitischer BE-Sättigungsstrom
+eng:Ideal reverse transit time
+loc:Ideale Rückwärts-Transitzeit
+eng:Ids
+loc:Ids
+eng:Imaginary part of AC sensitivity
+loc:Imaginärteil der AC-Empfindlichkeit
+eng:Imaginary part of AC sensitivity with respect to length
+loc:Imaginärteil der AC-Empfindlichkeit in Bezug auf die Länge
+eng:Imaginary part of AC sensitivity with respect to width
+loc:Imaginärteil der AC-Empfindlichkeit in Bezug auf die Breite
+eng:Impact ionization parameter for BJT part
+loc:Stoßionisationsparameter für BJT-Bauelement
+eng:Improved VgsteffCV selector
+loc:Verbesserte UgsteffCV-Auswahl
+eng:Improved dVbi model selector
+loc:Verbesserte dVbi-Modell-Auswahl
+eng:In process command
+loc:Letzter Befehl in Verarbeitung
+eng:Indicates if LabVIEW minor steps should to be plotted
+loc:Zeigt an, ob kleinere LabVIEW-Zeitschritte grafisch dargestellt werden sollen
+eng:Inductance
+loc:Induktiver Widerstand
+eng:Inductance connected to input node
+loc:Induktiver Widerstand am Eingangsknoten
+eng:Inductance of inductor
+loc:Induktiver Spulenwiderstand
+eng:Inductance per meter
+loc:Induktiver Widerstand pro Meter
+eng:Inductance scale factor
+loc:Skalierungsfaktor für induktiven Widerstand
+eng:Initial B-E voltage
+loc:B-E-Anfangsspannung
+eng:Initial B-S voltage
+loc:Bulk-Source-Anfangsspannung
+eng:Initial C-E voltage
+loc:C-E-Anfangsspannung
+eng:Initial D-S voltage
+loc:Drain-Source-Anfangsspannung
+eng:Initial G-S voltage
+loc:Gate-Source-Anfangsspannung
+eng:Initial VDS,VGS vector
+loc:Anfangsvektor aus Uds, Ugs
+eng:Initial bit state @ DC
+loc:Anfangsbitzustand (DC)
+eng:Initial capacitor voltage
+loc:Anfangskondensatorspannung
+eng:Initial condition
+loc:Anfangsbedingung
+eng:Initial condition of controlling source
+loc:Anfangszustand der steuernden Quelle
+eng:Initial condition vector
+loc:Anfangsbedingungsvektor
+eng:Initial condition vector:v1,i1,v2,i2
+loc:Anfangsbedingungsvektor:v1,i1,v2,i2
+eng:Initial current at end 1
+loc:Anfangsstrom am 1. Ende
+eng:Initial current at end 2
+loc:Anfangsstrom am 2. Ende
+eng:Initial current through inductor
+loc:Anfangsstrom der Spule
+eng:Initial device voltage
+loc:Anfangsspannung des Bauelements
+eng:Initial phase of output
+loc:Anfangsphase des Ausgangssignals
+eng:Initial voltage
+loc:Anfangsspannung
+eng:Initial voltage at end 1
+loc:Anfangsspannung am 1. Ende
+eng:Initial voltage at end 2
+loc:Anfangsspannung am 2. Ende
+eng:Initially closed
+loc:Schalter ist Öffner
+eng:Initially off
+loc:Anfänglich AUS
+eng:Initially open
+loc:Schalter ist Schließer
+eng:Input gain array
+loc:Eingangsverstärkungs-Array
+eng:Input high value
+loc:Max. Eingangswert
+eng:Input load value (f)
+loc:Eingangslastwert (f)
+eng:Input load value (pf)
+loc:Eingangslastwert (pf)
+eng:Input loading capacitance
+loc:Eingangs-Belastungskapazität
+eng:Input loading capacitance (f)
+loc:Eingangs-Belastungskapazität (f)
+eng:Input low value
+loc:Min. Eingangswert
+eng:Input noise source
+loc:Quelle für Eingangsrauschen
+eng:Input offset
+loc:Eingangsoffset
+eng:Input offset array
+loc:Eingangsoffset-Array
+eng:Input offset for the first comparator
+loc:Eingangsoffset für den 1. Komparator
+eng:Input offset for the second comparator
+loc:Eingangsoffset für den 2. Komparator
+eng:Input smoothing domain
+loc:Glättungsbereich für Eingangssignal
+eng:Input source
+loc:Eingangsquelle
+eng:Input source name
+loc:Name der Eingangsquelle
+eng:Inputs array
+loc:Array der Eingangswerte
+eng:Instance 1st-order current coefficient
+loc:Stromkoeffizient erster Ordnung des Exemplars
+eng:Instance 1st-order temperature coefficient
+loc:Exemplar-Temperaturkoeffizient erster Ordnung
+eng:Instance 1st-order voltage coefficient
+loc:Exemplar-Spannungskoeffizient erster Ordnung
+eng:Instance 2nd-order current coefficient
+loc:Stromkoeffizient zweiter Ordnung des Exemplars
+eng:Instance 2nd-order temperature coefficient
+loc:Exemplar-Temperaturkoeffizient zweiter Ordnung
+eng:Instance 2nd-order voltage coefficient
+loc:Exemplar-Spannungskoeffizient zweiter Ordnung
+eng:Instance Thermal Capacitance
+loc:Thermische Kapazität des Exemplars
+eng:Instance Thermal Resistance
+loc:Thermischer Widerstand des Exemplars
+eng:Instance model selector for PD/FD operation
+loc:Exemplar-Modellauswahl für Verarmungsgrad (teilweise/vollständig)
+eng:Instance operating temperature
+loc:Betriebstemperatur des Exemplars
+eng:Instance temperature
+loc:Temperatur des Exemplars
+eng:Instance temperature coefficients (TC1 and TC2)
+loc:Temperaturkoeffizienten des Exemplars (TC1 und TC2)
+eng:Instantaneous device power
+loc:Momentanleistung des Bauelements
+eng:Instantaneous power
+loc:Momentanleistung
+eng:Instantaneous power dissipated by the inductor
+loc:Von der Spule abgeführte Momentanleistung
+eng:Integer array parameter
+loc:Ganzzahliger Array-Parameter
+eng:Integer parameter
+loc:Ganzzahliger Parameter
+eng:Integral of the first distribution function for scattered well dopant
+loc:Integral der 1. Verteilungsfunktion für die Verteilung des Wannendotiermittels
+eng:Integral of the second distribution function for scattered well dopant
+loc:Integral der 2. Verteilungsfunktion für die Verteilung des Wannendotiermittels
+eng:Integral of the third distribution function for scattered well dopant
+loc:Integral der 3. Verteilungsfunktion für die Verteilung des Wannendotiermittels
+eng:Integration method
+loc:Integrationsverfahren
+eng:Interface state capacitance
+loc:Grenzflächenzustandskapazität
+eng:Intermediate stage initial conditions
+loc:Anfangsbedingungen für Zwischenstadium
+eng:Internal B-C built-in potential
+loc:Interne BC-Diffusionsspannung
+eng:Internal B-C grading coefficient
+loc:Interner BC-Kapazitätskoeffizient
+eng:Internal C-B capacitance equivalent conductance
+loc:Äquivalenter Leitwert für die interne Kollektor-Basis-Kapazität
+eng:Internal C-S capacitance equivalent conductance
+loc:Äquivalenter Leitwert für die interne Kollektor-Substrat-Kapazität
+eng:Internal base node
+loc:Interner Basisknoten
+eng:Internal base to collector capacitance
+loc:Interne Basis-Kollektor-Kapazität
+eng:Internal base to emitter capacitance
+loc:Interne Basis-Emitter-Kapazität
+eng:Internal collector node
+loc:Interner Kollektorknoten
+eng:Internal drain node
+loc:Interner Drain-Knoten
+eng:Internal emitter node
+loc:Interner Emitterknoten
+eng:Internal source node
+loc:Interner Source-Knoten
+eng:Internal substrate node
+loc:Interner Substratknoten
+eng:Interpolation function selector
+loc:Auswahl der Interpolationsfunktion
+eng:Intrinsic base resistance
+loc:Intrinsischer Basiswiderstand
+eng:Intrinsic body contact sheet resistance
+loc:Intrinsischer Substratkontakt-Flächenwiderstand
+eng:Intrinsic carrier concentration of substrate at 300.15K
+loc:Instrinsische Substratanreicherung bei 300,15 K
+eng:Intrinsic carrier concentration of substrate at Tnom
+loc:Instrinsische Substratanreicherung bei Tnom
+eng:Intrinsic collector resistance
+loc:Intrinsischer Kollektorwiderstand
+eng:Intrinsic emitter resistance
+loc:Intrinsischer Emitterwiderstand
+eng:Intrinsic substrate resistance
+loc:Intrinsischer Substratwiderstand
+eng:Inverse Early voltage:forward
+loc:Inv. Early-Spannung (vorwärts)
+eng:Inverse Early voltage:reverse
+loc:Inv. Early-Spannung (rückwärts)
+eng:Inverse roll-off - forward
+loc:Inv. Steilheit (vorwärts)
+eng:Inverse roll-off - reverse
+loc:Inv. Steilheit (rückwärts)
+eng:Ionizing coefficient
+loc:Ionisationskoeffizient
+eng:Ionizing knee voltage
+loc:Knickspannung zu Beginn der Ionisation
+eng:Isolation edge sidewall drain junction reverse saturation current density
+loc:Sperrsättigungsstromdichte zwischen Drain und der Außenkante der Isolationsschicht
+eng:Isolation edge sidewall source junction reverse saturation current density
+loc:Sperrsättigungsstromdichte zwischen Source und der Außenkante der Isolationsschicht
+eng:Iteration holding variable for limiting
+loc:Iterationshaltevariable für Begrenzung
+eng:Junction Depth
+loc:Sperrschichtdicke
+eng:Junction bottom capacitance
+loc:Unterseiten-Sperrschichtkapazität
+eng:Junction current temperature exponent
+loc:Temperaturexponent für den Elektrodenstrom
+eng:Junction depth in meters
+loc:Sperrschichtdicke in Metern
+eng:Junction grading coefficient
+loc:Kapazitätskoeffizient der Sperrschicht
+eng:Junction potential
+loc:Sperrschichtpotential
+eng:Junction sidewall capacitance
+loc:Rand-Sperrschtkapazität
+eng:K2 shift factor for well proximity effect
+loc:K2-Verschiebungsfaktor für den Proximity-Effekt der Wannen
+eng:K2 shift factor related to stress effect on vth
+loc:K2-Verschiebungsfaktor aufgrund des Spannungseffekts auf vth
+eng:K2 shift modification factor for stress effect
+loc:Modifikationsfaktor für die K2-Verschiebung beim Spannungseffekt
+eng:L offset for channel length due to mask/etch effect
+loc:Kanallängenversatz aufgrund des Masken-/Ätzeffekts
+eng:L-U decomposition time
+loc:L-U-Zerlegungsdauer
+eng:LCD height in pixels
+loc:LCD-Höhe in Pixeln
+eng:LCD width in pixels
+loc:LCD-Breite in Pixeln
+eng:LPNP type device
+loc:LPNP-Bauelement
+eng:LTRA model
+loc:Modell für gedämpfte Leitung
+eng:LVM file name
+loc:Name der LVM-Datei
+eng:Laplace variable expression
+loc:Ausdruck mit Laplace-Variable
+eng:Lateral diffusion
+loc:Querdiffusion
+eng:Lateral diffusion (Width)
+loc:Querdiffusion (Breite)
+eng:Lateral nonuniform doping effect
+loc:Effekt der seitlichen ungleichmäßigen Dotierung
+eng:Lateral nonuniform doping effect for body bias
+loc:Einfluss ungleichmäßiger seitlicher Dotierung auf Usub
+eng:Layout dependent body-resistance coefficient
+loc:Koeffizient für den layoutabhängigen Substratwiderstand
+eng:Layout dependent rbody multiplier
+loc:Layoutabhängiger rbody-Faktor
+eng:Length
+loc:Länge
+eng:Length dependence of a0
+loc:Längenabhängigkeit von a0
+eng:Length dependence of a1
+loc:Längenabhängigkeit von a1
+eng:Length dependence of a2
+loc:Längenabhängigkeit von a2
+eng:Length dependence of abjtii
+loc:Längenabhängigkeit von abjtii
+eng:Length dependence of acde
+loc:Längenabhängigkeit von acde
+eng:Length dependence of aely
+loc:Längenabhängigkeit von aely
+eng:Length dependence of agidl
+loc:Längenabhängigkeit von agidl
+eng:Length dependence of agisl
+loc:Längenabhängigkeit von agisl
+eng:Length dependence of ags
+loc:Längenabhängigkeit von ags
+eng:Length dependence of ahli
+loc:Längenabhängigkeit von ahli
+eng:Length dependence of ahlid
+loc:Längenabhängigkeit von ahlid
+eng:Length dependence of ai0
+loc:Längenabhängigkeit von ai0
+eng:Length dependence of aib
+loc:Längenabhängigkeit von aib
+eng:Length dependence of aigbacc
+loc:Längenabhängigkeit von aigbacc
+eng:Length dependence of aigbcp2
+loc:Längenabhängigkeit von aigbcp2
+eng:Length dependence of aigbinv
+loc:Längenabhängigkeit von aigbinv
+eng:Length dependence of aigc
+loc:Längenabhängigkeit von aigc
+eng:Length dependence of aigd
+loc:Längenabhängigkeit von aigd
+eng:Length dependence of aigs
+loc:Längenabhängigkeit von aigs
+eng:Length dependence of aigsd
+loc:Längenabhängigkeit von aigsd
+eng:Length dependence of alpha0
+loc:Längenabhängigkeit von alpha0
+eng:Length dependence of alpha1
+loc:Längenabhängigkeit von alpha1
+eng:Length dependence of alphagb1
+loc:Längenabhängigkeit von alphagb1
+eng:Length dependence of alphagb2
+loc:Längenabhängigkeit von alphagb2
+eng:Length dependence of at
+loc:Längenabhängigkeit von at
+eng:Length dependence of b0
+loc:Längenabhängigkeit von b0
+eng:Length dependence of b1
+loc:Längenabhängigkeit von b1
+eng:Length dependence of beta0
+loc:Längenabhängigkeit von beta0
+eng:Length dependence of beta1
+loc:Längenabhängigkeit von beta1
+eng:Length dependence of beta2
+loc:Längenabhängigkeit von beta2
+eng:Length dependence of betagb1
+loc:Längenabhängigkeit von betagb1
+eng:Length dependence of betagb2
+loc:Längenabhängigkeit von betagb2
+eng:Length dependence of bgidl
+loc:Längenabhängigkeit von bgidl
+eng:Length dependence of bgisl
+loc:Längenabhängigkeit von bgisl
+eng:Length dependence of bi0
+loc:Längenabhängigkeit von bi0
+eng:Length dependence of bib
+loc:Längenabhängigkeit von bib
+eng:Length dependence of bigbacc
+loc:Längenabhängigkeit von bigbacc
+eng:Length dependence of bigbcp2
+loc:Längenabhängigkeit von bigbcp2
+eng:Length dependence of bigbinv
+loc:Längenabhängigkeit von bigbinv
+eng:Length dependence of bigc
+loc:Längenabhängigkeit von bigc
+eng:Length dependence of bigd
+loc:Längenabhängigkeit von bigd
+eng:Length dependence of bigs
+loc:Längenabhängigkeit von bigs
+eng:Length dependence of bigsd
+loc:Längenabhängigkeit von bigsd
+eng:Length dependence of cbjtii
+loc:Längenabhängigkeit von cbjtii
+eng:Length dependence of cdsc
+loc:Längenabhängigkeit von cdsc
+eng:Length dependence of cdscb
+loc:Längenabhängigkeit von cdscb
+eng:Length dependence of cdscd
+loc:Längenabhängigkeit von cdscd
+eng:Length dependence of cf
+loc:Längenabhängigkeit von cf
+eng:Length dependence of cgdl
+loc:Längenabhängigkeit von cgdl
+eng:Length dependence of cgidl
+loc:Längenabhängigkeit von cgidl
+eng:Length dependence of cgisl
+loc:Längenabhängigkeit von cgisl
+eng:Length dependence of cgsl
+loc:Längenabhängigkeit von cgsl
+eng:Length dependence of cigbacc
+loc:Längenabhängigkeit von cigbacc
+eng:Length dependence of cigbcp2
+loc:Längenabhängigkeit von cigbcp2
+eng:Length dependence of cigbinv
+loc:Längenabhängigkeit von cigbinv
+eng:Length dependence of cigc
+loc:Längenabhängigkeit von cigc
+eng:Length dependence of cigd
+loc:Längenabhängigkeit von cigd
+eng:Length dependence of cigs
+loc:Längenabhängigkeit von cigs
+eng:Length dependence of cigsd
+loc:Längenabhängigkeit von cigsd
+eng:Length dependence of cit
+loc:Längenabhängigkeit von cit
+eng:Length dependence of ckappa
+loc:Längenabhängigkeit von ckappa
+eng:Length dependence of ckappad
+loc:Längenabhängigkeit von ckappad
+eng:Length dependence of ckappas
+loc:Längenabhängigkeit von ckappas
+eng:Length dependence of clc
+loc:Längenabhängigkeit von clc
+eng:Length dependence of cle
+loc:Längenabhängigkeit von cle
+eng:Length dependence of delta
+loc:Längenabhängigkeit von delta
+eng:Length dependence of delvt
+loc:Längenabhängigkeit von delvt
+eng:Length dependence of drain-induced Vth shifts
+loc:Längenabhängigkeit der von Drain verursachten Uth-Änderungen
+eng:Length dependence of drout
+loc:Längenabhängigkeit von drout
+eng:Length dependence of dsub
+loc:Längenabhängigkeit von dsub
+eng:Length dependence of dvt0
+loc:Längenabhängigkeit von dvt0
+eng:Length dependence of dvt0w
+loc:Längenabhängigkeit von dvt0w
+eng:Length dependence of dvt1
+loc:Längenabhängigkeit von dvt1
+eng:Length dependence of dvt1w
+loc:Längenabhängigkeit von dvt1w
+eng:Length dependence of dvt2
+loc:Längenabhängigkeit von dvt2
+eng:Length dependence of dvt2w
+loc:Längenabhängigkeit von dvt2w
+eng:Length dependence of dvtp0
+loc:Längenabhängigkeit von dvtp0
+eng:Length dependence of dvtp1
+loc:Längenabhängigkeit von dvtp1
+eng:Length dependence of dvtp2
+loc:Längenabhängigkeit von dvtp2
+eng:Length dependence of dvtp3
+loc:Längenabhängigkeit von dvtp3
+eng:Length dependence of dvtp4
+loc:Längenabhängigkeit von dvtp4
+eng:Length dependence of dvtp5
+loc:Längenabhängigkeit von dvtp5
+eng:Length dependence of dwb
+loc:Längenabhängigkeit von dwb
+eng:Length dependence of dwg
+loc:Längenabhängigkeit von dwg
+eng:Length dependence of ebjtii
+loc:Längenabhängigkeit von ebjtii
+eng:Length dependence of egidl
+loc:Längenabhängigkeit von egidl
+eng:Length dependence of egisl
+loc:Längenabhängigkeit von egisl
+eng:Length dependence of eigbinv
+loc:Längenabhängigkeit von eigbinv
+eng:Length dependence of elm
+loc:Längenabhängigkeit von elm
+eng:Length dependence of esatii
+loc:Längenabhängigkeit von esatii
+eng:Length dependence of eta
+loc:Längenabhängigkeit von eta
+eng:Length dependence of eta0
+loc:Längenabhängigkeit von eta0
+eng:Length dependence of etab
+loc:Längenabhängigkeit von etab
+eng:Length dependence of eu
+loc:Längenabhängigkeit von eu
+eng:Length dependence of fbjtii
+loc:Längenabhängigkeit von fbjtii
+eng:Length dependence of fgidl
+loc:Längenabhängigkeit von fgidl
+eng:Length dependence of fgisl
+loc:Längenabhängigkeit von fgisl
+eng:Length dependence of gamma1
+loc:Längenabhängigkeit von gamma1
+eng:Length dependence of gamma2
+loc:Längenabhängigkeit von gamma2
+eng:Length dependence of idbjt
+loc:Längenabhängigkeit von idbjt
+eng:Length dependence of iddif
+loc:Längenabhängigkeit von iddif
+eng:Length dependence of idrec
+loc:Längenabhängigkeit von idrec
+eng:Length dependence of idtun
+loc:Längenabhängigkeit von idtun
+eng:Length dependence of isbjt
+loc:Längenabhängigkeit von isbjt
+eng:Length dependence of isdif
+loc:Längenabhängigkeit von isdif
+eng:Length dependence of isrec
+loc:Längenabhängigkeit von isrec
+eng:Length dependence of istun
+loc:Längenabhängigkeit von istun
+eng:Length dependence of k1
+loc:Längenabhängigkeit von k1
+eng:Length dependence of k1w1
+loc:Längenabhängigkeit von k1w1
+eng:Length dependence of k1w2
+loc:Längenabhängigkeit von k1w2
+eng:Length dependence of k2
+loc:Längenabhängigkeit von k2
+eng:Length dependence of k2we
+loc:Längenabhängigkeit von k2we
+eng:Length dependence of k3
+loc:Längenabhängigkeit von k3
+eng:Length dependence of k3b
+loc:Längenabhängigkeit von k3b
+eng:Length dependence of kb1
+loc:Längenabhängigkeit von kb1
+eng:Length dependence of keta
+loc:Längenabhängigkeit von keta
+eng:Length dependence of ketas
+loc:Längenabhängigkeit von ketas
+eng:Length dependence of kgidl
+loc:Längenabhängigkeit von kgidl
+eng:Length dependence of kgisl
+loc:Längenabhängigkeit von kgisl
+eng:Length dependence of kt1
+loc:Längenabhängigkeit von kt1
+eng:Length dependence of kt1l
+loc:Längenabhängigkeit von kt1l
+eng:Length dependence of kt2
+loc:Längenabhängigkeit von kt2
+eng:Length dependence of ku0
+loc:Längenabhängigkeit von ku0
+eng:Length dependence of ku0we
+loc:Längenabhängigkeit von ku0we
+eng:Length dependence of kvth0
+loc:Längenabhängigkeit von kvth0
+eng:Length dependence of kvth0we
+loc:Längenabhängigkeit von kvth0we
+eng:Length dependence of lambda
+loc:Längenabhängigkeit von lambda
+eng:Length dependence of lbjt0
+loc:Längenabhängigkeit von lbjt0
+eng:Length dependence of lii
+loc:Längenabhängigkeit von lii
+eng:Length dependence of lp
+loc:Längenabhängigkeit von lp
+eng:Length dependence of lpe0
+loc:Längenabhängigkeit von lpe0
+eng:Length dependence of lpeb
+loc:Längenabhängigkeit von lpeb
+eng:Length dependence of lucs
+loc:Längenabhängigkeit von lucs
+eng:Length dependence of mbjtii
+loc:Längenabhängigkeit von mbjtii
+eng:Length dependence of minv
+loc:Längenabhängigkeit von minv
+eng:Length dependence of minvcv
+loc:Längenabhängigkeit von minvcv
+eng:Length dependence of moin
+loc:Längenabhängigkeit von moin
+eng:Length dependence of mu0b
+loc:Längenabhängigkeit von mu0b
+eng:Length dependence of mu20
+loc:Längenabhängigkeit von mu20
+eng:Length dependence of mu2b
+loc:Längenabhängigkeit von mu2b
+eng:Length dependence of mu2g
+loc:Längenabhängigkeit von mu2g
+eng:Length dependence of mu30
+loc:Längenabhängigkeit von mu30
+eng:Length dependence of mu3b
+loc:Längenabhängigkeit von mu3b
+eng:Length dependence of mu3g
+loc:Längenabhängigkeit von mu3g
+eng:Length dependence of mu40
+loc:Längenabhängigkeit von mu40
+eng:Length dependence of mu4b
+loc:Längenabhängigkeit von mu4b
+eng:Length dependence of mu4g
+loc:Längenabhängigkeit von mu4g
+eng:Length dependence of mus
+loc:Längenabhängigkeit von mus
+eng:Length dependence of mus0
+loc:Längenabhängigkeit von mus0
+eng:Length dependence of musb
+loc:Längenabhängigkeit von musb
+eng:Length dependence of n0
+loc:Längenabhängigkeit von n0
+eng:Length dependence of nb
+loc:Längenabhängigkeit von nb
+eng:Length dependence of nbjt
+loc:Längenabhängigkeit von nbjt
+eng:Length dependence of nch
+loc:Längenabhängigkeit von nch
+eng:Length dependence of nd
+loc:Längenabhängigkeit von nd
+eng:Length dependence of ndep
+loc:Längenabhängigkeit von ndep
+eng:Length dependence of ndif
+loc:Längenabhängigkeit von ndif
+eng:Length dependence of ndiode
+loc:Längenabhängigkeit von ndiode
+eng:Length dependence of ndioded
+loc:Längenabhängigkeit von ndioded
+eng:Length dependence of nfactor
+loc:Längenabhängigkeit von nfactor
+eng:Length dependence of ngate
+loc:Längenabhängigkeit von ngate
+eng:Length dependence of ngidl
+loc:Längenabhängigkeit von ngidl
+eng:Length dependence of nigbacc
+loc:Längenabhängigkeit von nigbacc
+eng:Length dependence of nigbinv
+loc:Längenabhängigkeit von nigbinv
+eng:Length dependence of nigc
+loc:Längenabhängigkeit von nigc
+eng:Length dependence of nlx
+loc:Längenabhängigkeit von nlx
+eng:Length dependence of noff
+loc:Längenabhängigkeit von noff
+eng:Length dependence of nrecf0
+loc:Längenabhängigkeit von nrecf0
+eng:Length dependence of nrecf0d
+loc:Längenabhängigkeit von nrecf0d
+eng:Length dependence of nrecr0
+loc:Längenabhängigkeit von nrecr0
+eng:Length dependence of nrecr0d
+loc:Längenabhängigkeit von nrecr0d
+eng:Length dependence of nsd
+loc:Längenabhängigkeit von nsd
+eng:Length dependence of nsub
+loc:Längenabhängigkeit von nsub
+eng:Length dependence of ntox
+loc:Längenabhängigkeit von ntox
+eng:Length dependence of ntrecf
+loc:Längenabhängigkeit von ntrecf
+eng:Length dependence of ntrecr
+loc:Längenabhängigkeit von ntrecr
+eng:Length dependence of ntun
+loc:Längenabhängigkeit von ntun
+eng:Length dependence of ntund
+loc:Längenabhängigkeit von ntund
+eng:Length dependence of pclm
+loc:Längenabhängigkeit von pclm
+eng:Length dependence of pdiblc1
+loc:Längenabhängigkeit von pdiblc1
+eng:Length dependence of pdiblc2
+loc:Längenabhängigkeit von pdiblc2
+eng:Length dependence of pdiblcb
+loc:Längenabhängigkeit von pdiblcb
+eng:Length dependence of pdits
+loc:Längenabhängigkeit von pdits
+eng:Length dependence of pditsd
+loc:Längenabhängigkeit von pditsd
+eng:Length dependence of phi
+loc:Längenabhängigkeit von phi
+eng:Length dependence of phin
+loc:Längenabhängigkeit von phin
+eng:Length dependence of pigcd
+loc:Längenabhängigkeit von pigcd
+eng:Length dependence of poxedge
+loc:Längenabhängigkeit von poxedge
+eng:Length dependence of prt
+loc:Längenabhängigkeit von prt
+eng:Length dependence of prwb
+loc:Längenabhängigkeit von prwb
+eng:Length dependence of prwg
+loc:Längenabhängigkeit von prwg
+eng:Length dependence of pscbe1
+loc:Längenabhängigkeit von pscbe1
+eng:Length dependence of pscbe2
+loc:Längenabhängigkeit von pscbe2
+eng:Length dependence of pvag
+loc:Längenabhängigkeit von pvag
+eng:Length dependence of rdsw
+loc:Längenabhängigkeit von rdsw
+eng:Length dependence of rdw
+loc:Längenabhängigkeit von rdw
+eng:Length dependence of rgidl
+loc:Längenabhängigkeit von rgidl
+eng:Length dependence of rgisl
+loc:Längenabhängigkeit von rgisl
+eng:Length dependence of rsw
+loc:Längenabhängigkeit von rsw
+eng:Length dependence of sii0
+loc:Längenabhängigkeit von sii0
+eng:Length dependence of sii1
+loc:Längenabhängigkeit von sii1
+eng:Length dependence of sii2
+loc:Längenabhängigkeit von sii2
+eng:Length dependence of siid
+loc:Längenabhängigkeit von siid
+eng:Length dependence of teta0
+loc:Längenabhängigkeit von teta0
+eng:Length dependence of tnfactor
+loc:Längenabhängigkeit von tnfactor
+eng:Length dependence of tvfbsdoff
+loc:Längenabhängigkeit von tvfbsdoff
+eng:Length dependence of tvoff
+loc:Längenabhängigkeit von tvoff
+eng:Length dependence of tvoffcv
+loc:Längenabhängigkeit von tvoffcv
+eng:Length dependence of u0
+loc:Längenabhängigkeit von u0
+eng:Length dependence of u1
+loc:Längenabhängigkeit von u1
+eng:Length dependence of u10
+loc:Längenabhängigkeit von u10
+eng:Length dependence of u1b
+loc:Längenabhängigkeit von u1b
+eng:Length dependence of u1d
+loc:Längenabhängigkeit von u1d
+eng:Length dependence of ua
+loc:Längenabhängigkeit von ua
+eng:Length dependence of ua0
+loc:Längenabhängigkeit von ua0
+eng:Length dependence of ua1
+loc:Längenabhängigkeit von ua1
+eng:Length dependence of uab
+loc:Längenabhängigkeit von uab
+eng:Length dependence of ub
+loc:Längenabhängigkeit von ub
+eng:Length dependence of ub0
+loc:Längenabhängigkeit von ub0
+eng:Length dependence of ub1
+loc:Längenabhängigkeit von ub1
+eng:Length dependence of ubb
+loc:Längenabhängigkeit von ubb
+eng:Length dependence of uc
+loc:Längenabhängigkeit von uc
+eng:Length dependence of uc1
+loc:Längenabhängigkeit von uc1
+eng:Length dependence of ucste
+loc:Längenabhängigkeit von ucste
+eng:Length dependence of ud
+loc:Längenabhängigkeit von ud
+eng:Length dependence of ud1
+loc:Längenabhängigkeit von ud1
+eng:Length dependence of up
+loc:Längenabhängigkeit von up
+eng:Length dependence of ute
+loc:Längenabhängigkeit von ute
+eng:Length dependence of vabjt
+loc:Längenabhängigkeit von vabjt
+eng:Length dependence of vbci
+loc:Längenabhängigkeit von vbci
+eng:Length dependence of vbm
+loc:Längenabhängigkeit von vbm
+eng:Length dependence of vbx
+loc:Längenabhängigkeit von vbx
+eng:Length dependence of vdsatii0
+loc:Längenabhängigkeit von vdsatii0
+eng:Length dependence of vfb
+loc:Längenabhängigkeit von vfb
+eng:Length dependence of vfbcv
+loc:Längenabhängigkeit von vfbcv
+eng:Length dependence of vfbsdoff
+loc:Längenabhängigkeit von vfbsdoff
+eng:Length dependence of vghigh
+loc:Längenabhängigkeit von vghigh
+eng:Length dependence of vglow
+loc:Längenabhängigkeit von vglow
+eng:Length dependence of vof0
+loc:Längenabhängigkeit von vof0
+eng:Length dependence of vofb
+loc:Längenabhängigkeit von vofb
+eng:Length dependence of vofd
+loc:Längenabhängigkeit von vofd
+eng:Length dependence of voff
+loc:Längenabhängigkeit von voff
+eng:Length dependence of voffcv
+loc:Längenabhängigkeit von voffcv
+eng:Length dependence of vrec0
+loc:Längenabhängigkeit von vrec0
+eng:Length dependence of vrec0d
+loc:Längenabhängigkeit von vrec0d
+eng:Length dependence of vsat
+loc:Längenabhängigkeit von vsat
+eng:Length dependence of vsdfb
+loc:Längenabhängigkeit von vsdfb
+eng:Length dependence of vsdth
+loc:Längenabhängigkeit von vsdth
+eng:Length dependence of vtl
+loc:Längenabhängigkeit von vtl
+eng:Length dependence of vto
+loc:Längenabhängigkeit von vto
+eng:Length dependence of vtun0
+loc:Längenabhängigkeit von vtun0
+eng:Length dependence of vtun0d
+loc:Längenabhängigkeit von vtun0d
+eng:Length dependence of w0
+loc:Längenabhängigkeit von w0
+eng:Length dependence of wr
+loc:Längenabhängigkeit von wr
+eng:Length dependence of x2e
+loc:Längenabhängigkeit von x2e
+eng:Length dependence of x2ms
+loc:Längenabhängigkeit von x2ms
+eng:Length dependence of x2mz
+loc:Längenabhängigkeit von x2mz
+eng:Length dependence of x2u0
+loc:Längenabhängigkeit von x2u0
+eng:Length dependence of x2u1
+loc:Längenabhängigkeit von x2u1
+eng:Length dependence of x3e
+loc:Längenabhängigkeit von x3e
+eng:Length dependence of x3ms
+loc:Längenabhängigkeit von x3ms
+eng:Length dependence of x3u1
+loc:Längenabhängigkeit von x3u1
+eng:Length dependence of xbjt
+loc:Längenabhängigkeit von xbjt
+eng:Length dependence of xdif
+loc:Längenabhängigkeit von xdif
+eng:Length dependence of xdifd
+loc:Längenabhängigkeit von xdifd
+eng:Length dependence of xj
+loc:Längenabhängigkeit von xj
+eng:Length dependence of xn
+loc:Längenabhängigkeit von xn
+eng:Length dependence of xrcrg1
+loc:Längenabhängigkeit von xrcrg1
+eng:Length dependence of xrcrg2
+loc:Längenabhängigkeit von xrcrg2
+eng:Length dependence of xrec
+loc:Längenabhängigkeit von xrec
+eng:Length dependence of xrecd
+loc:Längenabhängigkeit von xrecd
+eng:Length dependence of xt
+loc:Längenabhängigkeit von xt
+eng:Length dependence of xtun
+loc:Längenabhängigkeit von xtun
+eng:Length dependence of xtund
+loc:Längenabhängigkeit von xtund
+eng:Length dependence parameter for Vth offset
+loc:Längenabhängigkeitsparameter für den vth-Offset
+eng:Length dependence parameter for Vth offset in CV
+loc:Längenabhängigkeitsparameter für den vth-Offset in CV
+eng:Length of line
+loc:Leitungslänge
+eng:Length of transmission line
+loc:Länge der Übertragungsleitung
+eng:Length offset fitting parameter for backgate charge
+loc:Längenversatz-Anpassungsparameter für die Substratladung
+eng:Length offset fitting parameter for body charge
+loc:Längenversatz-Anpassungsparameter für die Substratladung
+eng:Length parameter for u0 LOD effect
+loc:Längenparameter für den LOD-Effekt von u0
+eng:Length parameter for vth LOD effect
+loc:Längenparameter für den LOD-Effekt von vth
+eng:Length reduction of source drain diffusion
+loc:Längenreduzierung der Source-Drain-Diffusion
+eng:Length reduction parameter
+loc:Längenverkürzungsparameter
+eng:Length reduction parameter for CV
+loc:Längenverkürzungsparameter für CV
+eng:Length scaling parameter for II BJT part
+loc:Längenskalierungsparameter für II BJT-Bauelement
+eng:Level of 'one' signal
+loc:Pegel für 1
+eng:Level of 'unknown' signal
+loc:Pegel für 'Uneindeutig'
+eng:Level of 'zero' signal
+loc:Pegel für 0
+eng:Linear VGS dependence of mobility
+loc:Lineare Ugs-Abhängigkeit der Ladungsträgerbeweglichkeit
+eng:Linear gate dependence of mobility
+loc:Lineare Gate-Abhängigkeit der Ladungsträgerbeweglichkeit
+eng:Linear temperature coefficient of VBBE
+loc:Linearer Temperaturkoeffizient von Ubbe
+eng:Lint offset for noise calculation
+loc:Lint-Offset für Rauschberechnung
+eng:Listing file
+loc:Listendatei
+eng:Load time
+loc:Ladedauer
+eng:Load value (f)
+loc:Lastwert (f)
+eng:Local temperature difference
+loc:Lokaler Temperaturunterschied
+eng:Log-linear switch
+loc:Auswahl für logarithmisch/linear
+eng:Logical one value
+loc:Wert für logischen 1-Pegel
+eng:Logical threshold value
+loc:Logischer Schwellwert
+eng:Logical zero value
+loc:Wert für logischen 0-Pegel
+eng:Longitudinal critical field
+loc:Longitudinale kritische Feldstärke
+eng:Longitudinal critical field temperature coefficient
+loc:Temperaturkoeffizient für die longitudinale kritische Feldstärke
+eng:Low-field mobility at Tnom
+loc:Ladungsträgerbeweglichkeit bei schwachen Feldern bei Tnom
+eng:Low-field mobility, at VDS=0 VGS=VTH
+loc:Ladungsträgerbeweglichkeit bei schwachen Feldern bei Uds=0 und Ugs=vth
+eng:Low-level reverse breakdown ideality factor
+loc:Zweiter Idealitätsfaktor für den Durchbruch in Sperrrichtung
+eng:Low-level reverse breakdown knee current
+loc:Zweiter Durchbruch-Kniestrom
+eng:Lower bound of built-in potential lowering for FD operation
+loc:Untergrenze für Diffusionspotentialverringerung bei vollständiger Verarmung
+eng:Lower bound of the cubic spline function
+loc:Untergrenze der kubischen Spline-Funktion
+eng:Lower transient iteration limit
+loc:Min. Anzahl der Transienteniterationen
+eng:Magnetic field array
+loc:Magnetfeld-Array
+eng:Matrix reordering time
+loc:Matrix-Neuordnungsdauer
+eng:Matrix solve time
+loc:Matrix-Lösungsdauer
+eng:Maximum 0-valued analog input
+loc:Max. Analogwert für 0
+eng:Maximum Vbs
+loc:Max. Ubs
+eng:Maximum Vds
+loc:Max. Uds
+eng:Maximum Vgs
+loc:Max. Ugs
+eng:Maximum analog/event alternations in DCOP
+loc:Max. Änderungen an Analogsignalen/Ereignissen in DCOP
+eng:Maximum body voltage
+loc:Maximale Body-Spannung
+eng:Maximum carrier drift velocity
+loc:Maximale Driftgeschwindigkeit der Ladungsträger
+eng:Maximum conductance
+loc:Maximaler Leitwert
+eng:Maximum event iterations at analysis point
+loc:Maximale Ereignisiterationen am Analysepunkt
+eng:Maximum frequency of interest
+loc:Max. zu untersuchende Frequenz
+eng:Maximum integration order
+loc:Maximale Integrationsordnung
+eng:Maximum length for the model
+loc:Höchstlänge für das Modell
+eng:Maximum lines
+loc:Maximale Zeilenanzahl
+eng:Maximum points per analysis
+loc:Maximale Punkte pro Analyse
+eng:Maximum time step
+loc:Max. Zeitschritt
+eng:Maximum width for the model
+loc:Höchstbreite für das Modell
+eng:Minimize either D or S
+loc:D oder S minimieren
+eng:Minimum 1-valued analog input
+loc:Min. Analogwert für 1
+eng:Minimum acceptable pivot
+loc:Minimal zulässiger Drehpunkt
+eng:Minimum acceptable ratio of pivot
+loc:Minimal zulässiges Achsenverhältnis
+eng:Minimum base resistance at high currents
+loc:Min. Basisbahnwiderstand bei großem Basistrom
+eng:Minimum body conductance
+loc:Minimaler Substratleitwert
+eng:Minimum conductance
+loc:Minimaler Leitwert
+eng:Minimum digital timestep units
+loc:Einheit für den minimalen Digitalzeitschritt
+eng:Minimum length for the model
+loc:Mindestlänge für das Modell
+eng:Minimum refresh delay
+loc:Min. Verzögerung beim Aktualisieren
+eng:Minimum time between breakpoints
+loc:Mindestzeitspanne zwischen Haltepunkten
+eng:Minimum width for the model
+loc:Mindestbreite für das Modell
+eng:Minimum width for thermal resistance calculation
+loc:Mindestbreite für die Berechnung des thermischen Widerstands
+eng:Mobility at VDS=VDD VGS=VTH
+loc:Ladungsträgerbeweglichkeit bei Uds=Udd und UGS=vth
+eng:Mobility at VDS=VDD VGS=VTH, channel length modulation
+loc:Ladungsträgerbeweglichkeit bei Uds=Udd, Ugs=vth und Kanallängenmodulation
+eng:Mobility degradation factor for well proximity effect
+loc:Faktor für die Beweglichkeitsabnahme beim Wannen-Proximity-Effekt
+eng:Mobility degradation/enhancement coefficient for LOD
+loc:LOD-Koeffizient für die Abnahme/Zunahme der Beweglichkeit
+eng:Mobility exponent
+loc:Exponent für die Ladungsträgerbeweglichkeit
+eng:Mobility model selector
+loc:Auswahl für Ladungsträgerbeweglichkeitsmodell
+eng:Mobility reduction coefficient
+loc:Koeffizient für die Abnahme der Ladungsträgerbeweglichkeit
+eng:Mobility temperature exponent
+loc:Temperaturkoeffizient für die Ladungsträgerbeweglichkeit
+eng:Mode switch (1 = pwl, 2 = hyst)
+loc:Modus (1 = Stückw. linear, 2 = Hyst.)
+eng:Model operating temperature
+loc:Modellbetriebstemperatur
+eng:Model parameter checking selector
+loc:Auswahl für die Modellparameterprüfung
+eng:Model selector for SOI technology
+loc:Modellauswahl für SOI-Technologie
+eng:Move cursor
+loc:Cursor verschieben
+eng:Move cursor flag
+loc:Flag für Cursor-Verschiebung
+eng:Multiplicity
+loc:Anzahl parallel geschalteter Bauelemente
+eng:Multiplier
+loc:Faktor
+eng:Multiplier constant for log resistance
+loc:Konstanter Faktor für log. Widerstand
+eng:Mutual coupled inductor array
+loc:Array gekoppelter Spulen
+eng:N type JFET model
+loc:Modell für n-Kanal-JFET
+eng:N type MESFET model
+loc:Modell für n-Kanal-MESFET
+eng:N type MOSFET model
+loc:Modell für n-Kanal-MOSFET
+eng:N-channel or P-channel MOS
+loc:n- oder p-Kanal-MOSFET
+eng:N-type or P-type JFET model
+loc:Modell für n- oder p-Kanal-JFET
+eng:N-type or P-type MESFET model
+loc:Modell für n- oder p-Kanal-MESFET
+eng:NPN or PNP or LPNP
+loc:NPN oder PNP oder LPNP
+eng:NPN type device
+loc:NPN-Bauelement
+eng:NQS time constant
+loc:Nicht quasistationäre Zeitkonstante
+eng:Name of controlling source
+loc:Name der steuernden Quelle
+eng:Name of output variable
+loc:Name der Ausgangsvariablen
+eng:Name of source to step
+loc:Name der zu variierenden Quelle
+eng:Narrow channel effect coefficient
+loc:Koeffizient für den Schmalkanaleffekt
+eng:Narrow width coefficient 0
+loc:Schmalkanalkoeffizient 0
+eng:Narrow width effect coefficient
+loc:Koeffizient für den Schmalkanaleffekt
+eng:Narrow width effect coefficient 1
+loc:Schmalkanaleffekt-Koeffizient 1
+eng:Narrow width effect coefficient 2
+loc:Schmalkanaleffekt-Koeffizient 2
+eng:Narrow width effect parameter
+loc:Parameter für den Schmalkanaleffekt
+eng:Narrowing due to side etching
+loc:Verengung infolge der Kantenätzung
+eng:Negative Node
+loc:Negativer Knoten
+eng:Negative controlling node of switch
+loc:Negativer Steuerknoten des Schalters
+eng:Negative node of URC
+loc:Negativer Knoten von Urc
+eng:Negative node of controlling source
+loc:Negativer Knoten der steuernden Quelle
+eng:Negative node of end 1 of t-line
+loc:Negativer Knoten am 1. Ende der t-Leitung
+eng:Negative node of end 1 of transmission line
+loc:Negativer Knoten am 1. Ende der Übertragungsleitung
+eng:Negative node of end 2 of t-line
+loc:Negativer Knoten am 2. Ende der t-Leitung
+eng:Negative node of end 2 of transmission line
+loc:Negativer Knoten am 2. Ende der Übertragungsleitung
+eng:Negative node of source
+loc:Negativer Knoten der Quelle
+eng:Negative node of switch
+loc:Negativer Knoten des Schalters
+eng:New C-V model parameter
+loc:Parameter für neues CV-Modell
+eng:New material mod backward compatibility selector
+loc:Rückwärtskompatible Auswahl für neues Materialmodell
+eng:New mobility reduction coefficient
+loc:Neuer Koeffizient für die Abnahme der Ladungsträgerbeweglichkeit
+eng:Newton iteration limiting flag
+loc:Begrenzungs-Flag für Newton-Iteration
+eng:Next pattern to output
+loc:Nächstes auszugebendes Muster
+eng:Noise equation selector
+loc:Auswahl für Rauschgleichung
+eng:Noise level selector
+loc:Rauschpegelauswahl
+eng:Noise magnitude ratio
+loc:Verhältnis des Rauschens zur Amplitude
+eng:Noise model selector
+loc:Auswahl für Rauschmodell
+eng:Nominal drain saturation voltage at threshold for impact ionization current
+loc:Nominale Drain-Sättigungsspannung am Schwellwert für den Stoßionisationsstrom
+eng:Nominal temperature
+loc:Nominaltemperatur
+eng:Nominal threshold voltage
+loc:Nominale Schwellenspannung
+eng:Non-ideal B-C emission coefficient
+loc:Nicht idealer Basis-Kollektor-Emissionskoeffizient
+eng:Non-ideal B-C saturation current
+loc:Nicht idealer Basis-Kollektor-Sättigungsstrom
+eng:Non-ideal B-E emission coefficient
+loc:Nicht idealer Basis-Emitter-Emissionskoeffizient
+eng:Non-ideal B-E saturation current
+loc:Nicht idealer Basis-Emitter-Sättigungsstrom
+eng:Non-ideal parasitic B-C emission coefficient
+loc:Nicht idealer parasitischer BC-Emissionskoeffizient
+eng:Non-ideal parasitic B-C saturation current
+loc:Nicht idealer parasitischer BC-Sättigungsstrom
+eng:Non-ideal parasitic B-E saturation current
+loc:Nicht idealer parasitischer BE-Sättigungsstrom
+eng:Non-ideality factor for STI sidewall junction
+loc:Unvollkommenheitsfaktor für STI-Seitenwandschicht
+eng:Non-ideality factor for STI sidewall junction drain side
+loc:Unvollkommenheitsfaktor für STI-Seitenwandschicht (Drain-Seite)
+eng:Non-ideality factor for bottom junction
+loc:Unvollkommenheitsfaktor für Bodenschicht
+eng:Non-ideality factor for bottom junction drain side
+loc:Unvollkommenheitsfaktor für die Bodenschicht (Drain-Seite)
+eng:Non-ideality factor for gate-edge sidewall junction
+loc:Unvollkommenheitsfaktor der an das Gate-Oxid angrenzenden Seitenwandschicht
+eng:Non-ideality factor for gate-edge sidewall junction drain side
+loc:Unvollkommenheitsfaktor der an das Gate-Oxid angrenzenden Seitenwandschicht (Drain-Seite)
+eng:Non-quasi-static Elmore Constant Parameter
+loc:Elmore-Konstante für nicht-quasistationäres Modell
+eng:Non-quasi-static model selector
+loc:Auswahl für nicht-quasistationäres Modell
+eng:Non-quasi-static operation switch
+loc:Schalter für nicht quasistationäres Modell
+eng:Non-saturation effect coefficient
+loc:Koeffizient für Nicht-Sättigungs-Effekt
+eng:Nonuniform depletion width effect coefficient
+loc:Koeffizient für den ungleichmäßigen Sperrschichtbreiteneffekt
+eng:Normal/blink cursor
+loc:Cursor normal/blinkend
+eng:Normalized length at frequency given
+loc:Normalisierte Länge bei der gegebenen Frequenz
+eng:Number of Gmin steps
+loc:Anzahl der Gmin-Schritte
+eng:Number of X columns
+loc:Anzahl von X-Spalten
+eng:Number of base node
+loc:Nummer des Basisknotens
+eng:Number of body contact isolation edge
+loc:Nummer der Substratkontakt-Isolationskante
+eng:Number of bulk node
+loc:Nummer des Substratknotens
+eng:Number of channels
+loc:Kanalanzahl
+eng:Number of collector node
+loc:Nummer des Kollektorknotens
+eng:Number of emitter node
+loc:Nummer des Emitterknotens
+eng:Number of fingers
+loc:Fingeranzahl
+eng:Number of frequencies
+loc:Anzahl der Frequenzen
+eng:Number of gate contacts
+loc:Anzahl der Gate-Kontakte
+eng:Number of high clock cycles
+loc:Anzahl der High-Taktperioden
+eng:Number of inductor turns
+loc:Anzahl der Spulenwindungen
+eng:Number of internal drain node
+loc:Nummer des internen Drain-Knotens
+eng:Number of internal source node
+loc:Nummer des internen Source-Knotens
+eng:Number of lumps
+loc:Anzahl von Konzentrationspunkten
+eng:Number of samples
+loc:Sample-Anzahl
+eng:Number of segments for width partitioning
+loc:Segmentanzahl für die Breitenaufteilung
+eng:Number of source steps
+loc:Anzahl der Quellsignalschritte
+eng:Number of squares in body
+loc:Quadratanzahl in Substratfläche
+eng:Number of squares in drain
+loc:Quadratanzahl in Drain-Diffusionsfläche
+eng:Number of squares in source
+loc:Quadratanzahl in Source-Diffusionsfläche
+eng:Number of substrate node
+loc:Nummer des Substratknotens
+eng:Number of the drain node
+loc:Nummer des Drain-Knotens
+eng:Number of the gate node
+loc:Nummer des Gate-Knotens
+eng:Number of the internal bulk node
+loc:Nummer des internen Substratknotens
+eng:Number of the internal gate node
+loc:Nummer des internen Gate-Knotens
+eng:Number of the node
+loc:Nummer des Knotens
+eng:Number of the source node
+loc:Nummer des Source-Knotens
+eng:Numerator gain
+loc:Zählerverstärkung
+eng:Numerator offset
+loc:Zähler-Offset
+eng:Numerator polynomial coefficient
+loc:Koeffizient des Zählerpolynoms
+eng:Off current
+loc:AUS-Strom
+eng:Off resistance
+loc:Ausschaltwiderstand
+eng:Off voltage
+loc:Ausschaltspannung
+eng:Offset
+loc:Offset
+eng:Offset value for character
+loc:Offset-Wert für Zeichen
+eng:Ohmic conductance
+loc:Ohmscher Leitwert
+eng:On current
+loc:EIN-Strom
+eng:On resistance
+loc:Einschaltwiderstand
+eng:On voltage
+loc:Einschaltspannung
+eng:Open Collector or Open Drain
+loc:Offener Kollektor oder offenes Drain
+eng:Open conductance
+loc:Leitwert (geöffnet)
+eng:Open delay
+loc:Öffnungsverzögerung
+eng:Open resistance
+loc:Widerstand (geöffnet)
+eng:Operating Frequency
+loc:Betriebsfrequenz
+eng:Operating temperature
+loc:Betriebstemperatur
+eng:Options
+loc:Optionen
+eng:Order of the source function
+loc:Ordnung der Quellenfunktion
+eng:Output array
+loc:Ausgangs-Array
+eng:Output current
+loc:Ausgangsstrom
+eng:Output data in Power/RMS value
+loc:Ausgabewert als Leistung/Effektivwert
+eng:Output delay
+loc:Ausgabeverzögerung
+eng:Output delay from pulse width
+loc:Ausgabeverzögerung ab Impulsbreite
+eng:Output delay from trigger
+loc:Ausgabeverzögerung nach dem Trigger
+eng:Output duty cycle
+loc:Ausgabetaktverhältnis
+eng:Output expression
+loc:Ausgangsausdruck
+eng:Output fall time
+loc:Abfallzeit am Ausgang
+eng:Output gain
+loc:Ausgangsverstärkung
+eng:Output high value
+loc:Max. Ausgangspegel
+eng:Output initial condition
+loc:Anfangsbedingung für die Ausgabe
+eng:Output initial count value
+loc:Anfänglicher Ausgangszählwert
+eng:Output initial state
+loc:Anfangszustand des Ausgangs
+eng:Output level
+loc:Ausgangspegel
+eng:Output low value
+loc:Min. Ausgangspegel
+eng:Output lower delta
+loc:Minimale Ausgabeschrittweite
+eng:Output lower limit
+loc:Min. Ausgangswert
+eng:Output negative node
+loc:Negativer Ausgangsknoten
+eng:Output noise reference node
+loc:Referenzknoten für Ausgangsrauschen
+eng:Output noise summation node
+loc:Summierknoten für Ausgangsrauschen
+eng:Output offset
+loc:Ausgabeoffset
+eng:Output positive node
+loc:Positiver Ausgangsknoten
+eng:Output resistance smoothing domain
+loc:Glättungsbereich des Ausgangswiderstands
+eng:Output rise time
+loc:Anstiegszeit am Ausgang
+eng:Output source
+loc:Ausgangsquelle
+eng:Output transition time
+loc:Übergangsdauer der Ausgabe
+eng:Output type of equation
+loc:Ausgabetyp der Gleichung
+eng:Output upper delta
+loc:Maximale Ausgabeschrittweite
+eng:Output upper limit
+loc:Max. Ausgangswert
+eng:Output voltage
+loc:Ausgangsspannung
+eng:Outputs array
+loc:Array der Ausgangswerte
+eng:Oxide thickness
+loc:Oxiddicke
+eng:P type JFET model
+loc:Modell für p-Kanal-JFET
+eng:P type MESFET model
+loc:Modell für p-Kanal-MESFET
+eng:P type MOSFET model
+loc:Modell für p-Kanal-MOSFET
+eng:PNP type device
+loc:PNP-Bauelement
+eng:PSpice Switch model
+loc:PSpice-Schaltermodell
+eng:Parameter for GIDL selector
+loc:Parameter für GIDL-Auswahl
+eng:Parameter for III selector
+loc:Parameter für III-Auswahl
+eng:Parameter for Igb
+loc:Parameter für Igb
+eng:Parameter for Igbacc slope
+loc:Parameter für Igbacc-Steigung
+eng:Parameter for Igbinv slope
+loc:Parameter für Igbinv-Steigung
+eng:Parameter for Igc
+loc:Parameter für Igc
+eng:Parameter for Igc partition
+loc:Parameter für Igc-Verteilung
+eng:Parameter for Igc slope
+loc:Parameter für Igc-Steigung
+eng:Parameter for Igd
+loc:Parameter für Igd
+eng:Parameter for Igs
+loc:Parameter für Igs
+eng:Parameter for Igs,d
+loc:Parameter für Igs,d
+eng:Parameter for body-bias dependence of GIDL
+loc:Parameter für Substratspannungsabhängigkeit von GIDL
+eng:Parameter for body-bias dependence of GISL
+loc:Parameter für Substratspannungsabhängigkeit von GISL
+eng:Parameter for model version
+loc:Parameter für Modellversion
+eng:Parameter for non-silicon substrate or metal gate selector
+loc:Auswahlparameter für Nicht-Silizium-Substrat oder Metall-Gate
+eng:Parameter for the Si bandgap for Igbinv
+loc:Parameter für den Si-Bandabstand für Igbinv
+eng:Parameter measurement temperature
+loc:Parametermesstemperatur
+eng:Parasitic base resistance
+loc:Parasitischer Basiswiderstand
+eng:Parasitic base to collector capacitance
+loc:Parasitische Basis-Kollektor-Kapazität
+eng:Parasitic base to emitter capacitance
+loc:Parasitische Basis-Emitter-Kapazität
+eng:Parasitic forward emission coefficient
+loc:Parasitischer Vorwärts-Emissionskoeffizient
+eng:Parasitic gate to body overlap area for bc parasitics
+loc:Parasitischer Gate/Body-Überlappungsbereich für parasitäre Effekte an BC
+eng:Parasitic knee current
+loc:Parasitischer Kniestrom
+eng:Parasitic resistance
+loc:Parasitärer Widerstand
+eng:Parasitic transport saturation current
+loc:Parasitischer Transport-Sättigungsstrom
+eng:Partial derivatives from DC analysis used for AC gains
+loc:Für AC-Verstärkungen genutzte partielle Ableitungen aus der DC-Analyse
+eng:Pattern to output
+loc:Auszugebendes Muster
+eng:Pause to set breakpoints
+loc:Zum Einfügen von Haltepunkten anhalten
+eng:Pd and Ps model selector
+loc:Auswahl für Pd- und Ps-Modell
+eng:Perimeter length for bc parasitics at drain side
+loc:Bereichsumfang für drainseitige parasitäre Basis-Kollektor-Effekte
+eng:Perimeter length for bc parasitics at source side
+loc:Bereichsumfang für sourceseitige parasitäre Basis-Kollektor-Effekte
+eng:Phasor diagram
+loc:Zeigerdiagramm
+eng:Physical gate oxide thickness
+loc:Physische Gateoxiddicke
+eng:Physical gate oxide thickness in meters
+loc:Physische Gate-Oxiddicke in Metern
+eng:Piecewise linear description
+loc:Beschreibung für stückweise lineare Kurve
+eng:Piecewise linear description file
+loc:Beschreibungsdatei für stückweise lineare Kurve
+eng:Piecewise linear from dynamic source
+loc:Stückweise lineare Kurve von dynamischer Quelle
+eng:Pinch-off voltage
+loc:Abschnürspannung
+eng:Poly-gate doping concentration
+loc:Konzentration der Poly-Gate-Dotierung
+eng:Portion of IBEI from Vbei, 1-WBE from Vbex
+loc:IBEI-Anteil von Ubei, 1-WBE von Ubex
+eng:Portion of ICCP
+loc:ICCP-Anteil
+eng:Pos/neg edge trigger switch
+loc:Schalten für Trigger bei pos./neg. Flanke
+eng:Position of section
+loc:Position des Abschnitts
+eng:Position of wiper connection (0.0 to 1.0)
+loc:Position des Schleifers (0.0 bis 1.0)
+eng:Positive Node
+loc:Positiver Knoten
+eng:Positive controlling node of switch
+loc:Positiver Steuerknoten des Schalters
+eng:Positive node of URC
+loc:Positiver Knoten von Urc
+eng:Positive node of controlling source
+loc:Positiver Knoten der steuernden Quelle
+eng:Positive node of end 1 of t-line
+loc:Positiver Knoten am 1. Ende der t-Leitung
+eng:Positive node of end 1 of transmission line
+loc:Positiver Knoten am 1. Ende der Übertragungsleitung
+eng:Positive node of end 2 of t-line
+loc:Positiver Knoten am 2. Ende der t-Leitung
+eng:Positive node of end 2 of transmission line
+loc:Positiver Knoten am 2. Ende der Übertragungsleitung
+eng:Positive node of source
+loc:Positiver Knoten der Quelle
+eng:Positive node of switch
+loc:Positiver Knoten des Schalters
+eng:Power
+loc:Leistung
+eng:Power coefficient of channel length dependence for bipolar current
+loc:Leistungskoeffizient der Kanallängenabhängigkeit des bipolaren Stroms
+eng:Power coefficient of channel length dependence for diffusion capacitance
+loc:Leistungskoeffizient der Kanallängenabhängigkeit der Diffusionskapazität
+eng:Power dependence of JTSD on temperature
+loc:Temperaturabhängigkeit der JTSD-Leistung
+eng:Power dependence of JTSS on temperature
+loc:Temperaturabhängigkeit der JTSS-Leistung
+eng:Power dependence of JTSSWD on temperature
+loc:Temperaturabhängigkeit der JTSSWD-Leistung
+eng:Power dependence of JTSSWGD on temperature
+loc:Temperaturabhängigkeit der JTSSWGD-Leistung
+eng:Power dependence of JTSSWGS on temperature
+loc:Temperaturabhängigkeit der JTSSWGS-Leistung
+eng:Power dependence of JTSSWS on temperature
+loc:Temperaturabhängigkeit der JTSSWS-Leistung
+eng:Power dissipated by the JFET
+loc:Vom JFET abgeführte Leistung
+eng:Power dissipated by the MESFET
+loc:Vom MESFET abgeführte Leistung
+eng:Power dissipation
+loc:Wärmeverlustleistung
+eng:Power on
+loc:Einschalten
+eng:Power smoothing range
+loc:Glättungsbereich der Leistung
+eng:Power status
+loc:Versorgungsstatus
+eng:Power supplied by the source
+loc:Leistung der Quelle
+eng:Power term of gate current
+loc:Leistung des Gate-Stroms
+eng:Pre-exponential constant for GIDL
+loc:Präexponentielle Konstante für GIDL
+eng:Pre-exponential constant for GISL
+loc:Präexponentielle Konstante für GISL
+eng:Pre-factor of hot-electron effect
+loc:Vorfaktor des Hot-Electron-Effekts
+eng:Pre_power status
+loc:Status vor dem Einschalten
+eng:Previous current
+loc:Vorheriger Strom
+eng:Previous noise
+loc:Vorheriges Rauschen
+eng:Print a list of the options
+loc:Liste aller Optionen drucken
+eng:Print a listing
+loc:Liste drucken
+eng:Print a node connection summary
+loc:Knotenverbindungsübersicht drucken
+eng:Print accounting
+loc:Abrechnung drucken
+eng:Propagation constant
+loc:Fortpflanzungskonstante
+eng:Pulse ON time width
+loc:EIN-Dauer des Impulses
+eng:Pulse amplitude
+loc:Impulsamplitude
+eng:Pulse description
+loc:Impulsbeschreibung
+eng:Pulse width array
+loc:Impulsbreiten-Array
+eng:Punch-through voltage of internal B-C junction
+loc:Sperrschicht-Berührungsspannung der internen BC-Strecke
+eng:Qbulk
+loc:Qbulk
+eng:Qdrain
+loc:Qdrain
+eng:Qgate
+loc:Qgate
+eng:Qinversion
+loc:Qinversion
+eng:Qsource
+loc:Qsource
+eng:Quadratic VGS dependence of mobility
+loc:Quadratische Ugs-Abhängigkeit der Ladungsträgerbeweglichkeit
+eng:Quadratic gate dependence of mobility
+loc:Quadratische Gate-Abhängigkeit der Ladungsträgerbeweglichkeit
+eng:Quadratic temperature coefficient of VBBE
+loc:Quadratischer Temperaturkoeffizient von Ubbe
+eng:Quasi-saturation extrapolated bandgap voltage at 0 K
+loc:Auf Quasisättigung extrapolierte Bandabstandsspannung bei 0 K
+eng:Quasi-saturation model flag for temperature dependence
+loc:Modell-Flag für Temperaturabhängigkeit bei Quasisättigung
+eng:Quasi-saturation temperature coefficient for hole mobility
+loc:Temperaturkoeffizient für Löcherbeweglichkeit bei Quasisättigung
+eng:Quasi-saturation temperature coefficient for scattering-limited hole carrier velocity
+loc:Temperaturkoeffizient für streuratenbegrenzte Löcherbeweglichkeit bei Quasisättigung
+eng:RAM address pointer
+loc:RAM-Adresszeiger
+eng:RAM buffer
+loc:RAM-Puffer
+eng:RAM buffer (high 16 bits)
+loc:RAM-Puffer (höchste 16 Bits)
+eng:RAM buffer (low 16 bits)
+loc:RAM-Puffer (niedrigste 16 Bits)
+eng:RAM cursor position
+loc:Cursor-Position im RAM
+eng:RB linear temperature coefficient
+loc:Linearer Temperaturkoeffizient von RB
+eng:RB quadratic temperature coefficient
+loc:Quadratischer Temperaturkoeffizient von RB
+eng:RBM linear temperature coefficient
+loc:Linearer Temperaturkoeffizient von RBM
+eng:RBM quadratic temperature coefficient
+loc:Quadratischer Temperaturkoeffizient von RBM
+eng:RC linear temperature coefficient
+loc:Linearer Temperaturkoeffizient von RC
+eng:RC quadratic temperature coefficient
+loc:Quadratischer Temperaturkoeffizient von RC
+eng:RD linear temperature coefficient
+loc:Linearer Temperaturkoeffizient von RD
+eng:RE linear temperature coefficient
+loc:Linearer Temperaturkoeffizient von RE
+eng:RE quadratic temperature coefficient
+loc:Quadratischer Temperaturkoeffizient von RE
+eng:RG linear temperature coefficient
+loc:Linearer Temperaturkoeffizient von RG
+eng:ROM buffer (high 16 bits)
+loc:ROM-Puffer (höchste 16 Bits)
+eng:ROM buffer (low 16 bits)
+loc:ROM-Puffer (niedrigste 16 Bits)
+eng:ROM size (bytes)
+loc:ROM-Größe (Byte)
+eng:ROM words
+loc:ROM-Words
+eng:RS linear temperature coefficient
+loc:RS-Temperaturkoeffizient (linear)
+eng:RS quadratic temperature coefficient
+loc:RS-Temperaturkoeffizient (quadratisch)
+eng:RSCE characteristic length
+loc:RSCE: charakteristische Länge
+eng:RSCE excess charge
+loc:RSCE: Überschussladungsträger
+eng:Ramp time
+loc:Anlaufzeit
+eng:Ratio defining the saturation limit
+loc:Verhältnis zur Bestimmung der Sättigungsgrenze
+eng:Ratio of F2 to F1
+loc:Verhältnis von F2 zu F1
+eng:Read delay from address/select/write_en active
+loc:Leseverzögerung von Adresse/Auswahl/Schreiben aktiviert
+eng:Read/write status flag
+loc:Status-Flag für Lesen/Schreiben
+eng:Read/write type
+loc:Lesen/Schreiben
+eng:Real array parameter
+loc:Reeller Array-Parameter
+eng:Real parameter
+loc:Reeller Parameter
+eng:Real part of AC sensitivity
+loc:Realteil der AC-Empfindlichkeit
+eng:Real part of AC sensitivity with respect to length
+loc:Realteil der AC-Empfindlichkeit in Bezug auf die Länge
+eng:Real part of AC sensitivity with respect to width
+loc:Realteil der AC-Empfindlichkeit in Bezug auf die Breite
+eng:Recombination current parameter
+loc:Rekombinationsstromparameter
+eng:Recombination in depletion saturation current
+loc:Sättigungsstrom der Rekombination bei Verarmung
+eng:Recombination non-ideality factor at forward bias
+loc:Rekombinations-Unvollkommenheitsfaktor bei Betrieb in Durchlassrichtung
+eng:Recombination non-ideality factor at reversed bias
+loc:Rekombinations-Unvollkommenheitsfaktor bei Betrieb in Sperrrichtung
+eng:Record operating point for each small-signal analysis
+loc:Arbeitspunkt bei Kleinsignalanalysen speichern
+eng:Reference channel length for bipolar current
+loc:Länge des Bezugskanals für bipolaren Strom
+eng:Reference distance between OD edge to poly of one side
+loc:Bezugsabstand zwischen OD-Kante und Polysilizium auf einer Seite
+eng:Reference distance between OD edge to poly of the other side
+loc:Bezugsabstand zwischen OD-Kante und Polysilizium auf der anderen Seite
+eng:Reference distance to calculate SCA, SCB and SCC
+loc:Bezugsdistanz zur Berechnung von SCA, SCB und SCC
+eng:Reference version
+loc:Bezugsversion
+eng:Rejected timepoints
+loc:Abgelehnte Zeitpunkte
+eng:Relative error tolerance
+loc:Relative Fehlertoleranz
+eng:Relative rate of change of derivative for bkpt
+loc:Relative Änderungsrate der Ableitung von bkpt
+eng:Relative to AKO model temperature
+loc:Relativ zur AKO-Modell-Temperatur
+eng:Relative to current global temperature
+loc:Relativ zur aktuellen globalen Temperatur
+eng:Repeat input flag
+loc:Eingabe wiederholen (Flag)
+eng:Repeated piecewise linear description
+loc:Beschreibung für wiederholte stückweise lineare Kurve
+eng:Repeated piecewise linear description file
+loc:Beschreibungsdatei für wiederholte stückweise lineare Kurve
+eng:Reset all the analysis options
+loc:Alle Analyseoptionen zurücksetzen
+eng:Reset load value (f)
+loc:Lastwert zurücksetzen (f)
+eng:Reset loading capacitance (f)
+loc:Belastungskapazität zurücksetzen (f)
+eng:Resistance
+loc:Widerstand
+eng:Resistance between bNode and dbNode
+loc:Widerstand zwischen bNode und dbNode
+eng:Resistance between bNode and sbNode
+loc:Widerstand zwischen bNode und sbNode
+eng:Resistance between bNodePrime and bNode
+loc:Widerstand zwischen bNodePrime und bNode
+eng:Resistance between bNodePrime and sbNode
+loc:Widerstand zwischen bNodePrime und sbNode
+eng:Resistance multiplier
+loc:Widerstandsfaktor
+eng:Resistance per meter
+loc:Widerstand pro Meter
+eng:Resistance per unit length
+loc:Widerstand pro Längeneinheit
+eng:Restore Multisim state after completion of each LabVIEW minor time step
+loc:Multisim-Zustand nach Abschluss jedes kleineren LabVIEW-Zeitschritts wiederherstellen
+eng:Retrigger switch
+loc:Schalter für Nach-Trigger
+eng:Reverse Early voltage
+loc:Early-Spannung der BE-Diode
+eng:Reverse breakdown ideality factor
+loc:Idealitätsfaktor für den Durchbruch in Sperrrichtung
+eng:Reverse breakdown knee current
+loc:Durchbruchstrom in Sperrrichtung
+eng:Reverse breakdown knee voltage
+loc:Durchbruchspannung in Sperrrichtung
+eng:Reverse current
+loc:Rückwärtsstrom
+eng:Reverse current (prime)
+loc:Rückwärtsstrom (prime)
+eng:Reverse current emission coefficient
+loc:Emissionskoeffizient des Rückwärtsstroms
+eng:Reverse drain diode forward limiting current
+loc:Durchlassgrenzstrom der Drain-Diode in Sperrrichtung
+eng:Reverse emission coefficient
+loc:Rückwärts-Emissionskoeffizient
+eng:Reverse knee current
+loc:Kniestrom (rückwärts)
+eng:Reverse source diode forward limiting current
+loc:Durchlassgrenzstrom der Source-Diode in Sperrrichtung
+eng:Reverse tunneling non-ideality factor
+loc:Unvollkommenheitsfaktor für Reverse Tunneling
+eng:Reverse tunneling saturation current
+loc:Sättigungsstrom für Reverse Tunneling
+eng:Revision version
+loc:Version
+eng:Rise delay
+loc:Verzögerung des Anstiegsbeginns
+eng:Rise time
+loc:Anstiegszeit
+eng:Rise time 0 -> 1
+loc:Anstiegszeit (0 -> 1)
+eng:Rise time duty cycle
+loc:Anstiegsanteil der Periode
+eng:Rising slew limit
+loc:Anstiegsgrenze
+eng:Rout degradation coefficient for pocket devices
+loc:Rout-Degradationskoeffizient für Pocket-Bauelemente
+eng:Rx FIFO size (bytes)
+loc:Rx-FIFO-Größe (Byte)
+eng:S-C capacitance smoothing factor
+loc:Glättungsfaktor der Source-Kollektor-Kapazität
+eng:S-C junction built in potential
+loc:Diffusionsspannung der SC-Sperrschicht
+eng:S-C junction grading coefficient
+loc:Kapazitätskoeffizient der SC-Sperrschicht
+eng:S/D doping concentration
+loc:Konzentration der S/D-Dotierung
+eng:S/D flatband voltage offset
+loc:Offest für die Soure/Drain-Flachbandspannung
+eng:S/D resistance and contact model selector
+loc:Auswahl für Modell für S/D-Widerstände und -Kontakte
+eng:S/G overlap C-V parameter
+loc:Source-Gate-Überlappung (CV-Parameter)
+eng:SCE parameter for improved dVbi model
+loc:SCE-Parameter für verbessertes dVbi-Modell
+eng:SE use high_level/falling_edge trigger
+loc:SE-Trigger ist hoher Pegel/fallende Flanke
+eng:Saturation Current per unit length
+loc:Sättigungsstrom pro Längeneinheit
+eng:Saturation current
+loc:Sättigungsstrom
+eng:Saturation current coefficient
+loc:Sättigungsstromkoeffizient
+eng:Saturation current factor
+loc:Sättigungsstromfaktor
+eng:Saturation current modification parameter
+loc:Modifizierungsparameter für den Sättigungsstrom
+eng:Saturation drain voltage
+loc:Drain-Sättigungsspannung
+eng:Saturation electric field for impact ionization
+loc:Elektrische Sättigungsfeldstärke für Stoßionisation
+eng:Saturation velocity at tnom
+loc:Sättigungsgeschwindigkeit bei tnom
+eng:Saturation velocity degradation/enhancement parameter for LOD
+loc:LOD-Parameter für die Abnahme/Zunahme der Sättigungsgeschwindigkeit
+eng:Saturation voltage coefficient
+loc:Sättigungsspannungskoeffizient
+eng:Saturation voltage factor for impact ionization
+loc:Sättigungsspannungsfaktor für die Stoßionisation
+eng:Saturation voltage parameter
+loc:Sättigungsspannungsparameter
+eng:Saturation-current temperature exponent
+loc:Temperaturexponent für den Sättigungsstrom
+eng:Save 4 bit command initialize flag
+loc:4-Bit-Flag zur Befehlsinitialisierung speichern
+eng:Save 8 bit command flag
+loc:8-Bit-Befehls-Flag speichern
+eng:Save CE value
+loc:CE-Wert speichern
+eng:Save E value
+loc:E-Wert speichern
+eng:Save WR value
+loc:WR-Wert speichern
+eng:Save command
+loc:Befehl speichern
+eng:Save in RAM model or in display mode
+loc:In RAM-Modell oder Anzeigemodus speichern
+eng:Save states at each major time-step taken by LabVIEW
+loc:Zustände bei jedem größeren Zeitschritt von LabVIEW speichern
+eng:Save the display buffer
+loc:Anzeigepufferinhalt speichern
+eng:Save the font set
+loc:Schriftart speichern
+eng:Scaling factor for backgate charge
+loc:Skalierungsfaktor für die Substratladung
+eng:Scaling factor for body charge
+loc:Skalierungsfaktor für die Substratladung
+eng:Schmitt input flag
+loc:Flag für Schmitt-Eingang
+eng:Second Vds dependent parameter of impact ionization current
+loc:2. Uds-abhängiger Parameter des Stoßionisationsstroms
+eng:Second Vgp dependent parameter for gate current in accumulation in AGBCP2 region
+loc:2. Ugp-abhängiger Parameter für den Gate-Strom in der Akkumulation in der AGBCP2-Region
+eng:Second Vgs dependent parameter for impact ionization current
+loc:2. Ugs-abhängiger Parameter für den Stoßionisationsstrom
+eng:Second Vox dependent parameter for gate current in accumulation
+loc:2. Uox-abhängiger Parameter für den Gate-Strom bei Anreicherung
+eng:Second Vox dependent parameter for gate current in inversion
+loc:2. Uox-abhängiger Parameter für den Gate-Strom bei Inversion
+eng:Second backgate body effect parameter for short channel effect
+loc:2. Backgate-Substrateffekt-Parameter für den Kurzkanaleffekt
+eng:Second body effect width dependent parameter
+loc:2. Breitenabhängigkeitsparameter für den Substrateffekt
+eng:Second coupled inductor
+loc:Zweite gekoppelte Spule
+eng:Second fitting parameter the bias-dependent Rg
+loc:2. Anpassungsparameter des vorspannungsabhängigen Rg
+eng:Second impact ionization coefficient
+loc:2. Koeffizient für den Stoßionisationseffekt
+eng:Second parameter for Vth shift due to pocket
+loc:2. Parameter für Uth-Verschiebung durch Tasche (Pocket)
+eng:Second parameter of bandgap change due to temperature
+loc:2. Parameter für die temperaturbedingte Bandabstandsänderung
+eng:Second short-channel effect parameter in FD module
+loc:2. Kurzkanaleffekt-Parameter in vollständig verarmtem Modul
+eng:Select SGP qb formulation
+loc:Quantenballistische Formulierung (SGP-Modell) wählen
+eng:Select load value (f)
+loc:Lastwert auswählen (f)
+eng:Self heating mode selector
+loc:Auswahl für Selbsterhitzungsmodus
+eng:Self-heating thermal capacitance
+loc:Thermische Kapazität bei Selbsterhitzung
+eng:Self-heating thermal resistance
+loc:Thermischer Widerstand bei Selbsterhitzung
+eng:Sensitivity of AC magnitude
+loc:Empfindlichkeit der AC-Amplitude
+eng:Sensitivity of AC phase
+loc:Empfindlichkeit der AC-Phase
+eng:Sensitivity with respect to l of AC magnitude
+loc:Empfindlichkeit in Bezug auf den Strom der AC-Amplitude
+eng:Sensitivity with respect to l of AC phase
+loc:Empfindlichkeit in Bezug auf den Strom der AC-Phase
+eng:Sensitivity with respect to w of AC magnitude
+loc:Empfindlichkeit in Bezug auf die Leistung der AC-Amplitude
+eng:Sensitivity with respect to w of AC phase
+loc:Empfindlichkeit in Bezug auf die Leistung der AC-Phase
+eng:Separate IS for forward and reverse
+loc:Separate IS-Werte für vorwärts und rückwärts
+eng:Set load value (f)
+loc:Lastwert festlegen (f)
+eng:Set number of digits printed
+loc:Anzahl gedruckter Ziffern festlegen
+eng:Sheet resistance
+loc:Flächenwiderstand
+eng:Shift display when writing
+loc:Anzeige beim Schreiben mitlaufen lassen
+eng:Short channel coefficient
+loc:Koeffizient für den Kurzkanaleffekt
+eng:Short channel effect coefficient 0
+loc:Schmalkanaleffekt-Koeffizient 0
+eng:Short channel effect coefficient 1
+loc:Schmalkanaleffekt-Koeffizient 1
+eng:Short channel effect coefficient 2
+loc:Schmalkanaleffekt-Koeffizient 2
+eng:Shunt resistance from analog nodes to ground
+loc:Shunt-Widerstand zwischen den Analogknoten und Masse
+eng:Side grading coefficient
+loc:Kapazitätskoeffizient der Seitenfläche
+eng:Side junction capacitance per area
+loc:Kapazität der Seitenfläche
+eng:Sidewall junction reverse saturation current density
+loc:Sperrsättigungsstromdichte der Randschicht
+eng:Sidewall p-n capacitance per length
+loc:Seitenwand-pn-Kapazität pro Länge
+eng:Sidewall p-n grading coefficient
+loc:Seitenwand-pn-Kapazitätskoeffizient
+eng:Silicon-on-insulator thickness in meters
+loc:SOI-Dicke in Metern
+eng:Simulator COM object string ID
+loc:String-ID des Simulator-COM-Objekts
+eng:Single frequency FM description
+loc:Beschreibung für Einzelfrequenz-FM
+eng:Sinking current smoothing range
+loc:Glättungsbereich des Senkstroms
+eng:Sinking resistance
+loc:Lastwiderstand
+eng:Sinusoidal source description
+loc:Beschreibung der Quelle für Sinussignal
+eng:Slope factor
+loc:Steigungsfaktor
+eng:Small signal conductance - mu
+loc:Kleinsignalleitwert - mu
+eng:Small signal conductance dIb/dVbc
+loc:Kleinsignal-Leitwert dIb/dUbc
+eng:Small signal input conductance - pi
+loc:Kleinsignal-Eingangsleitwert - pi
+eng:Small signal input conductance dIb/dVbe
+loc:Kleinsignal-Eingangsleitwert dIb/dUbe
+eng:Small signal output conductance
+loc:Kleinsignalausgangsleitwert
+eng:Small signal output conductance dIc/dVbc
+loc:Kleinsignal-Ausgangsleitwert dIc/dUbc
+eng:Small signal transconductance
+loc:Kleinsignal-Gegenwirkleitwert
+eng:Small signal transconductance dIc/dVbe
+loc:Kleinsignal-Steilheit dIc/dUbe
+eng:Smoothing %/abs switch
+loc:Glättung prozentual/absolut
+eng:Smoothing domain
+loc:Glättungsbereich
+eng:Smoothing fraction/absolute value switch
+loc:Glättungswerte fraktional/absolut
+eng:Smoothing fractional/abs switch
+loc:Glättung fraktional/absolut
+eng:Smoothing parameter for reach-through
+loc:Glättungsparameter für Durchgreifeffekt
+eng:Smoothing parameter in FD module
+loc:Glättungsparameter in vollständig verarmtem Modul
+eng:Smoothing percent/abs switch
+loc:Glättung prozentual/absolut
+eng:Source (gate side) sidewall junction capacitance built in potential
+loc:Diffusionsspannung der (gateseitigen) Source-Randschicht
+eng:Source (gate side) sidewall junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der (gateseitigen) Source-Randschicht
+eng:Source (gate side) sidewall junction capacitance per unit width
+loc:(Gateseitige) Source-Randschicht-Kapazität pro Breiteneinheit
+eng:Source STI sidewall trap-assisted saturation current density
+loc:Haftstellenbegünstigte Source-Sättigungsstromdichte der STI-Seitenwand
+eng:Source STI sidewall trap-assisted voltage dependent parameter
+loc:Schwellspannung für TAT-Strom in sourceseitiger STI-Seitenwand
+eng:Source area
+loc:Source-Diffusionsfläche
+eng:Source bottom junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der Source-Bodenschicht
+eng:Source bottom junction capacitance per unit area
+loc:Source-Bodenschicht-Kapazität pro Flächeneinheit
+eng:Source bottom trap-assisted saturation current density
+loc:Haftstellenbegünstigte Sättigungsstromdichte der Source-Bodenschicht
+eng:Source bottom trap-assisted voltage dependent parameter
+loc:Spannung in Abhängigkeit von der durch Source-Boden-Haftstellen begünstigten Spannung
+eng:Source conductance
+loc:Leitwert der Quelle
+eng:Source contact resistance
+loc:Source-Kontaktwiderstand
+eng:Source current
+loc:Source-Strom
+eng:Source diode breakdown voltage
+loc:Durchbruchstrom der Source-Diode
+eng:Source drain bottom junction capacitance grading coefficient
+loc:Source/Drain-Bodenschicht-Kapazitätskoeffizient
+eng:Source drain bottom junction capacitance per unit area
+loc:Source/Drain-Bodenschicht-Kapazität pro Flächeneinheit
+eng:Source drain diffusion sheet resistance in ohm per square
+loc:Diffusionsflächenwiderstand von Drain und Source in Ohm
+eng:Source drain junction built in potential
+loc:Source/Drain-Diffusionsspannung
+eng:Source drain junction saturation current per unit area
+loc:Source/Drain-Sättigungsstrom pro Flächeneinheit
+eng:Source drain side junction capacitance built in potential
+loc:Source/Drain-Randschicht-Diffusionsspannung
+eng:Source drain side junction capacitance grading coefficient
+loc:Source/Drain-Randschicht-Kapazitätskoeffizient
+eng:Source drain side junction capacitance per unit area
+loc:Source/Drain-Randschicht-Kapazität pro Flächeneinheit
+eng:Source gate-edge sidewall trap-assisted saturation current density
+loc:Haftstellenbegünstigte Source-Sättigungsstromdichte der an das Gate-Oxid angrenzenden Seitenwand
+eng:Source gate-edge sidewall trap-assisted voltage dependent parameter
+loc:Schwellspannung für TAT-Strom der sourceseitig an Gate angrenzenden Seitenwand
+eng:Source junction built-in potential
+loc:Diffusionsspannung der Source-Elektrode
+eng:Source junction current temperature exponent
+loc:Temperaturexponent für den Source-Strom
+eng:Source junction emission coefficient
+loc:Emissionskoeffizient der Source-Elektrode
+eng:Source ohmic resistance
+loc:Ohmscher Widerstand von Source
+eng:Source perimeter
+loc:Umfang der Source-Diffusionsfläche
+eng:Source resistance
+loc:Source-Widerstand
+eng:Source resistance per width
+loc:Source-Widerstand pro Breite
+eng:Source resistance per width at high Vg
+loc:Source-Widerstand pro Breite bei hohem Ug
+eng:Source sidewall junction capacitance built in potential
+loc:Diffusionsspannung der Source-Randschicht
+eng:Source sidewall junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der Source-Randschicht
+eng:Source sidewall junction capacitance per unit periphery
+loc:Kapazität der Source-Randschicht pro Peripherieeinheit
+eng:Source squares
+loc:Anz. von Quadraten der Source-Fläche
+eng:Source transconductance
+loc:Source-Steigung
+eng:Source(gate side) sidewall junction capacitance built in potential
+loc:Diffusionsspannung der (gateseitigen) Source-Randschicht
+eng:Source(gate side) sidewall junction capacitance per unit width
+loc:(Gateseitige) Source-Randschicht-Kapazität pro Breiteneinheit
+eng:Source-drain resistance per width
+loc:Source-Drain-Widerstand pro Breite
+eng:Source-drain resistance per width at high Vg
+loc:Source-Drain-Widerstand pro Breite bei hohem Ug
+eng:Source-drain sheet resistance
+loc:Source-Drain-Flächenwiderstand
+eng:Source/drain (gate side) sidewall junction capacitance built in potential
+loc:Diffusionsspannung der (gateseitigen) Source/Drain-Randschicht
+eng:Source/drain (gate side) sidewall junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der (gateseitigen) Source/Drain-Randschicht
+eng:Source/drain (gate side) sidewall junction capacitance per unit width
+loc:Kapazität der (gateseitigen) Source/Drain-Randschicht pro Breiteneinheit
+eng:Source/drain bottom diffusion capacitance flatband voltage
+loc:Flachbandspannung für die Diffusionskapazität der Source/Drain-Bodenfläche
+eng:Source/drain bottom diffusion capacitance threshold voltage
+loc:Schwellspannung für die Diffusionskapazität der Source/Drain-Bodenfläche
+eng:Source/drain bottom diffusion minimum capacitance
+loc:Minimale Diffusionskapazität der Source/Drain-Bodenfläche
+eng:Source/drain bottom diffusion smoothing parameter
+loc:Glättungsparameter für die Diffusion der Source/Drain-Bodenfläche
+eng:Source/drain bottom junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der Source/Drain-Unterseite
+eng:Source/drain bottom junction capacitance per unit area
+loc:Kapazität der Source/Drain-Unterseite pro Flächeneinheit
+eng:Source/drain junction built-in potential
+loc:Diffusionsspannung der Source/Drain-Strecke
+eng:Source/drain junction emission coefficient
+loc:Emissionskoeffizient der Source/Drain-Strecke
+eng:Source/drain junction reverse saturation current density
+loc:Sperrsättigungsstromdichte der Source/Drain-Strecke
+eng:Source/drain sidewall fringing capacitance per unit length
+loc:Randkapazität der Source/Drain-Seitenwand pro Längeneinheit
+eng:Source/drain sidewall junction capacitance built in potential
+loc:Diffusionsspannung der Source/Drain-Randschicht
+eng:Source/drain sidewall junction capacitance grading coefficient
+loc:Kapazitätskoeffizient der Source/Drain-Randschicht
+eng:Source/drain sidewall junction capacitance per unit periphery
+loc:Kapazität der Source/Drain-Randschicht pro Peripherieeinheit
+eng:Sourcing current smoothing range
+loc:Glättungsbereich des Quellstroms
+eng:Special abstol for straight line checking
+loc:Spezifische absolute Toleranz für die Geradlinigkeitsprüfung
+eng:Special reltol for straight line checking
+loc:Spezifische relative Toleranz für die Geradlinigkeitsprüfung
+eng:Square wave fall time
+loc:Abfallzeit für Rechteckschwingung
+eng:Square wave pulsed time
+loc:High-Dauer der Rechteckschwingung
+eng:Square wave rise time
+loc:Anstiegszeit für Rechteckschwingung
+eng:Standard deviation of noise
+loc:Standardabweichung des Rauschens
+eng:Standard diagram
+loc:Standarddiagramm
+eng:Start debugger flag
+loc:Debugger starten (Flag)
+eng:Starting frequency
+loc:Anfangsfrequenz
+eng:Starting time
+loc:Beginn
+eng:Starting voltage/current
+loc:Anfangsspannung/-strom
+eng:State transition specification file name
+loc:Dateiname für Zustandsübergangsangabe
+eng:Static feedback effect parameter
+loc:Parameter für statischen Rückkopplungseffekt
+eng:Step by decades
+loc:Dekadenschritte
+eng:Step by octaves
+loc:Oktavenschritte
+eng:Step linearly
+loc:Lineare Schritte
+eng:Step non-linearity
+loc:Nichtlinearität der Schritte
+eng:String array parameter
+loc:String-Array-Parameter
+eng:String parameter
+loc:String-Parameter
+eng:Strong inversion surface potential
+loc:Oberflächenpotential bei starker Inversion
+eng:Substrate current
+loc:Substratstrom
+eng:Substrate current body-effect coefficient
+loc:Substratstromkoeffizient beim Substrateffekt
+eng:Substrate current model parameter
+loc:Substratstrom-Modellparameter
+eng:Substrate doping
+loc:Substrat-Dotierdichte
+eng:Substrate doping concentration
+loc:Konzentration der Substratdotierung
+eng:Substrate doping concentration with polarity
+loc:Substratdotierkonzentration mit Polarität
+eng:Substrate emission coefficient
+loc:Substrat-Emissionskoeffizient
+eng:Substrate junction built-in potential
+loc:Diffusionsspannung der Substratschicht
+eng:Substrate junction exponential factor
+loc:Exponentialfaktor der Substratschicht
+eng:Substrate saturation current
+loc:Substrat-Sättigungsstrom
+eng:Substrate to body overlap area for bc parasitics
+loc:Substrat/Substratkörper-Überlappungsbereich für parasitäre Basis-Kollektor-Kapazitäten
+eng:Subthreshold region DIBL coefficient
+loc:Barrierendegradationskoeffizient des Unterschwellbereichs
+eng:Subthreshold slope
+loc:Unterschwellensteigung
+eng:Subthreshold slope at VDS=0 VBS=0
+loc:Unterschwellensteigung bei Uds=0 und Ubs=0
+eng:Subthreshold swing Coefficient
+loc:Schwingkoeffizient der Unterschwellensteigung
+eng:Suggested initial voltage
+loc:Vorgeschlagene Anfangsspannung
+eng:Supply voltage to specify mus
+loc:Versorgungsspannung zur Angabe von mus
+eng:Suppress numerical oscillations
+loc:Numerische Schwankungen unterdrücken
+eng:Surface mobility
+loc:Oberflächenbeweglichkeit
+eng:Surface potential
+loc:Oberflächenpotential
+eng:Surface potential adjustment for bulk charge effect
+loc:Oberflächenpotentialanpassung für Substratladungseffekt
+eng:Surface state density
+loc:Oberflächenzustandsdichte
+eng:Switch current
+loc:Schaltstrom
+eng:Switch for on-board limiting (convergence aid)
+loc:Schalter für Begrenzung auf HW (Kovergenzhilfe)
+eng:Switch initially closed
+loc:Schalter ist Öffner
+eng:Switch initially open
+loc:Schalter ist Schließer
+eng:Switch model
+loc:Schaltermodell
+eng:Switch power
+loc:Schaltleistung
+eng:Switch state
+loc:Schaltzustand
+eng:TAT current width dependence
+loc:Strombreitenabhängigkeit bei thermisch begünstiger Tunnelung
+eng:TDM file name
+loc:Name der TDM-Datei
+eng:Target oxide thickness
+loc:Angestrebte Oxiddicke
+eng:Target tox value
+loc:Angestrebte Oxiddicke (TOX)
+eng:Technology
+loc:Technologie
+eng:Technology type
+loc:Art der Technologie
+eng:Temperature
+loc:Temperatur
+eng:Temperature and multiplier adjusted capacitance
+loc:Temperatur- und faktorangepasste Kapazität
+eng:Temperature and multiplier adjusted inductance
+loc:Temperatur- und faktorangepasste Induktivität
+eng:Temperature and multiplier adjusted resistance
+loc:Temperatur- und faktorangepasster Widerstand
+eng:Temperature coefficient (2 values)
+loc:Temperaturkoeffizient (2 Werte)
+eng:Temperature coefficient for Iddif
+loc:Temperaturkoeffizient für Iddif
+eng:Temperature coefficient for Idrec
+loc:Temperaturkoeffizient für Idrec
+eng:Temperature coefficient for Idtun
+loc:Temperaturkoeffizient für Idtun
+eng:Temperature coefficient for Isbjt
+loc:Temperaturkoeffizient für Isbjt
+eng:Temperature coefficient for Isdif
+loc:Temperaturkoeffizient für Isdif
+eng:Temperature coefficient for Isrec
+loc:Temperaturkoeffizient für Isrec
+eng:Temperature coefficient for Istun
+loc:Temperaturkoeffizient für Istun
+eng:Temperature coefficient for NJTS
+loc:Temperaturkoeffizient für NJTS
+eng:Temperature coefficient for NJTSD
+loc:Temperaturkoeffizient für NJTSD
+eng:Temperature coefficient for NJTSSW
+loc:Temperaturkoeffizient für NJTSSW
+eng:Temperature coefficient for NJTSSWD
+loc:Temperaturkoeffizient für NJTSSWD
+eng:Temperature coefficient for NJTSSWG
+loc:Temperaturkoeffizient für NJTSSWG
+eng:Temperature coefficient for NJTSSWGD
+loc:Temperaturkoeffizient für NJTSSWGD
+eng:Temperature coefficient for Nrecf
+loc:Temperaturkoeffizient für Nrecf
+eng:Temperature coefficient for VBCI
+loc:Temperaturkoeffizient für Ubci
+eng:Temperature coefficient for ibb
+loc:Temperaturkoeffizient für ibb
+eng:Temperature coefficient of Cjswgd
+loc:Temperaturkoeffizient von Cjswgd
+eng:Temperature coefficient of Cjswgs
+loc:Temperaturkoeffizient von Cjswgs
+eng:Temperature coefficient of KU0
+loc:Temperaturkoeffizient von KU0
+eng:Temperature coefficient of NBBE
+loc:Temperaturkoeffizient von NBBE
+eng:Temperature coefficient of Pbswgd
+loc:Temperaturkoeffizient von Pbswgd
+eng:Temperature coefficient of Pbswgs
+loc:Temperaturkoeffizient von Pbswgs
+eng:Temperature coefficient of UCS
+loc:Temperaturkoeffizient von Ucs
+eng:Temperature coefficient of Vth
+loc:Temperaturkoeffizient von vth
+eng:Temperature coefficient of cj
+loc:Temperaturkoeffizient von cj
+eng:Temperature coefficient of cjsw
+loc:Temperaturkoeffizient von cjsw
+eng:Temperature coefficient of cjswg
+loc:Temperaturkoeffizient von cjswg
+eng:Temperature coefficient of coulombic mobility
+loc:Temperaturkoeffizient der coloumbschen Ladungsträgerbeweglichkeit
+eng:Temperature coefficient of mobility
+loc:Temperaturkoeffizient der Ladungsträgerbeweglichkeit
+eng:Temperature coefficient of parasitic resistance
+loc:Temperaturkoeffizient des parasitären Widerstands
+eng:Temperature coefficient of pb
+loc:Temperaturkoeffizient von pb
+eng:Temperature coefficient of pbsw
+loc:Temperaturkoeffizient von pbsw
+eng:Temperature coefficient of pbswg
+loc:Temperaturkoeffizient von pbswg
+eng:Temperature coefficient of ua
+loc:Temperaturkoeffizient von ua
+eng:Temperature coefficient of ub
+loc:Temperaturkoeffizient von ub
+eng:Temperature coefficient of uc
+loc:Temperaturkoeffizient von uc
+eng:Temperature coefficient of ud
+loc:Temperaturkoeffizient von ud
+eng:Temperature coefficient of vsat
+loc:Temperaturkoeffizient von vsat
+eng:Temperature corrected af
+loc:Temperaturkorrigierter af-Wert
+eng:Temperature corrected cbd
+loc:Temperaturkorrigierter cbd-Wert
+eng:Temperature corrected cbs
+loc:Temperaturkorrigierter cbs-Wert
+eng:Temperature corrected cj
+loc:Temperaturkorrigierter cj-Wert
+eng:Temperature corrected cjsw
+loc:Temperaturkorrigierter cjsw-Wert
+eng:Temperature corrected is
+loc:Temperaturkorrigierter is-Wert
+eng:Temperature corrected js
+loc:Temperaturkorrigierter js-Wert
+eng:Temperature corrected jsw
+loc:Temperaturkorrigierter jsw-Wert
+eng:Temperature corrected kp
+loc:Temperaturkorrigierter kp-Wert
+eng:Temperature corrected pb
+loc:Temperaturkorrigierter pb-Wert
+eng:Temperature corrected pbsw
+loc:Temperaturkorrigierter pbsw-Wert
+eng:Temperature corrected phi
+loc:Temperaturkorrigierter phi-Wert
+eng:Temperature corrected rd
+loc:Temperaturkorrigierter rd-Wert
+eng:Temperature corrected rdc
+loc:Temperaturkorrigierter rdc-Wert
+eng:Temperature corrected rs
+loc:Temperaturkorrigierter rs-Wert
+eng:Temperature corrected rsc
+loc:Temperaturkorrigierter rsc-Wert
+eng:Temperature corrected rsh
+loc:Temperaturkorrigierter rsh-Wert
+eng:Temperature corrected tibb
+loc:Temperaturkorrigierter tibb-Wert
+eng:Temperature corrected ucrit
+loc:Temperaturkorrigierter ucrit-Wert
+eng:Temperature corrected vto
+loc:Temperaturkorrigierter vto-Wert
+eng:Temperature dependent parameter for impact ionization
+loc:Temperaturabhängiger Parameter für die Stoßionisation
+eng:Temperature exponent for effect on IS
+loc:Temperaturexponent für Einfluss auf IS
+eng:Temperature exponent of AVC2
+loc:Temperaturexponent von AVC2
+eng:Temperature exponent of IBEI,IBCI,IBEIP,IBCIP
+loc:Temperaturexponent von IBEI,IBCI,IBEIP,IBCIP
+eng:Temperature exponent of IBEN,IBCN,IBENP,IBCNP
+loc:Temperaturexponent von IBEN,IBCN,IBENP,IBCNP
+eng:Temperature exponent of IKF
+loc:Temperaturexponent von IKF
+eng:Temperature exponent of IS
+loc:Temperaturexponent von IS
+eng:Temperature exponent of ISR
+loc:Temperaturexponent von ISR
+eng:Temperature exponent of NF
+loc:Temperaturexponent von NF
+eng:Temperature exponent of RB
+loc:Temperaturexponent von RB
+eng:Temperature exponent of RBI
+loc:Temperaturexponent von RBI
+eng:Temperature exponent of RBP
+loc:Temperaturexponent von RBP
+eng:Temperature exponent of RBX
+loc:Temperaturexponent von RBX
+eng:Temperature exponent of RC
+loc:Temperaturexponent von RC
+eng:Temperature exponent of RCI
+loc:Temperaturexponent von RCI
+eng:Temperature exponent of RCX
+loc:Temperaturexponent von RCX
+eng:Temperature exponent of RE
+loc:Temperaturexponent von RE
+eng:Temperature exponent of RS
+loc:Temperaturexponent von RS
+eng:Temperature exponent of VO
+loc:Temperaturexponent von VO
+eng:Temperature for extraction of EOT
+loc:Temperatur für die Extraktion der effektiven Oxiddicke
+eng:Temperature model selector
+loc:Temperaturmodellauswahl
+eng:Temperature parameter for eta0
+loc:Temperaturparameter für eta0
+eng:Temperature parameter for nfactor
+loc:Temperaturparameter für nfactor
+eng:Temperature parameter for tvoffcv
+loc:Temperaturparameter für tvoffcv
+eng:Temperature parameter for vfbsdoff
+loc:Temperaturparameter für Ufbsdoff
+eng:Temperature parameter for voff
+loc:Temperaturparameter für Uoff
+eng:Terminal voltage of inductor
+loc:Anschlussspannung der Spule
+eng:Terminal voltage of inductor (alternate form)
+loc:Anschlussspannung der Spule (andere Form)
+eng:Text pointer
+loc:Textzeiger
+eng:The limit of Vox in gate current calculation
+loc:Uox-Grenzwert für die Gate-Strom-Berechnung
+eng:The smoothing parameter in the Vox smoothing function
+loc:Glättungsparameter in der Uox-Glättungsfunktion
+eng:Thermal capacitance
+loc:Thermische Kapazität
+eng:Thermal noise coefficient
+loc:Koeffizient für thermisches Rauschen
+eng:Thermal noise model selector
+loc:Auswahl für Modell für thermisches Rauschen
+eng:Thermal noise parameter
+loc:Parameter für thermisches Rauschen
+eng:Thermal resistance
+loc:Thermischer Widerstand
+eng:Thermal velocity
+loc:Thermische Geschwindigkeit
+eng:Third Vds dependent parameter of impact ionization current
+loc:3. Uds-abhängiger Parameter des Stoßionisationsstroms
+eng:Third Vgp dependent parameter for gate current in accumulation in AGBCP2 region
+loc:3. Ugp-abhängiger Parameter für den Gate-Strom in der Akkumulation in der AGBCP2-Region
+eng:Third Vgs dependent parameter for impact ionization current
+loc:3. Ugs-abhängiger Parameter für den Stoßionisationsstrom
+eng:Third Vox dependent parameter for gate current in accumulation
+loc:3. Uox-abhängiger Parameter für den Gate-Strom bei Anreicherung
+eng:Third Vox dependent parameter for gate current in inversion
+loc:3. Uox-abhängiger Parameter für den Gate-Strom bei Inversion
+eng:Third backgate body effect parameter for short channel effect
+loc:3. Backgate-Substrateffekt-Parameter für den Kurzkanaleffekt
+eng:Third parameter for Vth shift due to pocket
+loc:3. Parameter für Uth-Verschiebung durch Tasche (Pocket)
+eng:Threshold current
+loc:Schwellstrom
+eng:Threshold degradation/enhancement parameter for LOD
+loc:LOD-Parameter für die Abnahme/Zunahme des Schwellwerts
+eng:Threshold shift factor for well proximity effect
+loc:Schwellwert-Verschiebungsfaktor für den Proximity-Effekt der Wanne
+eng:Threshold voltage
+loc:Schwellenspannung
+eng:Threshold voltage adjust for CV
+loc:Schwellspannungsanpassung für CV
+eng:Threshold voltage coefficient
+loc:Schwellenspannungskoeffizient
+eng:Threshold voltage offset
+loc:Schwellenspannungsoffset
+eng:Threshold voltage offset at VDS=0 VBS=0
+loc:Schwellenspannungsoffset bei Uds=0 und Ubs=0
+eng:Threshold voltage temperature coefficient
+loc:Temperaturkoeffizient für die Schwellenspannung
+eng:Throttle the simulation speed
+loc:Simulationsgeschwindigkeit verringern
+eng:Time array
+loc:Zeit-Array
+eng:Time at which pattern appears
+loc:Ausgabezeitpunkt des Musters
+eng:Time step
+loc:Zeitschritt
+eng:Time to reserve for output
+loc:Für Ausgabe zu reservierende Zeit
+eng:Timestep tolerance
+loc:Zeitschritttoleranz
+eng:To do data transfer
+loc:Ausstehende Datenübertragung
+eng:Toggle load value (f)
+loc:Lastwert umschalten (f)
+eng:Total Analysis Time
+loc:Dauer der Analyse
+eng:Total CPU time in seconds
+loc:Gesamte CPU-Zeit in Sekunden
+eng:Total capacitance in B-X junction
+loc:Gesamte Kapazität an der BX-Sperrschicht
+eng:Total channel charge coefficient
+loc:Gesamt-Kanalladungskoeffizient
+eng:Total iterations
+loc:Iterationen gesamt
+eng:Total resistance
+loc:Gesamtwiderstand
+eng:Total transient iteration limit
+loc:Gesamtanzahl der Transienteniterationen
+eng:Transconductance
+loc:Steigung
+eng:Transconductance of source (gain)
+loc:Steigung der Quelle (Verstärkung)
+eng:Transconductance parameter
+loc:Steilheitsparameter
+eng:Transient L-U decomposition time
+loc:Transienten-L-U-Zerlegungsdauer
+eng:Transient NQS model selector
+loc:Auswahl für nicht-quasistationäres Transientenmodell
+eng:Transient analysis supply ramping time
+loc:Anlaufzeit der Versorgungsspannung bei der Transientenanalyse
+eng:Transient iterations
+loc:Transienteniterationen
+eng:Transient iterations per point
+loc:Transienteniterationen pro Punkt
+eng:Transient solve time
+loc:Transientenlösungsdauer
+eng:Transient time
+loc:Transientendauer
+eng:Transient timepoints
+loc:Transientenzeitpunkte
+eng:Transit Time
+loc:Transitzeit
+eng:Transit time VBC factor
+loc:Ubc-Faktor für Transitzeit
+eng:Transmission delay
+loc:Durchlaufzeit
+eng:Transport saturation current
+loc:Transport-Sättigungsstrom
+eng:Transresistance (gain)
+loc:Transferwiderstand (Verstärkung)
+eng:Trip threshold
+loc:Auslösewert
+eng:Truncation error overestimation factor
+loc:Überschätzungsfaktor für Rundungsfehler
+eng:Try compaction for LTRA lines
+loc:Verdichtung der LTRA-Linien versuchen
+eng:Turn cursor on/off
+loc:Cursor ein/aus
+eng:Turn display on/off
+loc:Anzeige ein/aus
+eng:Turn-on voltage
+loc:Einschaltspannung
+eng:Tx FIFO size (bytes)
+loc:Tx-FIFO-Größe (Byte)
+eng:Type of source to step
+loc:Typ der zu variierenden Quelle
+eng:Type of timestep control
+loc:Art der Zeitschrittsteuerung
+eng:Uniform R.C. line model
+loc:Modell RC-Leitung (gleichmäßig)
+eng:Upper & lower smoothing range
+loc:Oberer und unterer Glättungsbereich
+eng:Upper bound of built-in potential lowering for PD operation
+loc:Obergrenze für Diffusionspotentialverringerung bei unvollständiger Verarmung
+eng:Upper bound of the cubic spline function
+loc:Obergrenze der kubischen Spline-Funktion
+eng:Upper transient iteration limit
+loc:Max. Anzahl der Transienteniterationen
+eng:Use Dynamic Stepping
+loc:Dynamisch variieren
+eng:Use Newton-Raphson iterations for timestep control
+loc:Newton-Raphson-Iterationen für Zeitschrittsteuerung verwenden
+eng:Use SPICE2 MOSFET limiting
+loc:Begrenzung von SPICE2-MOSFET verwenden
+eng:Use a relative sensitivity
+loc:Relative Empfindlichkeit verwenden
+eng:Use auto-partial computation for all models
+loc:Automatische Teilberechnung für alle Modelle
+eng:Use initial conditions
+loc:Anfangsbedingungen verwenden
+eng:Use initial conditions, but ignore the .ic line
+loc:Anfangsbedingungen ohne .ic-Leitung verwenden
+eng:Use linear interpolation
+loc:Linear interpolieren
+eng:Use linear interpolation between known values received from LabVIEW
+loc:Lineare Interpolation zwischen bekannten, von LabVIEW empfangenen Werten nutzen
+eng:Use linear interpolation if quadratic results appear unacceptable
+loc:Linear interpolieren, wenn quadratische Interpolation inakzeptable Ergebnisse liefert
+eng:Use old mos3 model (discontinuous with respect to kappa)
+loc:Altes mos3-Modell (diskontinuierlich in Bezug auf Kappa) verwenden
+eng:Use one line display flag
+loc:Flag für einzeilige Anzeige
+eng:Use quadratic interpolation
+loc:Quadratisch interpolieren
+eng:User define bytes each graphic line
+loc:Benutzerdefinierte Bytes auf jeder Grafikzeile
+eng:User define chars each line
+loc:Benutzerdefinierte Zeichen auf allen Zeilen
+eng:V1 knee
+loc:V1-Knie
+eng:VBS dependence of ai
+loc:Ubs-Abhängigkeit von ai
+eng:VBS dependence of bi
+loc:Ubs-Abhängigkeit von bi
+eng:VBS dependence of eta
+loc:Ubs-Abhängigkeit von Eta
+eng:VBS dependence of low-field mobility
+loc:Ubs-Abhängigkeit der Ladungsträgerbeweglichkeit bei schwachen Feldern
+eng:VBS dependence of mu2
+loc:Ubs-Abhängigkeit von mu2
+eng:VBS dependence of mu3
+loc:Ubs-Abhängigkeit von mu3
+eng:VBS dependence of mu4
+loc:Ubs-Abhängigkeit von mu4
+eng:VBS dependence of mus
+loc:Ubs-Abhängigkeit von mus
+eng:VBS dependence of muz
+loc:Ubs-Abhängigkeit von muz
+eng:VBS dependence of n
+loc:Ubs-Abhängigkeit von n
+eng:VBS dependence of subthreshold slope
+loc:Ubs-Abhängigkeit der Unterschwellensteigung
+eng:VBS dependence of u0
+loc:Ubs-Abhängigkeit von u0
+eng:VBS dependence of u1
+loc:Ubs-Abhängigkeit von u1
+eng:VBS dependence of ua
+loc:Ubs-Abhängigkeit von ua
+eng:VBS dependence of ub
+loc:Ubs-Abhängigkeit von ub
+eng:VBS dependence of vof
+loc:Ubs-Abhängigkeit von vof
+eng:VDS dependence of eta
+loc:Uds-Abhängigkeit von Eta
+eng:VDS dependence of mobility
+loc:Uds-Abhängigkeit der Ladungsträgerbeweglichkeit
+eng:VDS dependence of mobility, velocity saturation
+loc:Uds-Abhängigkeit von Ladungsträgerbeweglichkeit, Geschwindigkeitssättigung
+eng:VDS dependence of mu in linear term
+loc:Uds-Abhängigkeit von mu in linearem Term
+eng:VDS dependence of mu in tanh term
+loc:Uds-Abhängigkeit von mu in tanh-Term
+eng:VDS dependence of mus
+loc:Uds-Abhängigkeit von mus
+eng:VDS dependence of n
+loc:Uds-Abhängigkeit von n
+eng:VDS dependence of subthreshold slope
+loc:Uds-Abhängigkeit der Unterschwellensteigung
+eng:VDS dependence of threshold voltage
+loc:Uds-Abhängigkeit der Schwellenspannung
+eng:VDS dependence of threshold voltage at VDD=0
+loc:Uds-Abhängigkeit der Schwellenspannung bei Udd=0
+eng:VDS dependence of u1
+loc:Uds-Abhängigkeit von u1
+eng:VDS dependence of vof
+loc:Uds-Abhängigkeit von vof
+eng:VGS dependence of mobility
+loc:Ugs-Abhängigkeit der Ladungsträgerbeweglichkeit
+eng:VGS dependence of mu2
+loc:Ugs-Abhängigkeit von mu2
+eng:VGS dependence of mu3
+loc:Ugs-Abhängigkeit von mu3
+eng:VGS dependence of mu4
+loc:Ugs-Abhängigkeit von mu4
+eng:VHDL executable
+loc:Ausführbare VHDL-Datei
+eng:VHDL source
+loc:VHDL-Quelle
+eng:VTO temperature coefficient
+loc:Temperaturkoeffizient der Abschnürspannung
+eng:Value
+loc:Wert
+eng:Value for 0
+loc:Wert für 0
+eng:Value for 1
+loc:Wert für 1
+eng:Variation in Ldrawn
+loc:Variation von Ldrawn
+eng:Variation of TF with base-width modulation
+loc:TF-Änderung bei Basisbreitenmodulation
+eng:Vaux parameter for conduction-band electron tunneling
+loc:Uaux-Parameter für die Leitungsband-Elektronentunnelung
+eng:Vaux parameter for valence band electron tunneling
+loc:Uaux-Parameter für die Valenzband-Elektronentunnelung
+eng:Vbs
+loc:Ubs
+eng:Vbs specified by user
+loc:Benutzerdefinierter Ubs-Wert
+eng:Vbs0t offset voltage
+loc:Ubs0t-Offsetspannung
+eng:Vds
+loc:Uds
+eng:Vds dependence of drain-induced Vth shifts
+loc:Uds-Abhängigkeit der von Drain verursachten Uth-Änderungen
+eng:Vds dependent parameter of drain saturation voltage for impact ionization current
+loc:Uds-abhängiger Parameter der Drain-Sättigungsspannung für den Stoßionisationsstrom
+eng:Vdsat
+loc:Udsat
+eng:Vdsat parameter for C-V model
+loc:Udsat-Parameter für das CV-Modell
+eng:Vector of D-S, G-S, B-S voltages
+loc:Vektor aus DS-, GS- und BS-Spannung
+eng:Vector of DS,GS,BS initial voltages
+loc:Vektor der Anfangsspannungen für D-S, G-S, B-S
+eng:Velocity overshoot parameter
+loc:Geschwindigkeitsüberschuss-Parameter
+eng:Verilog source file
+loc:Verilog-Quelldatei
+eng:Vgs
+loc:Ugs
+eng:Vgs dependence on mobility
+loc:Ugs-Abhängigkeit von der Ladungsträgerbeweglichkeit
+eng:Voltage across output
+loc:Spannung über dem Ausgang
+eng:Voltage across source
+loc:Spannung über der Quelle
+eng:Voltage across the supply
+loc:Spannung über der Quelle
+eng:Voltage dependent parameter for recombination current
+loc:Spannungsabhängiger Parameter für den Rekombinationsstrom
+eng:Voltage dependent parameter for tunneling current
+loc:Spannungsabhängiger Parameter für den Tunnelstrom
+eng:Voltage describing VBC dependence of TF
+loc:Spannung zur Beschreibung der Ubc-Abhängigkeit von TF
+eng:Voltage error tolerance
+loc:Spannungsfehlertoleranz
+eng:Voltage for extraction of EOT
+loc:Spannung für Extraktion der effektiven Oxiddicke
+eng:Voltage for extraction of Equivalent gate oxide thickness
+loc:Spannung für die Extraktion der äquivalenten Gate-Oxiddicke
+eng:Voltage gain
+loc:Spannungsverstärkung
+eng:Voltage gate-drain
+loc:Gate-Drain-Spannung
+eng:Voltage gate-source
+loc:Gate-Source-Spannung
+eng:Voltage giving VBC dependence of TF
+loc:Spannung, die die Ubc-Abhängigkeit von TF verursacht
+eng:Voltage initial condition
+loc:Anfangszustand der Spannung
+eng:Voltage source
+loc:Spannungsquelle
+eng:Voltage source (Freq)
+loc:Spannungsquelle (Freq)
+eng:Voltage source (Laplace)
+loc:Spannungsquelle (Laplace)
+eng:Voltage source current
+loc:Stromdurchfluss der Spannungsquelle
+eng:Voltage/current step
+loc:Spannungs-/Stromschritt
+eng:Vth
+loc:Uth
+eng:Vth body coefficient
+loc:Body-Koeffizient für vth
+eng:Vth transition body Voltage
+loc:Body-Spannung für vth-Übergang
+eng:W offset for channel width due to mask/etch effect
+loc:Kanalbreitenversatz aufgrund des Masken-/Ätzeffekts
+eng:Width
+loc:Breite
+eng:Width dependence of a0
+loc:Breitenabhängigkeit von a0
+eng:Width dependence of a1
+loc:Breitenabhängigkeit von a1
+eng:Width dependence of a2
+loc:Breitenabhängigkeit von a2
+eng:Width dependence of abjtii
+loc:Längenabhängigkeit von abjtii
+eng:Width dependence of acde
+loc:Breitenabhängigkeit von acde
+eng:Width dependence of aely
+loc:Breitenabhängigkeit von aely
+eng:Width dependence of agidl
+loc:Breitenabhängigkeit von agidl
+eng:Width dependence of agisl
+loc:Breitenabhängigkeit von agisl
+eng:Width dependence of ags
+loc:Breitenabhängigkeit von ags
+eng:Width dependence of ahli
+loc:Breitenabhängigkeit von ahli
+eng:Width dependence of ahlid
+loc:Breitenabhängigkeit von ahlid
+eng:Width dependence of ai0
+loc:Breitenabhängigkeit von ai0
+eng:Width dependence of aib
+loc:Breitenabhängigkeit von aib
+eng:Width dependence of aigbacc
+loc:Breitenabhängigkeit von aigbacc
+eng:Width dependence of aigbcp2
+loc:Längenabhängigkeit von aigbcp2
+eng:Width dependence of aigbinv
+loc:Breitenabhängigkeit von aigbinv
+eng:Width dependence of aigc
+loc:Breitenabhängigkeit von aigc
+eng:Width dependence of aigd
+loc:Breitenabhängigkeit von aigd
+eng:Width dependence of aigs
+loc:Breitenabhängigkeit von aigs
+eng:Width dependence of aigsd
+loc:Breitenabhängigkeit von aigsd
+eng:Width dependence of alpha0
+loc:Breitenabhängigkeit von alpha0
+eng:Width dependence of alpha1
+loc:Breitenabhängigkeit von alpha1
+eng:Width dependence of alphagb1
+loc:Breitenabhängigkeit von alphagb1
+eng:Width dependence of alphagb2
+loc:Breitenabhängigkeit von alphagb2
+eng:Width dependence of at
+loc:Breitenabhängigkeit von at
+eng:Width dependence of b0
+loc:Breitenabhängigkeit von b0
+eng:Width dependence of b1
+loc:Breitenabhängigkeit von b1
+eng:Width dependence of beta0
+loc:Breitenabhängigkeit von beta0
+eng:Width dependence of beta1
+loc:Breitenabhängigkeit von beta1
+eng:Width dependence of beta2
+loc:Breitenabhängigkeit von beta2
+eng:Width dependence of betagb1
+loc:Breitenabhängigkeit von betagb1
+eng:Width dependence of betagb2
+loc:Breitenabhängigkeit von betagb2
+eng:Width dependence of bgidl
+loc:Breitenabhängigkeit von bgidl
+eng:Width dependence of bgisl
+loc:Breitenabhängigkeit von bgisl
+eng:Width dependence of bi0
+loc:Breitenabhängigkeit von bi0
+eng:Width dependence of bib
+loc:Breitenabhängigkeit von bib
+eng:Width dependence of bigbacc
+loc:Breitenabhängigkeit von bigbacc
+eng:Width dependence of bigbcp2
+loc:Längenabhängigkeit von bigbcp2
+eng:Width dependence of bigbinv
+loc:Breitenabhängigkeit von bigbinv
+eng:Width dependence of bigc
+loc:Breitenabhängigkeit von bigc
+eng:Width dependence of bigd
+loc:Breitenabhängigkeit von bigd
+eng:Width dependence of bigs
+loc:Breitenabhängigkeit von bigs
+eng:Width dependence of bigsd
+loc:Breitenabhängigkeit von bigsd
+eng:Width dependence of cbjtii
+loc:Breitenabhängigkeit von cbjtii
+eng:Width dependence of cdsc
+loc:Breitenabhängigkeit von cdsc
+eng:Width dependence of cdscb
+loc:Breitenabhängigkeit von cdscb
+eng:Width dependence of cdscd
+loc:Breitenabhängigkeit von cdscd
+eng:Width dependence of cf
+loc:Breitenabhängigkeit von cf
+eng:Width dependence of cgdl
+loc:Breitenabhängigkeit von cgdl
+eng:Width dependence of cgidl
+loc:Breitenabhängigkeit von cgidl
+eng:Width dependence of cgisl
+loc:Breitenabhängigkeit von cgisl
+eng:Width dependence of cgsl
+loc:Breitenabhängigkeit von cgsl
+eng:Width dependence of cigbacc
+loc:Breitenabhängigkeit von cigbacc
+eng:Width dependence of cigbcp2
+loc:Längenabhängigkeit von cigbcp2
+eng:Width dependence of cigbinv
+loc:Breitenabhängigkeit von cigbinv
+eng:Width dependence of cigc
+loc:Breitenabhängigkeit von cigc
+eng:Width dependence of cigd
+loc:Breitenabhängigkeit von cigd
+eng:Width dependence of cigs
+loc:Breitenabhängigkeit von cigs
+eng:Width dependence of cigsd
+loc:Breitenabhängigkeit von cigsd
+eng:Width dependence of cit
+loc:Breitenabhängigkeit von cit
+eng:Width dependence of ckappa
+loc:Breitenabhängigkeit von ckappa
+eng:Width dependence of ckappad
+loc:Breitenabhängigkeit von ckappad
+eng:Width dependence of ckappas
+loc:Breitenabhängigkeit von ckappas
+eng:Width dependence of clc
+loc:Breitenabhängigkeit von clc
+eng:Width dependence of cle
+loc:Breitenabhängigkeit von cle
+eng:Width dependence of delta
+loc:Breitenabhängigkeit von delta
+eng:Width dependence of delvt
+loc:Breitenabhängigkeit von delvt
+eng:Width dependence of drout
+loc:Breitenabhängigkeit von drout
+eng:Width dependence of dsub
+loc:Breitenabhängigkeit von dsub
+eng:Width dependence of dvt0
+loc:Breitenabhängigkeit von dvt0
+eng:Width dependence of dvt0w
+loc:Breitenabhängigkeit von dvt0w
+eng:Width dependence of dvt1
+loc:Breitenabhängigkeit von dvt1
+eng:Width dependence of dvt1w
+loc:Breitenabhängigkeit von dvt1w
+eng:Width dependence of dvt2
+loc:Breitenabhängigkeit von dvt2
+eng:Width dependence of dvt2w
+loc:Breitenabhängigkeit von dvt2w
+eng:Width dependence of dvtp0
+loc:Breitenabhängigkeit von dvtp0
+eng:Width dependence of dvtp1
+loc:Breitenabhängigkeit von dvtp1
+eng:Width dependence of dvtp2
+loc:Breitenabhängigkeit von dvtp2
+eng:Width dependence of dvtp3
+loc:Breitenabhängigkeit von dvtp3
+eng:Width dependence of dvtp4
+loc:Breitenabhängigkeit von dvtp4
+eng:Width dependence of dvtp5
+loc:Breitenabhängigkeit von dvtp5
+eng:Width dependence of dwb
+loc:Breitenabhängigkeit von dwb
+eng:Width dependence of dwg
+loc:Breitenabhängigkeit von dwg
+eng:Width dependence of ebjtii
+loc:Breitenabhängigkeit von ebjtii
+eng:Width dependence of egidl
+loc:Breitenabhängigkeit von egidl
+eng:Width dependence of egisl
+loc:Breitenabhängigkeit von egisl
+eng:Width dependence of eigbinv
+loc:Breitenabhängigkeit von eigbinv
+eng:Width dependence of elm
+loc:Breitenabhängigkeit von elm
+eng:Width dependence of esatii
+loc:Breitenabhängigkeit von esatii
+eng:Width dependence of eta
+loc:Breitenabhängigkeit von eta
+eng:Width dependence of eta0
+loc:Breitenabhängigkeit von eta0
+eng:Width dependence of etab
+loc:Breitenabhängigkeit von etab
+eng:Width dependence of eu
+loc:Breitenabhängigkeit von eu
+eng:Width dependence of fbjtii
+loc:Breitenabhängigkeit von fbjtii
+eng:Width dependence of fgidl
+loc:Breitenabhängigkeit von fgidl
+eng:Width dependence of fgisl
+loc:Breitenabhängigkeit von fgisl
+eng:Width dependence of gamma1
+loc:Breitenabhängigkeit von gamma1
+eng:Width dependence of gamma2
+loc:Breitenabhängigkeit von gamma2
+eng:Width dependence of idbjt
+loc:Breitenabhängigkeit von idbjt
+eng:Width dependence of iddif
+loc:Breitenabhängigkeit von iddif
+eng:Width dependence of idrec
+loc:Breitenabhängigkeit von idrec
+eng:Width dependence of idtun
+loc:Breitenabhängigkeit von idtun
+eng:Width dependence of isbjt
+loc:Breitenabhängigkeit von isbjt
+eng:Width dependence of isdif
+loc:Breitenabhängigkeit von isdif
+eng:Width dependence of isrec
+loc:Breitenabhängigkeit von isrec
+eng:Width dependence of istun
+loc:Breitenabhängigkeit von istun
+eng:Width dependence of k1
+loc:Breitenabhängigkeit von k1
+eng:Width dependence of k1w1
+loc:Breitenabhängigkeit von k1w1
+eng:Width dependence of k1w2
+loc:Breitenabhängigkeit von k1w2
+eng:Width dependence of k2
+loc:Breitenabhängigkeit von k2
+eng:Width dependence of k2we
+loc:Breitenabhängigkeit von k2we
+eng:Width dependence of k3
+loc:Breitenabhängigkeit von k3
+eng:Width dependence of k3b
+loc:Breitenabhängigkeit von k3b
+eng:Width dependence of kb1
+loc:Breitenabhängigkeit von kb1
+eng:Width dependence of keta
+loc:Breitenabhängigkeit von keta
+eng:Width dependence of ketas
+loc:Breitenabhängigkeit von ketas
+eng:Width dependence of kgidl
+loc:Breitenabhängigkeit von kgidl
+eng:Width dependence of kgisl
+loc:Breitenabhängigkeit von kgisl
+eng:Width dependence of kt1
+loc:Breitenabhängigkeit von kt1
+eng:Width dependence of kt1l
+loc:Breitenabhängigkeit von kt1l
+eng:Width dependence of kt2
+loc:Breitenabhängigkeit von kt2
+eng:Width dependence of ku0
+loc:Breitenabhängigkeit von ku0
+eng:Width dependence of ku0we
+loc:Breitenabhängigkeit von ku0we
+eng:Width dependence of kvth0
+loc:Breitenabhängigkeit von kvth0
+eng:Width dependence of kvth0we
+loc:Breitenabhängigkeit von kvth0we
+eng:Width dependence of lambda
+loc:Breitenabhängigkeit von lambda
+eng:Width dependence of lbjt0
+loc:Breitenabhängigkeit von lbjt0
+eng:Width dependence of lii
+loc:Breitenabhängigkeit von lii
+eng:Width dependence of lp
+loc:Breitenabhängigkeit von lp
+eng:Width dependence of lpe0
+loc:Breitenabhängigkeit von lpe0
+eng:Width dependence of lpeb
+loc:Breitenabhängigkeit von lpeb
+eng:Width dependence of mbjtii
+loc:Breitenabhängigkeit von mbjtii
+eng:Width dependence of minv
+loc:Breitenabhängigkeit von minv
+eng:Width dependence of minvcv
+loc:Breitenabhängigkeit von minvcv
+eng:Width dependence of moin
+loc:Breitenabhängigkeit von moin
+eng:Width dependence of mu0b
+loc:Breitenabhängigkeit von mu0b
+eng:Width dependence of mu20
+loc:Breitenabhängigkeit von mu20
+eng:Width dependence of mu2b
+loc:Breitenabhängigkeit von mu2b
+eng:Width dependence of mu2g
+loc:Breitenabhängigkeit von mu2g
+eng:Width dependence of mu30
+loc:Breitenabhängigkeit von mu30
+eng:Width dependence of mu3b
+loc:Breitenabhängigkeit von mu3b
+eng:Width dependence of mu3g
+loc:Breitenabhängigkeit von mu3g
+eng:Width dependence of mu40
+loc:Breitenabhängigkeit von mu40
+eng:Width dependence of mu4b
+loc:Breitenabhängigkeit von mu4b
+eng:Width dependence of mu4g
+loc:Breitenabhängigkeit von mu4g
+eng:Width dependence of mus
+loc:Breitenabhängigkeit von mus
+eng:Width dependence of musb
+loc:Breitenabhängigkeit von musb
+eng:Width dependence of n0
+loc:Breitenabhängigkeit von n0
+eng:Width dependence of nb
+loc:Breitenabhängigkeit von nb
+eng:Width dependence of nbjt
+loc:Breitenabhängigkeit von nbjt
+eng:Width dependence of nch
+loc:Breitenabhängigkeit von nch
+eng:Width dependence of nd
+loc:Breitenabhängigkeit von nd
+eng:Width dependence of ndep
+loc:Breitenabhängigkeit von ndep
+eng:Width dependence of ndif
+loc:Breitenabhängigkeit von ndif
+eng:Width dependence of ndiode
+loc:Breitenabhängigkeit von ndiode
+eng:Width dependence of ndioded
+loc:Breitenabhängigkeit von ndioded
+eng:Width dependence of nfactor
+loc:Breitenabhängigkeit von nfactor
+eng:Width dependence of ngate
+loc:Breitenabhängigkeit von ngate
+eng:Width dependence of ngidl
+loc:Breitenabhängigkeit von ngidl
+eng:Width dependence of nigbacc
+loc:Breitenabhängigkeit von nigbacc
+eng:Width dependence of nigbinv
+loc:Breitenabhängigkeit von nigbinv
+eng:Width dependence of nigc
+loc:Breitenabhängigkeit von nigc
+eng:Width dependence of nlx
+loc:Breitenabhängigkeit von nlx
+eng:Width dependence of noff
+loc:Breitenabhängigkeit von noff
+eng:Width dependence of nrecf0
+loc:Breitenabhängigkeit von nrecf0
+eng:Width dependence of nrecf0d
+loc:Breitenabhängigkeit von nrecf0d
+eng:Width dependence of nrecr0
+loc:Breitenabhängigkeit von nrecr0
+eng:Width dependence of nrecr0d
+loc:Breitenabhängigkeit von nrecr0d
+eng:Width dependence of nsd
+loc:Breitenabhängigkeit von nsd
+eng:Width dependence of nsub
+loc:Breitenabhängigkeit von nsub
+eng:Width dependence of ntox
+loc:Breitenabhängigkeit von ntox
+eng:Width dependence of ntrecf
+loc:Breitenabhängigkeit von ntrecf
+eng:Width dependence of ntrecr
+loc:Breitenabhängigkeit von ntrecr
+eng:Width dependence of ntun
+loc:Breitenabhängigkeit von ntun
+eng:Width dependence of ntund
+loc:Breitenabhängigkeit von ntund
+eng:Width dependence of pclm
+loc:Breitenabhängigkeit von pclm
+eng:Width dependence of pdiblc1
+loc:Breitenabhängigkeit von pdiblc1
+eng:Width dependence of pdiblc2
+loc:Breitenabhängigkeit von pdiblc2
+eng:Width dependence of pdiblcb
+loc:Breitenabhängigkeit von pdiblcb
+eng:Width dependence of pdits
+loc:Breitenabhängigkeit von pdits
+eng:Width dependence of pditsd
+loc:Breitenabhängigkeit von pditsd
+eng:Width dependence of phi
+loc:Breitenabhängigkeit von phi
+eng:Width dependence of phin
+loc:Breitenabhängigkeit von phin
+eng:Width dependence of pigcd
+loc:Breitenabhängigkeit von pigcd
+eng:Width dependence of poxedge
+loc:Breitenabhängigkeit von poxedge
+eng:Width dependence of prt
+loc:Breitenabhängigkeit von prt
+eng:Width dependence of prwb
+loc:Breitenabhängigkeit von prwb
+eng:Width dependence of prwg
+loc:Breitenabhängigkeit von prwg
+eng:Width dependence of pscbe1
+loc:Breitenabhängigkeit von pscbe1
+eng:Width dependence of pscbe2
+loc:Breitenabhängigkeit von pscbe2
+eng:Width dependence of pvag
+loc:Breitenabhängigkeit von pvag
+eng:Width dependence of rds
+loc:Breitenabhängigkeit von rds
+eng:Width dependence of rdsw
+loc:Breitenabhängigkeit von rdsw
+eng:Width dependence of rdw
+loc:Breitenabhängigkeit von rdw
+eng:Width dependence of rgidl
+loc:Breitenabhängigkeit von rgidl
+eng:Width dependence of rgisl
+loc:Breitenabhängigkeit von rgisl
+eng:Width dependence of rsw
+loc:Breitenabhängigkeit von rsw
+eng:Width dependence of sii0
+loc:Breitenabhängigkeit von sii0
+eng:Width dependence of sii1
+loc:Breitenabhängigkeit von sii1
+eng:Width dependence of sii2
+loc:Breitenabhängigkeit von sii2
+eng:Width dependence of siid
+loc:Breitenabhängigkeit von siid
+eng:Width dependence of teta0
+loc:Breitenabhängigkeit von teta0
+eng:Width dependence of tnfactor
+loc:Breitenabhängigkeit von tnfactor
+eng:Width dependence of tvfbsdoff
+loc:Breitenabhängigkeit von tvfbsdoff
+eng:Width dependence of tvoff
+loc:Breitenabhängigkeit von tvoff
+eng:Width dependence of tvoffcv
+loc:Breitenabhängigkeit von tvoffcv
+eng:Width dependence of u0
+loc:Breitenabhängigkeit von u0
+eng:Width dependence of u1
+loc:Breitenabhängigkeit von u1
+eng:Width dependence of u10
+loc:Breitenabhängigkeit von u10
+eng:Width dependence of u1b
+loc:Breitenabhängigkeit von u1b
+eng:Width dependence of u1d
+loc:Breitenabhängigkeit von u1d
+eng:Width dependence of ua
+loc:Breitenabhängigkeit von ua
+eng:Width dependence of ua0
+loc:Breitenabhängigkeit von ua0
+eng:Width dependence of ua1
+loc:Breitenabhängigkeit von ua1
+eng:Width dependence of uab
+loc:Breitenabhängigkeit von uab
+eng:Width dependence of ub
+loc:Breitenabhängigkeit von ub
+eng:Width dependence of ub0
+loc:Breitenabhängigkeit von ub0
+eng:Width dependence of ub1
+loc:Breitenabhängigkeit von ub1
+eng:Width dependence of ubb
+loc:Breitenabhängigkeit von ubb
+eng:Width dependence of uc
+loc:Breitenabhängigkeit von uc
+eng:Width dependence of uc1
+loc:Breitenabhängigkeit von uc1
+eng:Width dependence of ucs
+loc:Breitenabhängigkeit von ucs
+eng:Width dependence of ucste
+loc:Breitenabhängigkeit von ucste
+eng:Width dependence of ud
+loc:Breitenabhängigkeit von ud
+eng:Width dependence of ud1
+loc:Breitenabhängigkeit von ud1
+eng:Width dependence of up
+loc:Breitenabhängigkeit von up
+eng:Width dependence of ute
+loc:Breitenabhängigkeit von ute
+eng:Width dependence of vabjt
+loc:Breitenabhängigkeit von vabjt
+eng:Width dependence of vbci
+loc:Breitenabhängigkeit von vbci
+eng:Width dependence of vbm
+loc:Breitenabhängigkeit von vbm
+eng:Width dependence of vbx
+loc:Breitenabhängigkeit von vbx
+eng:Width dependence of vdsatii0
+loc:Breitenabhängigkeit von vdsatii0
+eng:Width dependence of vfb
+loc:Breitenabhängigkeit von vfb
+eng:Width dependence of vfbcv
+loc:Breitenabhängigkeit von vfbcv
+eng:Width dependence of vfbsdoff
+loc:Breitenabhängigkeit von vfbsdoff
+eng:Width dependence of vghigh
+loc:Breitenabhängigkeit von vghigh
+eng:Width dependence of vglow
+loc:Breitenabhängigkeit von vglow
+eng:Width dependence of vof0
+loc:Breitenabhängigkeit von vof0
+eng:Width dependence of vofb
+loc:Breitenabhängigkeit von vofb
+eng:Width dependence of vofd
+loc:Breitenabhängigkeit von vofd
+eng:Width dependence of voff
+loc:Breitenabhängigkeit von voff
+eng:Width dependence of voffcv
+loc:Breitenabhängigkeit von voffcv
+eng:Width dependence of vrec0
+loc:Breitenabhängigkeit von vrec0
+eng:Width dependence of vrec0d
+loc:Breitenabhängigkeit von vrec0d
+eng:Width dependence of vsat
+loc:Breitenabhängigkeit von vsat
+eng:Width dependence of vsdfb
+loc:Breitenabhängigkeit von vsdfb
+eng:Width dependence of vsdth
+loc:Breitenabhängigkeit von vsdth
+eng:Width dependence of vtl
+loc:Breitenabhängigkeit von vtl
+eng:Width dependence of vto
+loc:Breitenabhängigkeit von vto
+eng:Width dependence of vtun0
+loc:Breitenabhängigkeit von vtun0
+eng:Width dependence of vtun0d
+loc:Breitenabhängigkeit von vtun0d
+eng:Width dependence of w0
+loc:Breitenabhängigkeit von w0
+eng:Width dependence of wr
+loc:Breitenabhängigkeit von wr
+eng:Width dependence of x2e
+loc:Breitenabhängigkeit von x2e
+eng:Width dependence of x2ms
+loc:Breitenabhängigkeit von x2ms
+eng:Width dependence of x2mz
+loc:Breitenabhängigkeit von x2mz
+eng:Width dependence of x2u0
+loc:Breitenabhängigkeit von x2u0
+eng:Width dependence of x2u1
+loc:Breitenabhängigkeit von x2u1
+eng:Width dependence of x3e
+loc:Breitenabhängigkeit von x3e
+eng:Width dependence of x3ms
+loc:Breitenabhängigkeit von x3ms
+eng:Width dependence of x3u1
+loc:Breitenabhängigkeit von x3u1
+eng:Width dependence of xbjt
+loc:Breitenabhängigkeit von xbjt
+eng:Width dependence of xdif
+loc:Breitenabhängigkeit von xdif
+eng:Width dependence of xdifd
+loc:Breitenabhängigkeit von xdifd
+eng:Width dependence of xj
+loc:Breitenabhängigkeit von xj
+eng:Width dependence of xn
+loc:Breitenabhängigkeit von xn
+eng:Width dependence of xrcrg1
+loc:Breitenabhängigkeit von xrcrg1
+eng:Width dependence of xrcrg2
+loc:Breitenabhängigkeit von xrcrg2
+eng:Width dependence of xrec
+loc:Breitenabhängigkeit von xrec
+eng:Width dependence of xrecd
+loc:Breitenabhängigkeit von xrecd
+eng:Width dependence of xt
+loc:Breitenabhängigkeit von xt
+eng:Width dependence of xtun
+loc:Breitenabhängigkeit von xtun
+eng:Width dependence of xtund
+loc:Breitenabhängigkeit von xtund
+eng:Width effect on threshold
+loc:Breiteneinfluss auf Schwellwert
+eng:Width offset for body contact isolation edge
+loc:Breitenversatz der Substratkontakt-Isolationskante
+eng:Width parameter for stress effect
+loc:Breitenparameter für Spannungseffekt
+eng:Width parameter for u0 LOD effect
+loc:Breitenparameter für den LOD-Effekt von u0
+eng:Width parameter for vth LOD effect
+loc:Breitenparameter für den LOD-Effekt von vth
+eng:Width reduction parameter
+loc:Verengungsparameter
+eng:Width reduction parameter of CV
+loc:Verengungsparameter von CV
+eng:Work function of gate
+loc:Gate-Arbeitsweise
+eng:Wrapping on x-values
+loc:Wrapping bei x-Werten
+eng:X channel number
+loc:X-Kanal-Nummer
+eng:X-term dependence of ahli
+loc:Wechselwirkungsabhängigkeit von ahli
+eng:X-term dependence of ahlid
+loc:Wechselwirkungsabhängigkeit von ahlid
+eng:XAM description
+loc:XAM-Beschreibung
+eng:XARB description
+loc:XARB-Beschreibung
+eng:XBST description
+loc:XBST-Beschreibung
+eng:XFM description
+loc:XFM-Beschreibung
+eng:XFSK description
+loc:XFSK-Beschreibung
+eng:XM description
+loc:XM-Beschreibung
+eng:XNOISE description
+loc:XNOISE-Beschreibung
+eng:XSWP description
+loc:XSWP-Beschreibung
+eng:XTABLE description
+loc:XTABLE-Beschreibung
+eng:Y channel number
+loc:Y-Kanal-Nummer
+eng:Zero field mobility at VDS=0 VGS=VTH
+loc:Nullfeld-Ladungsträgerbeweglichkeit bei Uds=0 und Ugs=vth
+eng:Zero-bias B-C depletion capacitance
+loc:BC-Sperrschichtkapazität bei 0 V Vorspannung
+eng:Zero-bias B-E depletion capacitance
+loc:BE-Sperrschichtkapazität bei 0 V Vorspannung
+eng:Zero-bias G-D junction capacitance
+loc:Kapazität der GD-Strecke bei 0 V Vorspannung
+eng:Zero-bias G-S junction capacitance
+loc:Kapazität der GS-Strecke bei 0 V Vorspannung
+eng:Zero-bias S-C capacitance
+loc:SC-Kapazität bei 0 V Vorspannung
+eng:Zero-bias base resistance
+loc:Basisbahnwiderstand bei 0 V Vorspannung
+eng:Zero-bias bulk-drain junction capacitance
+loc:Kapazität der Bulk-Drain-Strecke bei 0 V Vorspannung
+eng:Zero-bias bulk-drain sidewall capacitance
+loc:Kapazität der Bulk-Drain-Seitenwand bei 0 V Vorspannung
+eng:Zero-bias bulk-source junction capacitance
+loc:Kapazität der Bulk-Source-Strecke bei 0 V Vorspannung
+eng:Zero-bias bulk-source sidewall capacitance
+loc:Kapazität der Bulk-Source-Seitenwand bei 0 V Vorspannung
+eng:Zero-bias junction capacitance
+loc:Sperrschichtkapazität bei 0 V Vorspannung
+eng:Zero-bias substrate capacitance
+loc:Substratkapazität bei 0 V Vorspannung
+eng:Zero-bias threshold voltage variation
+loc:Schwellspannungsschwankung bei 0 V Vorspannung
+eng:c to voltage conversion factor
+loc:C-U-Umwandlungsfaktor
+eng:coupling from Vd to Vbs for improved dVbi model
+loc:Kupplung zwischen Ud und Ubs für verbessertes dVbi-Modell
+eng:d(Ibe)/d(Vbc)
+loc:d(Ibe)/d(Ubc)
+eng:eta0 shift factor related to stress effect on vth
+loc:eta0-Verschiebungsfaktor aufgrund des Spannungseffekts auf vth
+eng:eta0 shift modification factor for stress effect
+loc:Modifikationsfaktor für die eta0-Verschiebung beim Spannungseffekt
+eng:exp(-VBBE/(NBBE*Vtv))
+loc:exp(-UBBE/(NBBE*Utv))
+eng:f1 input for distortion
+loc:f1-Eingang für Verzerrung
+eng:f2 input for distortion
+loc:f2-Eingang für Verzerrung
+eng:flag to request sensitivity with respect to resistance
+loc:Empfindlichkeit in Bezug auf den Widerstand ermitteln (Flag)
+eng:j,k load values (f)
+loc:j-, k-Lastwert (f)
+eng:l to voltage conversion factor
+loc:Strom-Spannungs-Umwandlungsfaktor
+eng:s & r load values (f)
+loc:s-, r-Lastwert (f)
+eng:s,r load values (f)
+loc:s-, r-Lastwert (f)
+eng:x-coefficient array
+loc:Array der x-Koeffizienten
+eng:x-element array
+loc:Array der x-Elemente
+eng:y-coefficient array
+loc:Array der y-Koeffizienten
+eng:y-element array
+loc:Array der y-Elemente

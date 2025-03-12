@@ -1,0 +1,124 @@
+<PLDConfiguration Version="1.1">
+	<Component Name="Digilent Cmod A7-35T" PartNumber="XC7A35T" Version="1.0" OpVoltageInput="3.3" OpVoltageOutput="3.3" OpVoltageBidirectional="3.3" BoardId="">
+		<DeviceList BoardName="Digilent Cmod A7-35T">
+			<XilinxDevice Manufacturer="Xilinx" Family="Artix-7" Device="XC7A35T" Package="CPG236" Speed="-1" DeviceOffset="1" DeviceId="" Ucf="DigilentCmodA7-35T.xdc" />
+		</DeviceList>
+		<ProgrammingProperties>
+			<Interface CableTarget="digilent_plugin"/>
+		</ProgrammingProperties>
+		<Pins Locked="1">   			
+			<Pin Name="sysclk" Mode="in" Location="left" Place="0" />			
+
+			<Pin Name="led0" Mode="out" Location="right" Place="1" />
+			<Pin Name="led1" Mode="out" Location="right" Place="1" />
+
+			<Pin Name="led0_b" Mode="out" Location="right" Place="1" />
+			<Pin Name="led0_g" Mode="out" Location="right" Place="1" />
+			<Pin Name="led0_r" Mode="out" Location="right" Place="1" />
+	
+			<Pin Name="btn0" Mode="in" Location="left" Place="1" />
+			<Pin Name="btn1" Mode="in" Location="left" Place="1" />
+		
+			<Pin Name="ja0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja6" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja7" Mode="bidir" Location="left" Place="0" />
+	
+			<Pin Name="xa_n0" Mode="in" Location="left" Place="0" />
+			<Pin Name="xa_p0" Mode="in" Location="left" Place="0" />
+			<Pin Name="xa_n1" Mode="in" Location="left" Place="0" />
+			<Pin Name="xa_p1" Mode="in" Location="left" Place="0" />
+	
+			<Pin Name="pio01" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio02" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio03" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio04" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio05" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio06" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio07" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio08" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio09" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio10" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio11" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio12" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio13" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio14" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio17" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio18" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio19" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio20" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio21" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio22" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio23" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio26" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio27" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio28" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio29" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio30" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio31" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio32" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio33" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio34" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio35" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio36" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio37" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio38" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio39" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio40" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio41" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio42" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio43" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio44" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio45" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio46" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio47" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="pio48" Mode="bidir" Location="left" Place="0" />
+		
+			<Pin Name="uart_rxd_out" Mode="out" Location="left" Place="0" />
+			<Pin Name="uart_txd_in" Mode="in" Location="left" Place="0" />
+		
+			<Pin Name="crypto_sda" Mode="out" Location="left" Place="0" />
+		
+			<Pin Name="qspi_cs" Mode="out" Location="left" Place="0" />
+			<Pin Name="qspi_dq0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="qspi_dq1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="qspi_dq2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="qspi_dq3" Mode="bidir" Location="left" Place="0" />
+		
+			<Pin Name="MemAdr0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr6" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr7" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr8" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr9" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr10" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr11" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr12" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr13" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr14" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr15" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr16" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr17" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemAdr18" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemDB0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemDB1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemDB2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemDB3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemDB4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemDB5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemDB6" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="MemDB7" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="RamOEn" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="RamWEn" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="RamCEn" Mode="bidir" Location="left" Place="0" />								
+        </Pins>
+	</Component>
+</PLDConfiguration>

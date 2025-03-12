@@ -1,0 +1,9 @@
+﻿NI VC2015 Runtime
+
+This product uses the following technologies licensed under the corresponding licenses.
+
+****************************************
+
+DOCUMENTATION NOTICE FOR THE MICROSOFT VISUAL C++ 2015 RUNTIME LIBRARIES LICENSE
+
+This product includes code from the Microsoft Visual C++ 2015 Runtime Libraries, licensed by a third party or parties pursuant to the Microsoft Visual C++ 2015 Runtime Libraries license, which can be found at "..\..\Shared\MDF\Legal\license\MSVCRedist\2015".

@@ -1,0 +1,346 @@
+﻿// Multisim string file
+// This file is assumed to be UTF-8
+eng:%1!%s!
+loc:%1!%s!
+eng:%1!%s! (inside of %2!%s!)
+loc:%1!%s! (in %2!%s!)
+eng:%2!%s!
+loc:%2!%s!
+eng:, 
+loc:, 
+eng:.PARAM_NAMESPACE_BEGIN definition is missing .PARAM_NAMESPACE_END
+loc:In der Definition von .PARAM_NAMESPACE_BEGIN fehlt .PARAM_NAMESPACE_END
+eng:.SUBCKT definition is missing .ENDS
+loc:Fehlendes .ENDS in .SUBCKT-Definition
+eng:<<unknown>>
+loc:<<unbekannt>>
+eng:<expression unavailable>
+loc:<Ausdruck nicht verfügbar>
+eng:<unknown>
+loc:<unbekannt>
+eng:A "%1!%s!" instruction was found without a matching "%2!%s!" when decrypting the netlist.
+loc:Beim Entschlüsseln der Netzliste wurde eine Anweisung des Typs "%1!%s!" ohne entsprechendes "%2!%s!" gefunden.
+eng:A data integrity check failed while decrypting netlist.
+loc:Beim Entschlüsseln der Netzliste wurde bei einer Datensicherheitsprüfung ein Fehler festgestellt.
+eng:A duplicate parameter '%1!%s!' was found. The value '%2!%s!' will be used. 
+loc:Der Parameter '%1!%s!' ist doppelt vorhanden. Es wird der Wert '%2!%s!' verwendet. 
+eng:A possibly non-integer value is assigned to an integer-only parameter '%1!%s!', the value may be rounded to nearest integer
+loc:Für den Parameter '%1!%s!' wurde ein möglicherweise nicht ganzzahliger Wert angegeben. Der Parameter arbeitet jedoch nur mit ganzen Zahlen. Der Wert wurde daher auf die nächste ganze Zahl gerundet.
+eng:A value other than 0 or 1 is assigned to 'flag' parameter '%1!%s!'
+loc:Ein Wert, der nicht 0 oder 1 ist, wird dem 'Flag'-Parameter '%1!%s!' zugewiesen.
+eng:Ambiguous model name/expression '%1!%s!', put {} around expressions to ensure correct interpretation
+loc:Nicht eindeutiger Modellname/-ausdruck '%1!%s!', setzen Sie ein {} um die Ausdrücke, damit keine Verwechslung entsteht.
+eng:An infinite value in evaluation of expression: '%1!%s!'
+loc:Unendlicher Wert bei der Berechnung des Ausdrucks: '%1!%s!'
+eng:An unknown error occurred decrypting the netlist.
+loc:Beim Entschlüsseln der Netzliste ist ein unbekannter Fehler aufgetreten.
+eng:An unknown error occurred when attempting to parse expression
+loc:Beim Parsen von Ausdrücken ist ein unbekannter Fehler aufgetreten.
+eng:Analysis initial conditions are not set to User-Defined, but initial conditions are set on %1!%s!. The circuit may not simulate as intended.
+loc:Die Anfangsbedingungen der Analyse sind nicht auf "Benutzerdefiniert" eingestellt, sondern auf %1!%s!. Die Schaltung wird möglicherweise anders simuliert als beabsichtigt.
+eng:Analysis initial conditions are not set to User-Defined, but initial conditions are set on one or more devices inside %1!%s!. The circuit may not simulate as intended.
+loc:Die Anfangsbedingungen der Analyse sind nicht auf "Benutzerdefiniert" eingestellt. Für mindestens ein Bauelement innerhalb von %1!%s! sind Anfangsbedingungen festgelegt worden. Die Schaltung wird möglicherweise anders simuliert als beabsichtigt.
+eng:Array port type not allowed on terminal %1!%d! of this device
+loc:Am Anschluss %1!%d! dieses Bauelements sind keine gruppierten Anschlüsse zulässig
+eng:Array port type required on terminal %1!%d! of this device
+loc:Am Anschluss %1!%d! dieses Bauelements sind gruppierte Anschlüsse erforderlich
+eng:Brackets found without any contents
+loc:Klammern ohne Inhalt gefunden
+eng:Components of type '%2!%s!' do not have a parameter '%1!%s!'. Check for typing errors or consult the documentation for the parameters for this component.
+loc:Bauelemente des Typs '%2!%s!' haben keinen Parameter des Typs '%1!%s!'. Korrigieren Sie eventuelle Fehler oder informieren Sie sich anhand der Dokumentation über die Parameter dieses Bauelements.
+eng:Differential port type not allowed on terminal %1!%d! of this device. 
+loc:Unterschiedlicher Porttyp an Anschluss %1!%d! dieses Geräts nicht zulässig. 
+eng:Digital and analog pins are connected on node '%1!%s!'. 
+loc:Digitale und analoge Pins sind an Knoten '%1!%s!' angeschlossen. 
+eng:Digital port type not allowed on terminal %1!%d! of this XSPICE device. 
+loc:Digitaler Porttyp an Anschluss %1!%d! dieses XSPICE-Geräts nicht zulässig. 
+eng:Due to errors, the component '%1!%s!' will be omitted from the simulation
+loc:Das Bauelement '%1!%s!' wird aufgrund von Fehlern von der Simulation ausgenommen.
+eng:Due to errors, the subckt definition '%1!%s!' will be omitted from the simulation
+loc:Die subckt-Definition '%1!%s!' wird aufgrund von Fehlern von der Simulation ausgenommen.
+eng:Due to errors, the subckt instance '%1!%s!' will be omitted from the simulation
+loc:Das Teilschaltungsexemplar '%1!%s!' wird aufgrund von Fehlern von der Simulation ausgenommen.
+eng:Duplicate component name found '%1!%s!'
+loc:Doppelten Bauelementenamen gefunden - '%1!%s!'
+eng:Duplicate model name found '%1!%s!'
+loc:Doppelte Modellbezeichnung gefunden - '%1!%s!'
+eng:Duplicate subckt node name '%1!%s!'
+loc:Doppelter Name des Teilschaltungsknotens: '%1!%s!'
+eng:Element '%1!%s!' referenced in controlled source is not of compatible type
+loc:Der Typ des Elements '%1!%s!', mit dem die geregelte Quelle arbeitet, ist nicht kompatibel.
+eng:Element '%1!%s!' referenced in expression does not exist in local scope or is not of a type compatible with the I() function
+loc:Das im Ausdruck verwendete Element '%1!%s!' ist im lokalen Bereich nicht vorhanden oder ist mit der l()-Funktion nicht kompatibel.
+eng:Element '%1!%s!' referenced in this component does not exist in scope
+loc:Das in diesem Bauelement verwendete Element '%1!%s!' ist im Bereich nicht vorhanden.
+eng:Element '%1!%s!' referenced in this component does not exist in scope, the inductor(s) will not be coupled
+loc:Das in diesem Bauelement verwendete Element '%1!%s!' ist im Bereich nicht vorhanden. Spulen werden nicht gekoppelt.
+eng:Element '%1!%s!':  %2!%s!
+loc:Element '%1!%s!':  %2!%s!
+eng:Error: %1!%s!
+loc:Fehler: %1!%s!
+eng:Expected "%1!%s!" but found "%2!%s!" when decrypting the netlist.
+loc:Beim Entschlüsseln der Netzliste wurde "%2!%s!" anstelle von "%1!%s!" gefunden.
+eng:Expected '%1!%s!' but instead found '%2!%s!' in function '%3!%s!'
+loc:Erwartet wurde '%1!%s!'. Stattdessen wurde '%2!%s!' in der Funktion '%3!%s!' gefunden.
+eng:Expected '(' in function %1!%s!
+loc:In Funktion %1!%s! wurde eine linke Klammer erwartet
+eng:Expected ')' in function %1!%s!
+loc:In Funktion %1!%s! wurde eine rechte Klammer erwartet
+eng:Expected ',' in function %1!%s!
+loc:In Funktion %1!%s! wurde ein Komma erwartet
+eng:Found '%1!%s!', XSPICE terminal-type specifiers are not permitted on this device
+loc:'%1!%s!' gefunden, XSPICE-Anschlusstyp-Bezeichner für dieses Gerät unzulässig
+eng:Found unexpected text in protected netlist. There may be a missing "begin_data" instruction.
+loc:In einer geschützten Netzliste wurde unerwarteter Text gefunden. Möglicherweise fehlt eine Anweisung des Typs "begin_data".
+eng:Found unmatched '%1!%s!' when expecting '%2!%s!' in expression
+loc:Statt des erwarteten '%2!%s!' im Ausdruck wurde '%1!%s!' ohne Entsprechung gefunden.
+eng:Function '%1!%s!'
+loc:Funktion '%1!%s!'
+eng:Function '%1!%s!' in %2!%s!
+loc:Funktion '%1!%s!' in %2!%s!
+eng:Illegal model name '%1!%s!', used with AKO:
+loc:Unzulässige Modellbezeichnung '%1!%s!', verwendet mit AKO:
+eng:Illegal node name found '%1!%s!'
+loc:Unzulässige Knotenpunktbezeichnung '%1!%s!' gefunden
+eng:Illegal reference to voltage or current value '%1!%s!' in constant parameter
+loc:Unzulässiger Verweis auf Spannungs- oder Stromwert '%1!%s!' in konstantem Parameter
+eng:Incomplete .MODEL statement, expected type
+loc:Unvollständige .MODEL-Anweisung. Erwarteter Typ
+eng:Incomplete .MODEL/.SUBCKT statement, expected ')' or '}'
+loc:Unvollständige .MODEL/.SUBCKT-Anweisung. Erwarteter Typ: ')' oder '}'
+eng:Incomplete .MODEL/.SUBCKT statement, expected a name
+loc:Unvollständige .MODEL-/.SUBCKT-Anweisung. Name erwartet
+eng:Incomplete definition of model/subckt '%1!%s!'
+loc:Unvollständige Definition von Modell/subckt '%1!%s!'
+eng:Incomplete model/subckt definition '%1!%s!'
+loc:Unvollständige Definition von Modell/subckt '%1!%s!'
+eng:Incomplete optional node value, expected 'nodename=$default' instead found '%1!%s!'
+loc:Unvollständiger optionaler Knotenpunktwert. Es wurde 'Knotenpunktname=$default' erwartet. Stattdessen wurde '%1!%s!' gefunden.
+eng:Inductor loop found: %1!%s!. Since inductors are short-circuited during the DC bias point calculation, the loop will cause a problem for most analyses. Consider breaking the loop by inserting a small series resistor.
+loc:Induktionsschleife in %1!%s! gefunden. Spulen werden während der Berechnung des DC-Arbeitspunkts kurzgeschlossen. Daher ist zu erwarten, dass die Schleife bei den meisten Analysen Probleme verursacht. Unterbrechen Sie die Schleife, indem Sie ggf. einen Widerstand in Reihe einschalten.
+eng:Inductor-voltage source loop found: %1!%s!. Since inductors are short-circuited during the DC bias point calculation, the loop will cause a problem for most analyses. Consider breaking the loop by inserting a small series resistor.
+loc:Induktions-/Spannungsquellenschleife in %1!%s! gefunden. Spulen werden während der Berechnung des DC-Arbeitspunkts kurzgeschlossen. Daher ist zu erwarten, dass die Schleife bei den meisten Analysen Probleme verursacht. Unterbrechen Sie die Schleife, indem Sie ggf. einen Widerstand in Reihe einschalten.
+eng:Info: %1!%s!
+loc:Info: %1!%s!
+eng:Invalid .CIRCUITPARAMS name '%1!%s!'
+loc:Ungültiger .CIRCUITPARAMS-Name '%1!%s!'
+eng:Invalid .FUNC name '%1!%s!'
+loc:Ungültiger .FUNC-Name '%1!%s!'
+eng:Invalid .MERGENODE command
+loc:Ungültiger .MERGENODE-Befehl
+eng:Invalid .PARAM name '%1!%s!'
+loc:Ungültiger .PARAM-Name ''%1!%s!'
+eng:Invalid combination of model parameters for VSWITCH. Use parameters from the Hysteresis or the Smooth Transition model only.
+loc:Ungültige Kombination von Modellparametern für VSWITCH. Verwenden Sie nur Parameter des Modells "Hysterese" oder "Smooth Transition".
+eng:Invalid component name '%1!%s!'
+loc:Ungültige Bauelementbezeichnung '%1!%s!'
+eng:Invalid connection of current sources: %1!%s!.
+loc:Ungültige Verbindung mit Stromquellen: %1!%s!.
+eng:Invalid expression '%1!%s!'
+loc:Ungültiger Ausdruck '%1!%s!'
+eng:Invalid parameter name '%1!%s!'
+loc:Ungültiger Parametername '%1!%s!'
+eng:Invalid subckt definition name '%1!%s!'
+loc:Ungültige subckt-Definitionsbezeichnung '%1!%s!'
+eng:Invalid subckt name '%1!%s!'
+loc:Ungültige Teilschaltungsbezeichnung '%1!%s!'
+eng:Invalid syntax for FREQ source - expected (freq,mag,phase) value triples after = 
+loc:Ungültige Syntax für FREQ-Quelle. Nach dem "=" werden Werte für Frequenz, Betrag und Phase erwartet. 
+eng:Invalid syntax for FREQ source - expected expression in brackets after FREQ
+loc:Ungültige Syntax für FREQ-Quelle. Nach FREQ wird ein Klammerausdruck erwartet.
+eng:Invalid syntax for FREQ source - expected magnitude and phase expression
+loc:Ungültige Syntax für FREQ-Quelle. Es wird ein Ausdruck für Betrag und Phase erwartet.
+eng:Invalid syntax for FREQ source - expected phase expression
+loc:Ungültige Syntax für FREQ-Quelle. Es wird ein Ausdruck für die Phase erwartet.
+eng:Invalid syntax for LAPLACE source - expected expression in brackets after LAPLACE
+loc:Ungültige Syntax für LAPLACE-Quelle. Nach LAPLACE wird ein Klammerausdruck erwartet.
+eng:Invalid syntax for LAPLACE source - expected s-variable expression after = 
+loc:Ungültige Syntax für LAPLACE-Quelle. Nach dem "=" wird ein s-Variablen-Ausdruck erwartet. 
+eng:Invalid value for parameter  '%1!%s!', 0 is assumed.
+loc:Ungültiger Wert für Parameter '%1!%s!', angenommen wird 0.
+eng:LAPLACE sources S variable expressions cannot contain voltage or current references
+loc:Ausdrücke mit s-Variable für LAPLACE-Quellen dürfen nicht auf Spannungen oder Ströme verweisen
+eng:LAPLACE sources variable expression must contain S variable
+loc:Variablenausdrücke für LAPLACE-Quellen müssen eine s-Variable enthalten
+eng:Mathematical expression '%1!%s!' must be enclosed in {}
+loc:Mathematischer Ausdruck '%1!%s!' muss in {} eingeschlossen sein
+eng:Missing a quotation mark in '%1!%s!'
+loc:Fehlendes Anführungszeichen in '%1!%s!'
+eng:Missing an expected "%1!%s!".
+loc:Ein erwartetes "%1!%s!" wurde nicht gefunden.
+eng:Missing operator in '%1!%s!'
+loc:Fehlender Operator in '%1!%s!'
+eng:Missing subckt definition name
+loc:Name der Teilschaltungsdefinition fehlt
+eng:Model type '%1!%s!' is not permitted for components with prefix letter '%2!%s!' 
+loc:Modelltyp '%1!%s!' ist für Bauelemente mit vorangestelltem Buchstaben '%2!%s!' nicht zulässig 
+eng:Models of type '%2!%s!' do not have a parameter '%1!%s!'. Check for typing errors or consult the documentation for the parameters for this component.
+loc:Modelle vom Typ '%2!%s!' verfügen nicht über ein Parameter '%1!%s!'. Korrigieren Sie eventuelle Fehler oder informieren Sie sich anhand der Dokumentation über die Parameter dieses Bauelements.
+eng:More than one possible model name in component, put {} around expressions to ensure correct interpretation
+loc:Mehr als ein möglicher Modellname im Bauelement. Ausdrücke sind mit {} zu umklammern, um Verwechslungen auszuschließen
+eng:Multiple definitions for parameter '%1!%s!' were found in a .PARAM statement in subckt '%2!%s!'.
+loc:In einer .PARAM-Anweisung in Teilschaltung '%2!%s!' wurden mehrere Definitionen für den Parameter '%1!%s!' gefunden.
+eng:Multiple definitions for parameter '%1!%s!' were found in a .PARAM statement.
+loc:In einer .PARAM-Anweisung wurden mehrere Definitionen für den Parameter '%1!%s!' gefunden.
+eng:Multiple definitions for the initial condition on node '%1!%s!' were found in a .IC statement in subckt '%2!%s!'. The value '%3!%s!' will be used. 
+loc:In einer .IC-Anweisung in Teilschaltung '%2!%s!' wurden mehrere Definitionen für die Anfangsbedingung für den Knoten '%1!%s!' gefunden. Es wird der Wert '%3!%s!' verwendet. 
+eng:Multiple definitions for the initial condition on node '%1!%s!' were found in a .IC statement. The value '%2!%s!' will be used. 
+loc:In einer .IC-Anweisung wurden mehrere Definitionen für die Anfangsbedingung für den Knoten '%1!%s!' gefunden. Es wird der Wert '%2!%s!' verwendet. 
+eng:Multiple values have been assigned to non-array parameter '%1!%s!'; only the last one will be used (check for spaces or tabs in your expression)
+loc:Dem Nicht-Array-Parameter '%1!%s!' wurden mehrere Werte zugewiesen - nur der letzte wird verwendet (auf Leerstellen oder Tabulatoren in Ihrem Ausdruck achten)
+eng:Named-voltage-source port type not allowed on terminal %d!%s! of this device. 
+loc:Eine benannte Spannungsquelle ist am Anschluss %d!%s! dieses Bauelements nicht zulässig. 
+eng:No ground node was found in your circuit. To ensure accurate simulation, add a ground component and simulate again.
+loc:Ihre Schaltung enthält kein Erdungsbauelement. Fügen Sie ein Erdungsbauelement ein, damit die Simulation durchgeführt werden kann.
+eng:No model/subckt nodes found in '%2!%s!' 
+loc:Keine Modell-/subckt-Knotenpunkte in '%2!%s!' gefunden 
+eng:No sources with AC parameters were found. Use the AC Voltage or the AC Current source to add an AC value to the circuit.
+loc:Es wurden keine Quellen mit AC-Parametern gefunden. Verwenden Sie die Wechselspannungs- oder Wechselstromquelle, um der Schaltung einen AC-Wert hinzufügen.
+eng:Node '%1!%s!' referenced in voltage expression/controlled source does not exist in scope
+loc:Der im Spannungsausdruck/in der geregelten Quelle verwendete Knotenpunkt '%1!%s!' ist nicht vorhanden
+eng:Not enough component references, expected at least %1!%d!
+loc:Nicht genügend Verweise auf Bauelemente. Mindestens %1!%d! erwartet.
+eng:Not enough nodes found
+loc:Nicht genügend Knotenpunkte gefunden
+eng:Not enough operands for mathematical operator '%1!%s!'. Expected %2!%d! but found only %3!%d! in '%4!%s!'
+loc:Nicht genügend Operanden für mathematischen Operator '%1!%s!'. %2!%d! erwartet, jedoch lediglich %3!%d! in '%4!%s!' gefunden
+eng:Not enough parameters for '%1!%s!'. Expected %2!%d! but found only %3!%d! in '%4!%s!'
+loc:Nicht genügend Parameter für '%1!%s!'. %2!%d! erwartet, jedoch lediglich %3!%d! in '%4!%s!' gefunden
+eng:Not enough parameters for function '%1!%s!'. Expected %2!%d! but found only %3!%d! in '%4!%s!'
+loc:Nicht genügend Parameter für Funktion '%1!%s!'. %2!%d! erwartet, jedoch lediglich %3!%d! in '%4!%s!' gefunden
+eng:Not enough terminals for device type '%1!%s!'
+loc:Nicht genügend Anschlüsse für Gerätetyp '%1!%s!'.
+eng:Not enough voltage/current input source parameters for controlled source table in '%1!%s!'
+loc:Nicht genügend Spannungs-/Stromsignalquellenparameter der Tabelle für die geregelte Quelle in '%1!%s!'
+eng:Parallel voltage sources found: %1!%s!.
+loc:Parallele Spannungsquellen gefunden: %1!%s!.
+eng:Parameter '%1!%s!'
+loc:Parameter '%1!%s!'
+eng:Parameter '%1!%s!' in %2!%s!
+loc:Parameter '%1!%s!' in %2!%s!
+eng:Parameter '%1!%s!' is missing default value, 0 is assumed.
+loc:Parameter '%1!%s!' hat keinen Standardwert. Es wird von 0 ausgegangen.
+eng:Parameter '%1!%s!' is missing value after '='
+loc:Parameter '%1!%s!' hat keinen Wert nach '='
+eng:Parameter number %1!%d! '%2!%s!' will be ignored.
+loc:Parameter Nr. %1!%d! '%2!%s!' wird nicht berücksichtigt.
+eng:Parameter type mismatch, expected a value for '%1!%s!', default value of 1 will be used
+loc:Parametertyp passt nicht. Erwartet wurde ein Wert für '%1!%s!'. Standardwert 1 wird verwendet.
+eng:Quotation marks cannot be placed around part of an expression '%1!%s!'
+loc:Anführungszeichen können nicht um einen Teil eines Ausdrucks gesetzt werden: '%1!%s!'
+eng:Recursive reference of function '%1!%s!'
+loc:Rekursive Referenz auf die Funktion '%1!%s!'
+eng:Recursive reference of variable '%1!%s!'
+loc:Rekursive Referenz auf die Variable '%1!%s!'
+eng:Redefinition of subckt '%1!%s!'. Second definition ignored.
+loc:Neudefinition von subckt '%1!%s!'. Zweite Definition nicht berücksichtigt.
+eng:RefDes '%1!%s!', element '%2!%s!':  %3!%s!
+loc:Refbez '%1!%s!', Element '%2!%s!':  %3!%s!
+eng:Series current sources found: %1!%s!.
+loc:In Reihe geschaltete Stromquellen gefunden: %1!%s!.
+eng:Shorted voltage sources found: %1!%s!.
+loc:Kurzgeschlossene Spannungsquellen gefunden: %1!%s!.
+eng:Subckt name '%1!%s!' is used twice in the same scope
+loc:Subckt-Bezeichnung '%1!%s!' wird im selben Bereich zweimal verwendet
+eng:Syntax error on .FUNC line. Expected: <userDefinedFunctionName>(<param1>,<param2>, ...) followed by a value expression
+loc:Syntaxfehler in Zeile .FUNC. Erwartet: <userDefinedFunctionName>(<param1>,<param2>, ...) gefolgt von einem Werteausdruck
+eng:Ternary '?' with unmatched ':'
+loc:Ternär '?' ohne dazugehöriges ':'
+eng:The component name '%1!%s!' is used twice in the same subckt - the second copy has been renamed to '%2!%s!'
+loc:Der Bauelementname '%1!%s!' wird zweimal in derselben Teilschaltung verwendet. Das zweite Exemplar wurde daher in '%2!%s!' umbenannt.
+eng:The parameter '%1!%s!' is an alias for parameter '%2!%s!' which has already been assigned; the value of '%2!%s!' will be overwritten
+loc:Der Parameter '%1!%s!' ist ein Alias für den Parameter '%2!%s!', der bereits zugeordnet wurde. Der Wert '%2!%s!' wird daher überschrieben.
+eng:The subcircuit '%1!%s!' is recursive. The .subckt instance '%2!%s!' will be omitted from the simulation.
+loc:Die Teilschaltung '%1!%s!' ist rekursiv. Das .subckt-Exemplar '%2!%s!' wird aus der Simulation ausgenommen.
+eng:The value of parameter '%1!%s!' defined in %2!%s! is being overridden by the value of parameter '%1!%s!' defined in %3!%s!.
+loc:Der Wert des Parameters '%1!%s!', der in %2!%s! definiert ist, wird durch den Wert des Parameters '%1!%s!' überschrieben, der in %3!%s! definiert ist.
+eng:This type of device needs %1!%d! terminal(s) but only %2!%d! terminal(s) of appropriate type were found
+loc:Dieser Gerätetyp benötigt %1!%d! Anschlüsse, es wurden jedoch nur %2!%d! Anschlüsse des richtigen Typs gefunden
+eng:This type of device needs %1!%d! terminals but %2!%d! were found
+loc:Dieser Gerätetyp erfordert %1!%d! Anschlüsse, es wurden jedoch nur %2!%d! gefunden
+eng:Too many arguments for function '%1!%s!'
+loc:Zu viele Argumente für Funktion '%1!%s!'
+eng:Too many nodes found
+loc:Zu viele Knotenpunkte gefunden
+eng:Too many terminals for device type '%1!%s!'
+loc:Zu viele Anschlüsse für Gerätetyp '%1!%s!'.
+eng:Two subckts have been created with the same name ('%1!%s!'). Remove or rename one of them to fix this error.
+loc:Es wurden zwei Teilschaltungen mit dem gleichen Namen ('%1!%s!') erzeugt. Löschen Sie eine davon, um den Fehler zu beheben.
+eng:Unable to identify XSPICE code model for simulation in netlist element '%1!%s!'
+loc:XSPICE-Code-Modell kann nicht zur Simulation im Netzlistenelement '%1!%s!' identifiziert werden
+eng:Unable to interpret '%1!%s!'
+loc:Kann '%1!%s!' nicht interpretieren
+eng:Unable to interpret '%1!%s!' in expression
+loc:Kann '%1!%s!' nicht interpretieren in Ausdruck
+eng:Unable to interpret syntax of controlled source '%1!%s!'
+loc:Kann Syntax der geregelten Quelle '%1!%s!' nicht interpretieren
+eng:Unable to locate Voltage or Current expression in BSource.
+loc:Spannungs- oder Stromausdruck in BSource nicht auffindbar.
+eng:Unable to parse model/subckt name
+loc:Modell-/Teilschaltungsname kann nicht geparst werden
+eng:Unable to parse model/subckt nodes starting at '%1!%s!'
+loc:Kann Modell-/Teilschaltungsknotenpunkte mit Beginn '%1!%s!' nicht parsen
+eng:Unable to parse parameter name
+loc:Kann Parameterbezeichnung nicht parsen
+eng:Unexpected "%1!%s!" found in protected netlist.
+loc:Unerwartetes "%1!%s!" in geschützter Netzliste gefunden.
+eng:Unexpected '%1!%s!' found after '%2!%s!'
+loc:Unerwartetes '%1!%s!' nach '%2!%s!' gefunden
+eng:Unexpected '%1!%s!' found in function '%2!%s!'
+loc:Unerwartetes '%1!%s!' in Funktion '%2!%s!' gefunden
+eng:Unexpected '%1!%s!' found on subckt instance line - too many nodes or parameter value missing name. 
+loc:Unerwartet '%1!%s!' in der Subckt-Instanzzeile gefunden - zu viele Knotenpunkte oder Parameterwerte ohne Bezeichnung. 
+eng:Unexpected end-of-line found in function '%1!%s!'
+loc:Unerwartetes Zeilenende in Funktion '%1!%s!' gefunden
+eng:Unknown component parameter '%1!%s!', this parameter will be ignored.
+loc:Unbekannter Bauelementparameter '%1!%s!'. Parameter wird nicht berücksichtigt.
+eng:Unknown controlled source table syntax in '%1!%s!'
+loc:Unbekannte Tabellensyntax in '%1!%s!' für eine geregelte Spannungs- oder Stromquelle
+eng:Unknown function (or incorrect number of arguments) '%1!%s!' used in expression
+loc:Unbekannte Funktion (oder falsche Anzahl an Argumenten) '%1!%s!' in Ausdruck verwendet
+eng:Unknown level number '%1!%s!' found in '%2!%s!', using default ('%3!%s!')
+loc:Unbekannte Ebenenzahl '%1!%s!' gefunden in '%2!%s!', verwende Voreinstellungswert ('%3!%s!')
+eng:Unknown model parameter '%1!%s!', this parameter will be ignored.
+loc:Unbekannter Modellparameter '%1!%s!'. Parameter wird nicht berücksichtigt.
+eng:Unknown model type '%1!%s!' in model '%2!%s!'
+loc:Unbekannter Modelltyp '%1!%s!' in Modell '%2!%s!'
+eng:Unknown symbol '%1!%s!' used in expression
+loc:Unbekanntes Symbol '%1!%s!' in Ausdruck verwendet
+eng:Unknown syntax type '%1!%s!' in .PARAM_NAMESPACE_BEGIN statement
+loc:Unbekannter Syntaxtyp '%1!%s!' in .PARAM_NAMESPACE_BEGIN-Anweisung
+eng:Unknown syntax type '%1!%s!' in .SYNTAX statement
+loc:Unbekannter Syntaxtyp '%1!%s!' in .SYNTAX-Anweisung
+eng:Unknown variable '%1!%s!' used in expression
+loc:Unbekannte Variable '%1!%s!' in Ausdruck verwendet
+eng:Unmatched ".ENDS" statement
+loc:.ENDS-Anweisung ohne Gegenstück
+eng:Unmatched .PARAM_NAMESPACE_END statement
+loc:.PARAM_NAMESPACE_END-Anweisung ohne Gegenstück
+eng:Unrecognized syntax for FREQ source, unable to interpret '%1!%d!'
+loc:Kann Syntax für FREQ-Quelle nicht erkennen und daher '%1!%d!' nicht interpretieren.
+eng:Unrecognized syntax for LAPLACE source 
+loc:Kann Syntax für LAPLACE-Quelle nicht erkennen 
+eng:Unsupported SPICE device type '%1!%s!'
+loc:SPICE-Gerätetyp '%1!%s!' nicht unterstützt
+eng:Unsupported component prefix type '%1!%s!'
+loc:Bauelementpräfixtyp '%1!%s!' nicht unterstützt
+eng:Unsupported mathematical function '%1!%s!'
+loc:Mathematische Funktion '%1!%s!' nicht unterstützt
+eng:Unsupported model type '%1!%s!'
+loc:Modelltyp '%1!%s!' nicht unterstützt
+eng:Use of log() is ambiguous, simulation will treat this as ln() in this case. See the "Mathematical Expressions" section in the Multisim SPICE manual for details
+loc:Wenn log() nicht eindeutig ist, wird der Ausdruck als ln() interpretiert. Einzelheiten finden Sie im Abschnitt "Mathematische Ausdrücke" des Multisim-SPICE-Handbuchs.
+eng:Use of log() is ambiguous, simulation will treat this as log10() in this case. See the "Mathematical Expressions" section in the Multisim SPICE manual for details
+loc:Wenn log() nicht eindeutig ist, wird der Ausdruck als log10() interpretiert. Einzelheiten finden Sie im Abschnitt "Mathematische Ausdrücke" des Multisim-SPICE-Handbuchs.
+eng:Value out of range when evaluating expression '%1!%s!'
+loc:Wert außerhalb der Toleranz bei Berechnung des Ausdrucks '%1!%s!'
+eng:Voltage source loop found: %1!%s!.
+loc:Spannungsquellenschleife in %1!%s! gefunden.
+eng:Warning: %1!%s!
+loc:Warnung: %1!%s!
+eng:Wrong number of arguments for user-defined function '%1!%s!' used in expression
+loc:Falsche Argumentanzahl für benutzerdefinierte Funktion '%1!%s!' in Ausdruck verwendet
+eng:a parent circuit
+loc:eine übergeordnete Schaltung
+eng:node %1!%s!
+loc:Knoten %1!%s!

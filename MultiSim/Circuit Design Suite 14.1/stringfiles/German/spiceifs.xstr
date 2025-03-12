@@ -1,0 +1,80 @@
+﻿// Multisim string file
+// This file is assumed to be UTF-8
+eng:%s might not be properly connected
+loc:%s kann möglicherweise nicht ordnungsgemäß verbunden werden.
+eng:%s simulation interrupted\n
+loc:%s Simulation unterbrochen\n
+eng:%s simulation(s) canceled\n
+loc:%s Simulation(en) abgebrochen\n
+eng:Do Analyses
+loc:Analysieren
+eng:Fourier analysis for %s:\n
+loc:Fourier-Analyse für %s:\n
+eng:Frequency
+loc:Frequenz
+eng:Input impedance
+loc:Eingangsimpedanz
+eng:Input or output shorted
+loc:Eingang oder Ausgang kurzgeschlossen
+eng:LIST pole: (%g,%g) x %d
+loc:LIST-Polstelle: (%g,%g) x %d
+eng:LIST zero: (%g,%g) x %d
+loc:LIST-Nullstelle: (%g,%g) x %d
+eng:Losing old state for circuit '%s'\n
+loc:Bisherigen Status von Schaltung '%s' verloren\n
+eng:Magnitude
+loc:Betrag
+eng:No such circuit \n
+loc:Keine solche Schaltung \n
+eng:Norm. Mag
+loc:Norm. Betrag
+eng:Norm. Phase
+loc:Norm. Phase
+eng:Output impedance
+loc:Ausgangsimpedanz
+eng:Output impedance at %s
+loc:Ausgangsimpedanz bei %s
+eng:Phase
+loc:Phase
+eng:Resuming run in progress.\n
+loc:Laufender Vorgang wird fortgesetzt.\n
+eng:Simulation canceled\n
+loc:Simulation abgebrochen\n
+eng:Singular matrix. %s
+loc:Singuläre Matrix. %s
+eng:Singular matrix. %s. <a href="http://digital.ni.com/express.nsf/bycode/exjh9e" target="_blank">Read more</a>.
+loc:Singuläre Matrix. %s. <a href="http://digital.ni.com/express.nsf/bycode/exjh9e" target="_blank">Weitere Informationen</a>.
+eng:Transfer function
+loc:Übertragungsfunktion
+eng:Transfer function is -1
+loc:Übertragungsfunktion hat den Faktor -1
+eng:Transfer function is unity
+loc:Übertragungsfunktion hat den Faktor 1
+eng:Transfer function operating point analysis failed.
+loc:Arbeitspunktanalyse der Übertragungsfunktion ist fehlgeschlagen.
+eng:Transfer function source %s not in circuit
+loc:Übertragungsfunktionsquelle %s befindet sich nicht in der Schaltung
+eng:Transmission lines not supported by pole-zero
+loc:Pol- und Nullstellenanalyse unterstützt keine Übertragungsleitungen.
+eng:Unable to converge during transient analysis. Consider increasing the ABSTOL, VNTOL, and RELTOL options.
+loc:Bei der Transientenanalyse konnte keine Konvergenz erzielt werden. Erhöhen Sie ggf. ABSTOL, VNTOL und RELTOL.
+eng:Unable to converge during transient analysis. Consider increasing the ABSTOL, VNTOL, and RELTOL options. <a href="http://digital.ni.com/express.nsf/bycode/exv9db" target="_blank">Read more</a>
+loc:Bei der Transientenanalyse konnte keine Konvergenz erzielt werden. Erhöhen Sie ggf. ABSTOL, VNTOL und RELTOL. <a href="http://digital.ni.com/express.nsf/bycode/exv9db" target="_blank">Weitere Informationen</a>
+eng:\tDC component:\t%s\n
+loc:\tDC-Bauelement:\t%s\n
+eng:\tFourier analysis for\t%s\n
+loc:\tFourier-Analyse für\t%s\n
+eng:\tGrid size:\t%d\n
+loc:\tRastergröße:\t%d\n
+eng:\tHarmonic\t%s\t%s\t%s\t%s\t%s\n
+loc:\tOberschwingung\t%s\t%s\t%s\t%s\t%s\n
+eng:\tInterpolation Degree:\t%d\n
+loc:\tInterpolationsgrad:\t%d\n
+eng:\tNo. Harmonics:\t%d\n
+loc:\tAnz. Oberschwingungen:\t%d\n
+eng:\tTHD:\t%g %%\n
+loc:\tTHD:\t%g %%\n
+eng:pole(%-u)
+loc:Polstelle(%-u)
+eng:zero(%-u)
+loc:Nullstelle(%-u)

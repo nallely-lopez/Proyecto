@@ -1,0 +1,102 @@
+# NI Licenses,
+NIStandardReleased,eula-ni-standard
+NISampleCode,eula-ni-samplecode
+NISACPrerelease,eula-ni-sac-prerelease
+NIVST,eula-ni-vst
+NIFPGABuilder,eula-ni-fpga-builder
+NIStandardReleased_TIA,eula-ni-tia
+NI-LVComms,eula-ni-lv-comms
+NI-TIA_Rational,eula-ni-tia-rational
+NIMeasure,eula-ni-measure
+NIInsightCM,eula-ni-insightcm
+NIInsightCMDataExplorerAddendum,eula-ni-insightcm-dataexplorer
+NIInsightCMSDKAddendum,eula-ni-insightcm-sdk
+NIRFFastACP,eula-ni-rf-fastacp
+DIAdem,eula-ni-diadem
+MathInterfaceToolkit,eula-ni-mathinterface-toolkit
+LVComms80211,eula-ni-lv-comms-802.11
+LVCommsLTE,eula-ni-lv-comms-lte
+LVLEGOToolkit,eula-ni-lv-lego-toolkit
+LVMicroprocessor,eula-ni-lv-microprocessor
+LVSimulationInterfaceToolkit,eula-ni-lv-simulation-interface-toolkit
+LVSimulationModule,eula-ni-lv-simulation-module
+LVPDATPC,eula-ni-lv-pdatpc
+LVPDATPC_Addendum,eula-ni-lv-pdatpc-addendum
+Multisim ADI,eula-ni-multisim-adi
+Multisim Mouser,eula-ni-multisim-mouser
+Ultiboard Evaluation,eula-ni-ultiboard-evaluation
+DASYLab,eula-ni-dasylab
+MStudio,eula-ni-mstudio
+MATRIXx,eula-ni-matrixx
+NILabs,eula-ni-labs
+LVFPGASpartan-3E,eula-ni-lv-fpga-spartan-3e
+FIRST Team Competition,eula-ni-first-team-competition
+VeriStand,eula-ni-veristand
+FlexRIO Module,eula-ni-flexrio
+FlexRIO MDK,eula-ni-flexrio-mdk
+cRIO MDK,eula-ni-crio-mdk
+Biomedical Startup Kit,eula-ni-biomedical-startupkit
+Biomedical Toolkit,eula-ni-biomedical-toolkit
+Biomedical Startup Kit Source Code,eula-ni-biomedical-startupkit-sourcecode
+Real-Time Hypervisor,eula-ni-realtimehypervisor
+DataFinderSE,eula-ni-datafinderse
+LVWSN,eula-ni-lv-wsn
+RT USB,eula-ni-rt-usb
+NI-USRP,eula-ni-usrp
+LVInternetToolkit,eula-ni-lv-internet-toolkit
+LVSharedVariableViewerAndroid,eula-ni-lv-sharedvariableviewer-android
+OscilloscopeInstrumentDesignLibrary,eula-ni-oscilloscope-idl
+CPRIInstrumentDesignLibrary,eula-ni-cpr-idl
+VSAInstrumentDesignLibrary,eula-ni-vsa-idl
+FlexRIOInstrumentDesignLibrary,eula-ni-flexrio-idl
+HSSIInstrumentDesignLibrary,eula-ni-hss-idl
+IFDigInstrumentDesignLibrary,eula-ni-ifdig-idl
+,
+# Microsoft Licenses,
+DotNet452Visible,eula-ms-dotnet-4.5.2
+DotNet461Visible,eula-ms-dotnet-4.6.1
+MSXML4,eula-ms-msxml-4.0
+MSXML60,eula-ms-msxml-6.0
+DirectX90,eula-ms-directx-9.0
+ActiveSync,eula-ms-activesync
+Device Emulator,eula-ms-device-emulator
+Pocket PC 2003,eula-ms-pocketpc-2003
+Smartphone 2003,eula-ms-smartphone-2003
+Windows Mobile 5.0,eula-ms-windowsmobile-5.0
+Windows Mobile 6.0,eula-ms-windowsmobile-6.0
+MSSQL 2008R2 Client,eula-ms-sqlserver-2008r2-client
+MSSQL 2012 Client,eula-ms-sqlserver-2012-client
+MicrosoftWindowsSDK6300Custom,eula-ms-windowssdk-6.3.0.0-custom
+,
+# Other Third-Party Licenses,
+LEGOMindstorms,eula-lego-mindstorms
+DigilentAdept,eula-digilent-adept
+IVI,eula-ivi
+HI-TECH,eula-hi-tech
+Microchip,eula-microchip
+MicrochipHiTechCombined,eula-microchip-hi-tech
+GPIB-488,eula-gpib-488
+Luminary Micro,eula-luminary-micro
+LEGOWeDo,eula-lego-wedo
+LEGODEP,eula-lego-dep
+Keil,eula-keil
+Cypress PSOC,eula-cypress-psoc
+Cypress Software,eula-cypress-software
+PXImc Shared Component,eula-pximc-shared-component
+TICodeComposer,eula-ticodecomposer
+JKI_VIPM,eula-jki-vimp
+XilinxTools,eula-xilinx-tools
+XilinxISE,eula-xilinx-ise
+Xilinx Third Party,eula-xilinx-thirdparty
+XilinxISE14.7,eula-xilinx-ise-14.7
+XilinxThirdParty14.7,eula-xilinx-thirdparty-14.7
+XilinxVivado2013.4,eula-xilinx-vivado-2013.4
+XilinxVivado2014.3,eula-xilinx-vivado-2014.3
+XilinxThirdParty2013.4,eula-xilinx-thirdparty-2013.4
+XilinxThirdParty2014.3,eula-xilinx-thirdparty-2014.3
+,
+# Silverlight,
+Silverlight_4.0.51204.0,eula-ms-silverlight-4.0
+SilverlightPrivacy_4.0.51204.0,eula-ms-silverlight-privacy-4.0
+Silverlight_5.0,eula-ms-silverlight-5.0
+SilverlightPrivacy_5.0,eula-ms-silverlight-privacy-5.0

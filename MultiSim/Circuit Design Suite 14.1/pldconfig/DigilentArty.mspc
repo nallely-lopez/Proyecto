@@ -1,0 +1,187 @@
+<PLDConfiguration Version="1.1">
+	<Component Name="Digilent Arty" PartNumber="XC7A35T" Version="1.0" OpVoltageInput="3.3" OpVoltageOutput="3.3" OpVoltageBidirectional="3.3" BoardId="ddeef62f-fbbb-4423-9f51-e6363b944286">
+		<DeviceList BoardName="Digilent Arty">
+			<XilinxDevice Manufacturer="Xilinx" Family="Artix-7" Device="XC7A35T" Package="ICSG324" Speed="-1L" DeviceOffset="1" DeviceId="00010001110000010000000010010011" Ucf="DigilentArty.xdc" />
+		</DeviceList>
+		<ProgrammingProperties>
+			<Interface CableTarget="digilent_plugin"/>
+		</ProgrammingProperties>
+		<Pins Locked="1">   			
+			<Pin Name="CLK100MHZ" Mode="in" Location="left" Place="0" />			
+
+			<Pin Name="sw0" Mode="in" Location="left" Place="1" />
+			<Pin Name="sw1" Mode="in" Location="left" Place="1" />
+			<Pin Name="sw2" Mode="in" Location="left" Place="1" />
+			<Pin Name="sw3" Mode="in" Location="left" Place="1" />
+			
+			<Pin Name="led0_b" Mode="out" Location="right" Place="1" />
+			<Pin Name="led0_g" Mode="out" Location="right" Place="1" />
+			<Pin Name="led0_r" Mode="out" Location="right" Place="1" />
+			<Pin Name="led1_b" Mode="out" Location="right" Place="1" />
+			<Pin Name="led1_g" Mode="out" Location="right" Place="1" />
+			<Pin Name="led1_r" Mode="out" Location="right" Place="1" />
+			<Pin Name="led2_b" Mode="out" Location="right" Place="1" />
+			<Pin Name="led2_g" Mode="out" Location="right" Place="1" />
+			<Pin Name="led2_r" Mode="out" Location="right" Place="1" />
+			<Pin Name="led3_b" Mode="out" Location="right" Place="1" />
+			<Pin Name="led3_g" Mode="out" Location="right" Place="1" />
+			<Pin Name="led3_r" Mode="out" Location="right" Place="1" />					
+
+			<Pin Name="led0" Mode="out" Location="right" Place="1" />
+			<Pin Name="led1" Mode="out" Location="right" Place="1" />
+			<Pin Name="led2" Mode="out" Location="right" Place="1" />
+			<Pin Name="led3" Mode="out" Location="right" Place="1" />							
+
+			<Pin Name="btn0" Mode="in" Location="left" Place="1" />
+			<Pin Name="btn1" Mode="in" Location="left" Place="1" />
+			<Pin Name="btn2" Mode="in" Location="left" Place="1" />
+			<Pin Name="btn3" Mode="in" Location="left" Place="1" />						
+
+			<Pin Name="ja0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja6" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ja7" Mode="bidir" Location="left" Place="0" />						
+
+			<Pin Name="jb0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jb1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jb2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jb3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jb4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jb5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jb6" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jb7" Mode="bidir" Location="left" Place="0" />						
+
+			<Pin Name="jc0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jc1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jc2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jc3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jc4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jc5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jc6" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jc7" Mode="bidir" Location="left" Place="0" />							
+
+			<Pin Name="jd0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jd1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jd2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jd3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jd4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jd5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jd6" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="jd7" Mode="bidir" Location="left" Place="0" />
+
+			<Pin Name="uart_rxd_out" Mode="in" Location="left" Place="0" />
+			<Pin Name="uart_txd_in" Mode="out" Location="left" Place="0" />						
+
+			<Pin Name="ck_an_n0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_p0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_n1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_p1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_n2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_p2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_n3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_p3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_n4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_p4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_n5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_an_p5" Mode="bidir" Location="left" Place="0" />						
+
+			<Pin Name="ck_io0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io3" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io4" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io5" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io6" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io7" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io8" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io9" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io10" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io11" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io12" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io13" Mode="bidir" Location="left" Place="0" />							
+
+			<Pin Name="ck_io14" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io15" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io16" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io17" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io18" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io19" Mode="bidir" Location="left" Place="0" />
+												
+			<Pin Name="ck_io20" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io21" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io22" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io23" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io24" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io25" Mode="bidir" Location="left" Place="0" />						
+
+			<Pin Name="ck_io26" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io27" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io28" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io29" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io30" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io31" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io32" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io33" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io34" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io35" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io36" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io37" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io38" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io39" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io40" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="ck_io41" Mode="bidir" Location="left" Place="0" />
+						
+			<Pin Name="ck_miso" Mode="in" Location="left" Place="0" />
+			<Pin Name="ck_mosi" Mode="out" Location="left" Place="0" />
+			<Pin Name="ck_sck" Mode="out" Location="left" Place="0" />
+			<Pin Name="ck_ss" Mode="out" Location="left" Place="0" />							
+
+			<Pin Name="ck_scl" Mode="out" Location="left" Place="0" />
+			<Pin Name="ck_sda" Mode="out" Location="left" Place="0" />
+			<Pin Name="scl_pup" Mode="out" Location="left" Place="0" />
+			<Pin Name="sda_pup" Mode="out" Location="left" Place="0" />							
+
+			<Pin Name="ck_ioa" Mode="out" Location="left" Place="0" />
+			<Pin Name="ck_rst" Mode="bidir" Location="left" Place="0" />						
+
+			<Pin Name="eth_col" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_crs" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_mdc" Mode="out" Location="left" Place="0" />
+			<Pin Name="eth_mdio" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="eth_ref_clk" Mode="out" Location="left" Place="0" />
+			<Pin Name="eth_rstn" Mode="out" Location="left" Place="0" />
+			<Pin Name="eth_rx_clk" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_rx_dv" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_rxd0" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_rxd1" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_rxd2" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_rxd3" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_rxerr" Mode="in" Location="left" Place="0" />
+			<Pin Name="eth_tx_clk" Mode="out" Location="left" Place="0" />
+			<Pin Name="eth_tx_en" Mode="out" Location="left" Place="0" />
+			<Pin Name="eth_txd0" Mode="out" Location="left" Place="0" />
+			<Pin Name="eth_txd1" Mode="out" Location="left" Place="0" />
+			<Pin Name="eth_txd2" Mode="out" Location="left" Place="0" />
+			<Pin Name="eth_txd3" Mode="out" Location="left" Place="0" />							
+
+			<Pin Name="qspi_cs" Mode="out" Location="left" Place="0" />
+			<Pin Name="qspi_dq0" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="qspi_dq1" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="qspi_dq2" Mode="bidir" Location="left" Place="0" />
+			<Pin Name="qspi_dq3" Mode="bidir" Location="left" Place="0" />							
+
+			<Pin Name="vsnsvu_n" Mode="in" Location="left" Place="0" />
+			<Pin Name="vsnsvu_p" Mode="in" Location="left" Place="0" />
+			<Pin Name="vsns5v0_n" Mode="in" Location="left" Place="0" />
+			<Pin Name="vsns5v0_p" Mode="in" Location="left" Place="0" />
+			<Pin Name="isns5v0_n" Mode="in" Location="left" Place="0" />
+			<Pin Name="isns5v0_p" Mode="in" Location="left" Place="0" />
+			<Pin Name="isns0v95_n" Mode="in" Location="left" Place="0" />
+			<Pin Name="isns0v95_p" Mode="in" Location="left" Place="0" />								
+        </Pins>
+	</Component>
+</PLDConfiguration>
